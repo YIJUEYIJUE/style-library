@@ -1,0 +1,983 @@
+window.STYLE_DATA = {
+ "generatedAt": "2026-07-20",
+ "source": "飞书多维表格《风格资产库自用 副本》",
+ "categories": [
+  {
+   "key": "shengtu",
+   "name": "生图风格",
+   "sub": "模板",
+   "count": 33,
+   "items": [
+    {
+     "title": "AI真人 风格的提示词结构如下：",
+     "titleFull": "AI真人 风格的提示词结构如下：\n🎬 基础结构：\n[主体描述] + [风格触发词]\n📝 示例提示词（写实人物）：\nA beautiful young Chinese woman with long flowing black hair, wearing elegant traditional Chinese hanfu, standing in a misty bamboo forest, soft natural lighting, cinematic composition, authentic facial features, natural makeup, gentle expression, high-end film photography style, 8K resolution, ultra detailed, photorealistic, cinematic lighting\n💡 使用方法：\n主体描述：替换为您想创作的人物（如：a handsome man in suit, an elegant lady in qipao, a warrior in ancient armor等）\n建议垫图：提供一张参考图可以让效果更真实（这个风格建议使用垫图功能）\n保留风格触发词：复制下面的完整风格参数\n✨ 完整风格触发词：\nChinese Star's Photos, Chinese People, Realistic Human Face, A Celebrity Face, Authentic and Natural, facial_aesthetics: \"Realistic Human Face, Chinese Cinema sculpt facial standard, guofengCinema, xianxia Cinema animation aesthetic, Cinema quality, Realistic surface materials with varying textures and layers, fine textures with roughness variation, gloss maps, and microscopic surface imperfections. Realistic and natural translucency on organic surfaces, accurate reflection and refraction effects responding to physical laws. PBR materials with metallic workflow, anisotropic reflections on brushed surfaces, subsurface scattering on skin and plant matter. Avoid flat shaders or plastic-like surfaces; materials must show wear, oxidation, and environmental storytelling. grounded physical presence with atmospheric depth. Strong sense of spatial depth and layering, natural depth of field with optical lens falloff, atmospheric haze and volumetric light scattering unifying character and environment. Natural shadows with contact occlusion and soft penumbra, high dynamic range lighting with natural color temperature variation. Photorealistic rendering with optical lens imperfections: chromatic aberration, subtle barrel distortion, film grain texture. Remove illustration features, no flat colors, no vector outlines, no hand-drawn or graphic textures. Final image must present hyper-detailed cinematic character visualization, heroic silhouette design, unprocessed RAW capture aesthetic with integrated atmospheric haze\"\n⚠️ 负向提示词：\nWestern Humans, CG person, CG Digital Human, Unreal, unnatural, messy background, bright colors, accessories, deformed features, natural muscle definition, organic texture, cartoon, anime, cartoon face, big eyes, messy background, bright colors, accessories, deformed features\n🎯 适用场景：\nAI写真\n古风人像\n电影级人像\n明星级写实人像\n角色海报\n虚拟偶像\n💎 风格特点：\n真实的人脸特征\n自然的皮肤质感\n电影级的光影效果\n摄影级别的画质\n避免CG感和卡通效果",
+     "desc": "GPT",
+     "images": [
+      "assets/img_0.jpg",
+      "assets/img_1.jpg"
+     ]
+    },
+    {
+     "title": "游戏CG 风格的提示词结构如下：",
+     "titleFull": "游戏CG 风格的提示词结构如下：\n🎮 基础结构：\n[主体描述] + [风格触发词]\n📝 示例提示词（角色）：\nA beautiful Chinese female warrior, flowing silk robes with intricate embroidery, holding a ancient sword, standing on a cliff edge overlooking misty mountains, xianxia aesthetic, heroic pose, cinematic lighting, Unreal Engine 5 rendering, path tracing, hyper-detailed, volumetric fog, dramatic sunset lighting, Chinese fantasy art style, 8K, masterpiece\n负向提示词（避免）：\nwestern facial features, real person, natural, organic texture, messy background, bright colors, accessories, deformed features, soft skin, natural muscle definition, cartoon, anime, cartoon face, big eyes\n\n💡 使用方法：\n\n主体描述：替换为您想创作的角色或场景（如：a cute fox spirit, a powerful swordsman, an ancient Chinese palace等）\n保留风格触发词：复制下面的完整风格参数\n负向提示词：帮助避免不想要的元素\n✨ 完整风格触发词：\nChinese CG sculpt facial standard, guofengcg, xianxia 3D animation aesthetic, Perfect World animation quality, Mortal Journey UE5 rendering style, Realistic surface materials with varying textures and layers, fine textures with roughness variation, gloss maps, and microscopic surface imperfections. Realistic and natural translucency on organic surfaces, accurate reflection and refraction effects responding to physical laws. PBR materials with metallic workflow, anisotropic reflections on brushed surfaces, subsurface scattering on skin and plant matter. Avoid flat shaders or plastic-like surfaces; materials must show wear, oxidation, and environmental storytelling. Grounded physical presence with atmospheric depth. Strong sense of spatial depth and layering, natural depth of field with optical lens falloff, atmospheric haze and volumetric light scattering unifying character and environment. Natural shadows with contact occlusion and soft penumbra, high dynamic range lighting with natural color temperature variation. Photorealistic rendering with optical lens imperfections: chromatic aberration, subtle barrel distortion, film grain texture, and lens flare ghosts. Remove illustration features, no flat colors, no vector outlines, no hand-drawn or graphic textures. Final image must present hyper-detailed cinematic 3D character visualization, heroic silhouette design, unprocessed RAW capture aesthetic with integrated atmospheric haze, as if rendered in Unreal Engine 5 with path tracing\n\n⚠️ 负向提示词：\nwestern facial features, real person, natural, organic texture, messy background, bright colors, accessories, deformed features, soft skin, natural muscle definition, organic texture, cartoon, anime, cartoon face, big eyes, messy background, bright colors, accessories, deformed features\n\n🎯 适用场景：\n\n游戏角色立绘\n仙侠/古风角色\n电影级写实角色\n幻想生物设计\n史诗级场景\n💎 风格特点：\n\nUE5级别的渲染效果\n电影级光影效果\n写实的材质纹理\n大气深度感\n高端游戏品质\n细节丰富",
+     "desc": "GPT",
+     "images": [
+      "assets/img_2.jpg",
+      "assets/img_3.jpg"
+     ]
+    },
+    {
+     "title": "3D乙游 风格的提示词结构如下：",
+     "titleFull": "3D乙游 风格的提示词结构如下：\n🎮 基础结构：\n[主体描述] + [风格触发词]\n📝 示例提示词（乙女游戏角色）：\nA beautiful anime-style young woman with long flowing pink hair, sparkling eyes, wearing elegant royal ball gown with sparkling jewels, standing in luxurious palace ballroom, surrounded by golden chandeliers, confident smile, romantic atmosphere, hyper-detailed 3D character visualization, anime game aesthetic\n负向提示词（避免）：\nreal person, soft skin, natural muscle definition, organic texture, cartoon, anime, cartoon face, big eyes, messy background, bright colors, accessories, deformed features\n💡 使用方法：\n主体描述：替换为您想创作的角色（如：a charming prince, a mysterious aristocrat, a cute schoolgirl等）\n保留风格触发词：复制下面的完整风格参数\n负向提示词：帮助保持乙女游戏风格\n✨ 完整风格触发词：\nPerfect anime game character, Otome game 3D render style, hyperrealistic anime aesthetic, detailed anime textures, soft lighting, high-end game quality, PBR materials, Unreal Engine 5 rendering, path tracing, volumetric lighting, soft and flattering angles, romantic atmosphere, beautiful skin texture, detailed hair with individual strands, anime makeup style, expressive eyes, clean background, cinematic composition, 8K resolution, masterpiece\n⚠️ 负向提示词：\nreal person, soft skin, natural muscle definition, organic texture, cartoon, anime, cartoon face, big eyes, messy background, bright colors, accessories, deformed features\n🎯 适用场景：\n乙女游戏角色立绘\n女性向游戏角色\n浪漫风格插画\n精美游戏立绘\n二次元美少年/美少女\n💎 风格特点：\n超写实的动漫美学\n精美的皮肤质感\n柔美华丽的打光\n浪漫温馨的氛围\n高端游戏品质\nUE5级别的渲染效果",
+     "desc": "GPT",
+     "images": [
+      "assets/img_4.jpg",
+      "assets/img_5.jpg"
+     ]
+    },
+    {
+     "title": "2D漫剧 风格的提示词结构如下：",
+     "titleFull": "2D漫剧 风格的提示词结构如下：\n🎨 基础结构：\n[主体描述], 日漫, 天官赐福风格, 一人之下风格, 大理寺日志风格, 百妖谱风格, 仙王的日常生活风格, 二次元画风, 古风, 平涂, 赛璐璐上色, 低饱和度\n📝 示例提示词：\n案例1（古风人物）： 一个身穿汉服的美丽少女，长发飘飘，站在樱花树下，微笑，日漫风格，天官赐福风格，古风，平涂，赛璐璐上色，低饱和度\n案例2（玄幻场景）： 仙侠世界的门派大殿，云雾缭绕，建筑古色古香，弟子们在练功，日漫风格，大理寺日志风格，平涂，赛璐璐上色，低饱和度\n案例3（日常漫剧）： 校园里的四个好朋友在教室聊天，窗外阳光明媚，表情生动，日漫风格，仙王的日常生活风格，二次元画风，平涂，赛璐璐上色，低饱和度\n💡 使用方法：\n只需把「主体描述」部分替换为您想创作的内容（如角色、场景等），然后加上风格标签即可~\n✨ 完整风格标签：\n日漫, 天官赐福风格, 一人之下风格, 大理寺日志风格, 百妖谱风格, 仙王的日常生活风格, 二次元画风, 古风, 平涂, 赛璐璐上色, 低饱和度\n🎯 适用场景：\n古风漫画\n仙侠题材\n玄幻小说改编\n漫剧插画\n二次元角色\n日常漫剧场景\n💎 风格特点：\n日漫风格的平涂上色\n赛璐璐风格的简洁配色\n低饱和度的舒适色调\n古风元素的融合\n适合长篇漫画/漫剧\n人物比例和表情生动\n✨ 与其他风格的区别：\n更注重漫画叙事性\n人物表情更夸张生动\n适合多人场景\n构图更注重镜头感\n色彩更加统一和谐",
+     "desc": "",
+     "images": [
+      "assets/img_6.jpg",
+      "assets/img_7.jpg"
+     ]
+    },
+    {
+     "title": "3D国创 风格的提示词结构如下：",
+     "titleFull": "3D国创 风格的提示词结构如下：\n🎮 基础结构：\n[主体描述], 3D国创风格, 国漫, 古风, 仙侠, 中国风, 次世代建模\n📝 示例提示词：\n案例1（国漫角色）： A beautiful Chinese female cultivator, wearing elegant traditional hanfu with flowing silk ribbons, holding a jade sword, standing in misty mountains, 3D Chinese animation style, xianxia aesthetic, cinematic lighting, Unreal Engine 5, hyper-detailed, volumetric fog, Chinese fantasy art\n案例2（古风场景）： Ancient Chinese palace courtyard, cherry blossoms falling, stone paths and elegant pavilions, traditional architecture, 3D Chinese animation style, volumetric lighting, atmospheric depth, cinematic composition, detailed environment design\n案例3（仙侠风格）： A powerful immortal cultivator in white robes, floating on sword through clouds, energy aura around body, 3D Chinese animation style, xianxia realm, dramatic lighting, epic scene, hyper-detailed, Chinese fantasy\n💡 使用方法：\n只需把「主体描述」部分替换为您想创作的内容（如角色、场景等），然后加上风格标签即可~\n✨ 风格标签组合：\n3D国创风格, 国漫, 古风, 仙侠, 中国风, 次世代建模\n🎯 适用场景：\n国漫角色立绘\n古风仙侠题材\n中国幻想风格\n游戏角色设计\n动画场景",
+     "desc": "",
+     "images": [
+      "assets/img_8.jpg",
+      "assets/img_9.jpg"
+     ]
+    },
+    {
+     "title": "欧美CG 风格的提示词结构如下：",
+     "titleFull": "欧美CG 风格的提示词结构如下：\n🎮 基础结构：\n[主体描述] + [风格触发词]\n📝 示例提示词（游戏角色）：\nA powerful European warrior knight, wearing heavy silver armor with intricate gothic details, holding a massive iron sword, standing in a dark medieval castle throne room, dramatic cinematic lighting, shoulder-height camera angle, hyper-detailed armor textures, weathered battle-worn surfaces, epic heroic pose, photorealistic game CG style\n负向提示词（避免）：\nreal person, soft skin, natural muscle definition, organic texture, cartoon, anime, cartoon face, big eyes, messy background, bright colors, accessories, deformed features\n💡 使用方法：\n主体描述：替换为您想创作的角色（如：a fierce Viking warrior, an elegant elf archer, a mysterious dark sorceress等）\n保留风格触发词：复制下面的完整风格参数\n负向提示词：帮助保持CG质感\n✨ 完整风格触发词：\nphotorealistic game CG, 3D render, hard surface rendering, digital sculpt, slightly rigid facial features, hyperrealistic textures (denim, fabric), cinematic lighting, Unreal Engine 5, 8K, clean character portrait\n⚠️ 负向提示词：\nreal person, soft skin, natural muscle definition, organic texture, cartoon, anime, cartoon face, big eyes, messy background, bright colors, accessories, deformed features\n🎯 适用场景：\n欧美风格游戏角色\n史诗级战争场景\n幻想生物设计\n电影级CG渲染\n3D角色立绘\n💎 风格特点：\n硬表面渲染和数字雕刻感\n轻微僵硬的面部特征（欧美游戏CG特色）\n写实的纹理和材质\nUE5级别的电影级光照",
+     "desc": "",
+     "images": [
+      "assets/img_10.jpg",
+      "assets/img_11.jpg"
+     ]
+    },
+    {
+     "title": "韩系都市 风格的提示词结构如下：",
+     "titleFull": "韩系都市 风格的提示词结构如下：\n🏙️ 基础结构：\n[主体描述], 韩系都市, 韩漫风格, 现代都市, 时尚\n📝 示例提示词：\n案例1（都市丽人）： A beautiful Korean woman with flawless skin, wearing trendy casual outfit, standing in modern Seoul city street, soft natural lighting, korean drama aesthetic, confident pose, high-end fashion, clean and modern atmosphere\n案例2（浪漫场景）： A cute couple holding hands in front of neon-lit cafe in Hongdae, Seoul at night, colorful lights reflecting on wet streets, Korean indie film mood, romantic and cozy atmosphere, soft bokeh background\n案例3（时尚风格）： A stylish young Korean man in designer streetwear, posing in trendy Gangnam district, modern urban background with luxury shops, fashion magazine quality, confident and cool vibe\n💡 使用方法：\n只需把「主体描述」部分替换为您想创作的内容（如人物、场景等），然后加上风格标签即可~\n✨ 风格标签组合：\n韩系都市, 韩漫风格, 现代都市, 时尚\n🎯 适用场景：\n韩系人像\n都市时尚风格\n韩漫插画\nK-pop风格\n浪漫爱情场景\n生活方式内容\n💎 风格特点：\n现代都市氛围\n韩剧美学风格\n清新自然的光感\n时尚感强烈\n适合展现都市生活\n人物形象精致时尚",
+     "desc": "",
+     "images": [
+      "assets/img_12.jpg",
+      "assets/img_13.jpg"
+     ]
+    },
+    {
+     "title": "国风水墨 风格的提示词结构如下：",
+     "titleFull": "国风水墨 风格的提示词结构如下：\n🖌️ 基础结构：\n[主体描述] --stylize 250 --niji 6 --sref 1746513108::1 --profile jjdnw16\n📝 示例提示词：\n案例1（水墨山水）： A majestic mountain landscape with ancient Chinese pavilion on cliff edge, misty clouds swirling around peaks, traditional ink wash painting style, minimalist composition, serene atmosphere, xuan paper texture --stylize 250 --niji 6 --sref 1746513108::1 --profile jjdnw16\n案例2（水墨人物）： A wandering swordsman in traditional Chinese robes, standing on bamboo bridge over misty river, holding a long sword, ink painting aesthetic, dramatic fog, traditional Chinese brushstroke style --stylize 250 --niji 6 --sref 1746513108::1 --profile jjdnw16\n案例3（仙侠场景）： An immortal cultivator flying on sword through misty mountains, flowing white robes, cherry blossoms falling, Chinese ink wash painting style, ethereal and peaceful mood --stylize 250 --niji 6 --sref 1746513108::1 --profile jjdnw16\n💡 使用方法：\n只需把「主体描述」部分替换为您想创作的内容（如山水、人物、场景等），保留后面的风格参数即可~\n✨ 完整风格触发词：\n--stylize 250 --niji 6 --sref 1746513108::1 --profile jjdnw16\n⚠️ 负向提示词：\navoid low quality, blurry, distorted\n🎯 适用场景：\n水墨山水画\n国风人物\n仙侠题材\n传统意境创作\n文人雅士形象\n💎 风格特点：\n传统水墨画的韵味\n素雅清新的色调\n留白的艺术表现\n毛笔笔触的质感\n空灵的意境氛围",
+     "desc": "niji 6",
+     "images": [
+      "assets/img_14.jpg",
+      "assets/img_15.jpg"
+     ]
+    },
+    {
+     "title": "主题 / 角色】，白绢本原作感的当代没骨写意人物水墨，融合高马得式减笔人物、关良式戏…",
+     "titleFull": "【主题 / 角色】，白绢本原作感的当代没骨写意人物水墨，融合高马得式减笔人物、关良式戏曲人物写意、林风眠式淡彩仕女与没骨大写意人物语言，白绢载体，绢面洁白微暖，带细密丝缕纹理与轻微绢丝光泽，墨色与淡彩沉入绢理之中，湿墨晕染、渗化、浸润，人物从墨气中显形，以浓墨、焦墨、宿墨、积墨建立主墨形，墨色沉厚油润，几笔成形，墨块塑形，书法性拖笔，服饰主形不超过三笔，一整条连续墨势贯穿全身，衣袖、裙摆、长发由整段连续湿墨一气带出，笔断意不断、形不断、墨路不断，除面部五官轻提神外其余一律不描边，不做碎片化水墨、不做断续飞白、不做线稿式古风立绘，整体安静、简逸、空灵、疏朗、柔润、低对比，大面积白绢留白，仅少量竹叶 / 梅枝 / 小鸟 / 印章点景",
+     "desc": "gtp",
+     "images": [
+      "assets/img_16.jpg"
+     ]
+    },
+    {
+     "title": "现代东方装饰厚涂肖像风                               …",
+     "titleFull": "现代东方装饰厚涂肖像风                                需要注意的一点是角色的类型会导致人物风格的呈现,需要在【角色/主题】中加入描述                   完整提示词：                                            【角色/主题】仅作为形象参考，保留核心识别点并统一转译为现代东方装饰厚涂肖像风，融合关良式人物概括变形、林风眠式东方抒情装饰感与敦煌矿物色审美。半身神话角色肖像，修长秀雅的东方椭圆脸，五官简练疏朗，面部留白干净，细长上挑眼，神情古雅克制。整体以大色块统摄画面，完整块面建立头发、脸部、服饰与背景的大关系，亮面、灰面、暗面统一清楚，边缘有收有放。采用柔和而明亮的统一光源，整体明度中高，主体面部、颈肩、胸前与上半身受光面清晰干净，人物整体明度明显高于背景。脸部、皮肤、头发精细塑形，眼睛、头饰、肩甲、宝石、金色纹样为主要精绘区；衣摆、披帛与背景写意松动。色彩采用柔赭、浅朱砂、雾石青、柔石绿、浅古金、雾蓝、米白、象牙白等明净矿物色，低饱和但明度适中，华美通透。背景为中明度纸本、丝绢质感或哑光颜料底，可辅以少量图腾、云纹、植物或象征性元素。艺术海报排版，竖排中文标题，画面精美通透、低噪声、暗部纯净、平滑过渡、结构清晰、整体高级。",
+     "desc": "GPT",
+     "images": [
+      "assets/img_17.jpg"
+     ]
+    },
+    {
+     "title": "角色/主题】，东亚书写性线性人物彩色插画，白描骨架，线描主导，写意淡设色，毛笔墨线，…",
+     "titleFull": "【角色/主题】，东亚书写性线性人物彩色插画，白描骨架，线描主导，写意淡设色，毛笔墨线，兼毫笔触，中锋行笔，局部侧锋擦出，飞白笔意，枯笔质感，游丝描发丝，开放式轮廓，断续复线，虚实相生，书写性强，线性优先，笔意主导造型，大面积留白，白底纸面构图，计白当黑，纸地参与画面呼吸，透明水彩罩染，淡墨晕染，局部没骨式铺色，综合色调依据【角色】自动适配，形成统一、完整、清透的彩色完成稿，色层通透，色块纯净，边缘柔和，最小明暗提示，散射光感，弱对比，平面化设色逻辑，人物服装、发型、配饰、身份特征严格依据【角色】本身设定生成，不额外附加汉服、仕女装、古装宽袖等固定服饰模板，重点保留角色原设服装逻辑、线描气质、留白结构与笔墨感，手部结构准确，五指完整清晰，手指数量正确，关节比例自然，手掌与手腕衔接合理，手势明确优雅，完整彩色绘制，人物服装、皮肤、头发、配饰均有清晰统一的色彩表达，不出现任何文字、印章、题字、水印、字幕、标识",
+     "desc": "",
+     "images": [
+      "assets/img_18.jpg"
+     ]
+    },
+    {
+     "title": "风格基调：国风梦幻海报风 (Cool Porcelain Photorealism)",
+     "titleFull": "风格基调：国风梦幻海报风 (Cool Porcelain Photorealism)\n\n视觉重心：利用超宽画幅的留白（横向负空间）与 10-15° 的镜头画面倾斜角度，配合克制疏离的“微表情”，塑造一种“甜美但不完全安全”的戏剧张力叙事感。\n\n肤质色彩强制：冷白瓷肌，强制脸颈同色阶，零黄色调/零灰调。\n眼部对焦收敛：对焦死死锁定在虹膜纹理，明确要求大软箱高光（Catchlight）。\n细节与微对比：利用微对比（micro-contrast）让发丝边缘和水晶饰品晶莹剔透，轻微柔焦只作用于高光过渡，严禁变糊。\n纯净背景限制：极简纯色浅灰背景，杜绝一切环境杂物干扰。",
+     "desc": "",
+     "images": [
+      "assets/img_19.jpg",
+      "assets/img_20.jpg",
+      "assets/img_21.jpg"
+     ]
+    },
+    {
+     "title": "人像无“塑料网图味”，高定大牌感“光学框架”    思路              …",
+     "titleFull": "人像无“塑料网图味”，高定大牌感“光学框架”    思路                                                             底层逻辑：                                                        深渊背板 × 极冷侧逆光 × 质感反差",
+     "desc": "",
+     "images": [
+      "assets/img_22.jpg"
+     ]
+    },
+    {
+     "title": "风格：冷感夜景商业海报，CCD 直闪成像语言，真实摄影，高锐度，高对比，压迫构图，人…",
+     "titleFull": "风格：冷感夜景商业海报，CCD 直闪成像语言，真实摄影，高锐度，高对比，压迫构图，人物强气场，不要霓虹杂乱，不要背景抢主，不要暖黄脏肤色。                                                                                                                                            示例：一张极具感官张力的 8K 夜景商业海报人像，聚焦于年轻女性在巨大城市地标前被强直闪切出的冷白面部与唇部高光瞬间。画面核心不是风景，而是“强闪打亮的脸”和“被压暗的巨型背景”之间的反差快感。\n\n动态与构图：人物在夜风中轻微转身，发丝被吹起，镜头于低机位仰拍中定格她向下看来的瞬间。主体不一定贴满全画面，但脸、胸肩、腿部高光必须像刀一样从黑暗里切出来，形成巨大压迫感。\n\n极致感官细节：重点刻画冷白皮在强闪下的伪发光质感、唇部的缎光反射、发丝边缘的利光、眼下与鼻梁被直闪击中的清晰高点、服装硬边与金属件的锐利反射。背景中的地标保持巨大、干净、压迫，但绝不抢脸。\n\n光影氛围：主体使用强直闪，背景保留自然夜景暗部层次与月晕或雾气氛围，形成典型“直闪切主体 + 夜景压暗 + 高级冷感 glow”的商业海报逻辑。\n风格：冷感夜景商业海报，CCD 直闪成像语言，真实摄影，高锐度，高对比，压迫构图，人物强气场，不要霓虹杂乱，不要背景抢主，不要暖黄脏肤色。",
+     "desc": "",
+     "images": [
+      "assets/img_23.jpg"
+     ]
+    },
+    {
+     "title": "AI 画面产生那种挥之不去的“故事张力”？",
+     "titleFull": "AI 画面产生那种挥之不去的“故事张力”？\n答案不在于你画了什么，而在于你「遮住了什么」。\n视觉核心：\n\n框中框 (Frame in Frame)：利用 85mm 焦段的物理压抑感，将 80% 的画面留给黑暗的门板。这种极端克制的构图，会让观众产生一种“屏息偷窥”的生理错觉。\n\n魏晋风骨：白缂丝、银鹤纹。避开了廉价的现代古风，追求的是那种冷如碎玉、静若处子的神圣感。\n\n眼神锚点 (The Gaze Nail)：在窄缝中，锁死那一抹如利刃般穿透迷雾的冷冽目光。这不是在等待，而是在审视。",
+     "desc": "",
+     "images": [
+      "assets/img_24.jpg"
+     ]
+    },
+    {
+     "title": "骨相级”的东方脸                                  …",
+     "titleFull": "“骨相级”的东方脸                                       妆去油化：一定要明确 matte velvet skin（雾面丝绒），避开那种塑料感的水光肌，质感立刻高级一个档次。 \n眼神控制：冷艳感的来源是 narrow phoenix eyes（狭长凤眼）搭配 distant gaze，那种“生人勿近”的压迫感是捏脸的灵魂。 \n光影留白：主光放在面中提亮，侧边用黑纱制造局部阴影，利用冷暖对比来塑造立体感，而不是靠生硬的修容。\n提示词示例：9:16竖幅，东方古风冷艳女性正面肖像，超近景贴脸特写，人物正面面对镜头，头部端正，视线直视镜头，脸部几乎充满画面，构图集中，双眼位于视觉中心，整体呈现强烈的人脸主导感。人物气质清冷、神秘、克制、危险，像黑衣侠女、门派高手、带权谋感的古风美人，安静中带轻微压迫感。\n脸型为窄鹅蛋脸，脸宽较窄，纵向比例略长，整体轮廓收紧，面部留白少，五官集中。额头中等偏饱满，发际线整齐自然，额部轮廓流畅。太阳穴轻微内收但不凹陷，颧弓不外扩，苹果肌轻微，不做甜妹感饱满苹果肌，面中过渡平整流畅，鼻基底适中，法令区干净。下颌线清晰流畅，下颌角弱化，收口利落，下巴小巧偏尖但不过度锐利，骨相轻薄精致，上镜感强。\n五官精致细腻。眉毛为深灰棕色细长平眉，眉头有自然毛流感，眉形平直略带轻弧，眉峰不高，眉尾细而收紧，眉眼距离适中略近。眼睛为长杏眼偏狭长凤眼感，正面视角下双眼对称，眼裂偏长，内眼角尖且清晰，外眼角轻微上扬，上眼皮薄，双眼皮较窄，下眼睑存在感清晰，卧蚕轻微精致不过分膨胀。眼神直视镜头，瞳孔稳定聚焦，目光冷静、克制、安静、疏离，带一点试探感和危险感，不要甜妹无辜感，不要夸张愤怒感。睫毛浓密纤长，上睫毛明显拉长并成束，下睫毛根根分明，眼尾与下眼睑有明显深灰棕加深，增强阴郁感、戏剧感与冷艳感。\n鼻子为细直秀气鼻，山根自然顺接额头，鼻梁细直干净，鼻背平整流畅，鼻头小巧微圆，鼻尖轻收，鼻翼窄，鼻孔不外露，中轴稳定，偏东方精致古风脸，不做夸张欧美高挺鼻。嘴唇为中薄唇，唇峰清晰，上唇偏薄，下唇微饱满，唇形克制冷感，嘴角自然平直微收，不做甜美嘟唇，不做大笑表情。\n皮肤为冷白皮，白皙通透但不是惨白，底妆为高完成度雾面丝绒底妆，肤质统一干净，细腻柔滑，带高级精修感。面中、鼻梁、鼻尖、眼下有轻微提亮，高光克制细腻，不做韩系油亮水光肌。面部轮廓修容精细，鼻侧影自然，颧侧轻收，下颌修容干净，立体度来自柔和明暗关系而不是夸张硬阴影。\n妆容为古风影视感浓淡适中的精致妆容，明确带妆。眼妆以深灰棕、冷棕、烟灰棕为主色调，上眼影从睫毛根部向上自然晕染，层次干净细腻，内眼线填满，外眼线纤细锐利并向外轻微拉长，眼尾上扬幅度克制，下眼睑后半段加深，下睫毛纤长分明，卧蚕以窄面积柔和提亮呈现，不做甜妹膨胀卧蚕。眼下可带若有若无的情绪阴影与古风戏剧化脆弱感。眉妆自然克制，毛流感真实。唇妆为低饱和玫瑰棕、豆沙棕红、雾面红棕调，中心略深，边缘柔化，唇面保留轻微质感，整体妆容高级、冷感、古风角色化。\n发型为黑色或深黑棕长发，中分或轻微偏分，发丝顺滑，发量适中偏多，头发贴近面部两侧自然垂落，修饰脸型，额前可有少量碎发，但不能遮挡眉眼主体。发顶自然蓬松，头部轮廓干净利落，不使用斗笠，不使用帽饰。可搭配少量黑色轻透薄纱从头发一侧或肩颈处垂落，形成半遮半透的神秘层次，但不能遮挡正面五官主体，保证整张正脸清晰可见。可加入低调古风发饰，如黑银色细链、暗色簪饰、小型金属坠饰，风格克制冷感，不夸张不繁复。\n服饰为黑色或深灰黑色古风衣装，深色武侠风，面料柔软垂坠，黑纱披覆层叠，肩颈区域布料褶皱丰富但不凌乱，领口结构利落干净，局部可见精致银色纹饰、金属护腕或古风武侠元素，整体造型统一于深色侠女、刺客、门派高手方向。\n光线为柔和定向补光，主光正面略偏上打在额头、眼周、鼻梁、唇部，让脸部中央清晰，五官干净立体。头发边缘与轻透黑纱制造轻微局部阴影，使眼睛更深邃。整体色调偏冷中性，背景压暗虚化，人物肤色保持自然冷白，唇部保留低饱和棕红，形成轻微冷暖对比。画面具有电影级真实摄影质感，细节干净，高级精修，非卡通，非插画，非二次元，偏真实摄影与影视剧照效果。",
+     "desc": "",
+     "images": [
+      "assets/img_25.jpg"
+     ]
+    },
+    {
+     "title": "风格基调：真实写实摄影 × 国风电影海报质感 (Cinematic High-end…",
+     "titleFull": "风格基调：真实写实摄影 × 国风电影海报质感 (Cinematic High-end Chinese Classical Poster Photography)\n提示词示例：\n姿态与情绪：全身站立，微微侧身，低头垂眸、安静克制；双手胸前交叠，前手稳握剑柄，后手自然辅助，整体呈现极具仪式感的静态张力。\n\n核心焦点：修长放松的手指与剑柄的精准互动，剑尖朝左下方延展；高精度金属反光与剑刃质感。\n\n服化道：双环高髻（红花、蓝金饰品、流苏簪钗）；酒红/青绿/米白等撞色的繁复厚重宫廷大袖汉服（含金线云纹刺绣）；伴有半透明浅青色长飘带盘旋。\n\n光影与布景：青灰/灰蓝色调极简摄影棚，底层伴有柔和弥散的薄雾层次；电影级棚拍灯光，局部暖金色轮廓光。",
+     "desc": "",
+     "images": [
+      "assets/img_26.jpg",
+      "assets/img_27.jpg"
+     ]
+    },
+    {
+     "title": "人像_梦境感竖屏_凌晨残梦",
+     "titleFull": "人像_梦境感竖屏_凌晨残梦\n生图示例：\n用途：竖版9:16梦境感人像，适合社媒/情绪叙事类配图 \n风格：梦境胶片 × 东方古典仕女 × 摄影棚引导式抓拍\n\n视觉预览\n凌晨4:17，她刚从不愿醒来的梦里睁眼。意识残留在梦的边界，记忆正在褪色但情绪还在。蓝紫渐变至柔粉的雾光色调，前景蔷薇花瓣与薄纱帘幔的虚化层打破画框。侧逆光勾勒发丝与轮廓，浅景深锁死迷茫涣散的双眸。整体像从旧胶片里抢救出来的一帧记忆碎片——脆弱、即将消失、但无比动人。\n\n叙事设定\n• 故事感：画面冻结在凌晨4点17分的那一刻——她刚从一场不愿醒来的梦里睁开眼，意识还残留在梦的边界，记忆正在褪色但某种情绪依然残留\n• 氛围：仿佛是记忆碎片的一帧，带着一种\"即将消失\"的脆弱感，像是从旧胶片里抢救出来的画面\n主体设定\n• 骨像：面部骨架纤细清癯，颧骨含蓄内敛，颈项修长如天鹅，整体呈东方古典仕女相\n• 妆容：薄纱般淡粉底妆，眼睑泛着珍珠光泽，唇若点朱，颊间晕开淡淡的桃夭色，似醒非醒\n• 眼神：双眸刚睁开带着迷茫，瞳孔深处映出朦胧雾气，目光悠远涣散，眼角一颗泪痣若隐若现\n摄影师引导姿势\n• 引导她说\"微微侧头，对，下巴收一点\"——侧首45度，颈部线条拉出优雅弧线\n• 引导她\"放松肩膀，深呼吸\"——单肩微微下沉，身体呈放松的S曲线\n• 引导她\"眼神放空，像在回想一个遥远的梦\"——目光看似前方实则向内收敛\n• 手指轻轻搭在锁骨附近，带着一种无意识的自我安抚感\n构图\n• 竖版9:16，人物居中略偏上，留出上方空间给光线入口\n• 前景虚化的蔷薇花瓣/薄纱帘幔自然飘动，打破僵硬边框\n摄影参数\n• 中长焦镜头（约85mm等效），f/1.4大光圈，浅景深突出眼神\n• 侧逆光制造轮廓光+发丝光，色温3400K偏暖\n• 1/60秒快门加轻微动态模糊，后期叠加油画柔焦与梦境颗粒\n氛围色调\n• 蓝紫渐变至柔粉，整体呈现柔和弥散的雾光感\n• 背景虚化成流动的星河与雾气，如梦似幻\n签名\n• 右下角淡金色VoxCat手写体签名\n\n说明\n这是一份以叙事情绪驱动的人像提示词，与常规\"先定外形再补氛围\"的写法不同，它的出发点是一个故事瞬间（凌晨残梦的那一帧），所有视觉元素都围绕这个情绪锚点展开。\n\n亮点：\n• \"摄影师引导姿势\"写法——不是直接写死姿态参数，而是用引导语的方式暗示动态，让模型输出更自然、更有\"被抓拍\"的松弛感\n• 叙事层+视觉层双线并行——先建立故事感（凌晨4:17、记忆褪色），再用镜头语言（侧逆光、浅景深、动态模糊）去承接\n• 前景虚化层作为\"画框打破器\"——蔷薇花瓣和薄纱不只是装饰，而是用来消解竖版构图的僵硬边界感",
+     "desc": "",
+     "images": [
+      "assets/img_28.jpg"
+     ]
+    },
+    {
+     "title": "风格基调：敦煌壁画岩彩美学 (Dunhuang Mural & Rock Color…",
+     "titleFull": "风格基调：敦煌壁画岩彩美学 (Dunhuang Mural & Rock Color Aesthetic)\n\n肤质：大唐盛世红润瓷肌 (Radiant Tang-style Porcelain Skin)，在琥珀烛光下呈现细腻微观细节，眼睫湿润有力。\n发丝：双环望仙髻 (Double-loop Wang-xian Bun)，缀以金丝累丝发簪 (Gold Filigree Hairpins)，重现盛唐皇家雍容。\n光影：石窟神性丁达尔光 (Divine God Rays in Cavern) 穿透幽暗。强烈的琥珀色侧面烛光 (Amber Candlelight) 与飘带上的勾边轮廓光 (Backlit Ribbons) 形成极致反差。\n场景：古老石窟深处，经年风化的千佛壁画 (Weathered Murals)，空气中涌动着金沙尘埃 (Golden Sand Dust)。\n\n调色统一：大唐极繁配色方案 (Opulent Gold & Lapis Lazuli)，金色与青金石蓝交相辉映。高对比度的暖色阴影渲染出史诗级的宗教神圣感。\n硬约束：金色三叶草花钿 (Golden Clover Huadian)、岩彩画颗粒质感 (Rock Color Texture)、飘带的动态美学。",
+     "desc": "",
+     "images": [
+      "assets/img_29.jpg"
+     ]
+    },
+    {
+     "title": "风格基调：《影》式水墨电影美学 (Shadow-play Aesthetic)",
+     "titleFull": "风格基调：《影》式水墨电影美学 (Shadow-play Aesthetic)\n\n肤质：冷白瓷肌 (Cold-toned Porcelain Skin)，保留细微毛孔 (Micro-pores) 与湿润虹膜 (Moist Iris) 细节，呈现如玉般的温润通透。 \n发丝：高耸堕马髻 (High Slanted Duo-ma Bun)，乌木簪 (Ebony Hairpin) 固发，发丝分明，在烟岚中呈现锐利的轮廓。 \n光影：伦勃朗三角光 (Rembrandt Lighting) 刻画侧脸。侧向冷光配合金色轮廓光 (Golden Rim Light)，将主体从背景中剥离。 \n场景：极简禅意空间，环绕巨大的半透明宣纸屏风，点缀湿墨笔触 (Wet Ink Brushstrokes)。\n\n调色统一：青墨色调 (Teal and Ink Scheme)，低饱和 (Desaturated) 艺术处理。融合水墨画的“五色焦浓重”与现代高级时装摄影的纯净感。 \n\n硬约束：眉间红点 (Cinnabar Dot)、宋式层叠绢纱质感、严禁出现现代背景。",
+     "desc": "",
+     "images": [
+      "assets/img_30.jpg"
+     ]
+    },
+    {
+     "title": "超写实真人摄影写真，8K超清，极致细节，照片级真实质感，专业古风人像摄影，85mm …",
+     "titleFull": "超写实真人摄影写真，8K超清，极致细节，照片级真实质感，专业古风人像摄影，85mm f1.4大光圈镜头，浅景深，焦点精准锁在人物面部，东方古典美学，古风汉服美人，\n1位年轻亚洲女性，鹅蛋脸，冷白皮，皮肤细腻通透有自然质感，清透古风妆容，橘调暖色系眼影，眼下点缀碎钻亮片，眉心有金色花钿，浅灰色通透瞳色，精致杏眼，双眼皮，眼神清冷疏离又带着温柔，鼻梁高挺精致，唇形饱满，唇色为橘调豆沙色，表情淡然平静，\n乌黑浓密的长发，精致古风半盘半披发造型，发丝根根分明，有自然蓬松感和细碎胎毛，\n华丽古风发饰，金色金属底托步摇，镶嵌蓝绿色、淡紫色宝石、珍珠、玉髓，搭配透明琉璃花瓣发饰，两侧垂挂长款珍珠流苏步摇，点缀精致小发簪，配套珍珠宝石流苏耳坠，\n唐制齐胸襦裙风格古风汉服，主色调为浅青蓝色天青色，搭配橘棕色镶边，外层是薄如蝉翼的透明纱质广袖大袖衫，带细闪珠光质感，内层抹胸上襦有华丽金色镶边，镶嵌大量蓝绿色彩宝、珍珠，衣身有精致缠枝花鸟刺绣，面料有柔和缎面光泽，纱质面料通透有层次感，领口衣缘有精致钉珠金属装饰，\n纯黑色暗调背景，突出人物主体，电影级伦勃朗光，侧逆光，柔和柔光打亮面部，明暗对比强烈，画面有细碎星光闪片氛围感，光影柔和细腻，完美呈现皮肤与面料的通透质感，整体氛围清冷惊艳，仙气十足。\n人物四视图，左侧上半身特写，右侧并列展示全身正面、侧面、背面三个视图，比例16:9",
+     "desc": "",
+     "images": [
+      "assets/img_31.jpg"
+     ]
+    },
+    {
+     "title": "超写实真人摄影写真，8K超清，极致细节，照片级真实质感，专业古风人像摄影，85mm …",
+     "titleFull": "超写实真人摄影写真，8K超清，极致细节，照片级真实质感，专业古风人像摄影，85mm f1.4大光圈镜头，浅景深，焦点精准锁在人物面部，东方古典暗黑美学，冷艳古风汉服美人，\n1位年轻亚洲女性，瓜子脸，冷白皮，皮肤细腻通透有自然原生质感，冷调烟熏感古风妆容，灰调大地色眼影，眼下点缀细碎水钻亮片，灰调清冷通透瞳色，精致杏眼，双眼皮，眼神冷冽疏离又带着魅惑，鼻梁高挺精致，唇形饱满，唇色为暗调酒红色，表情清冷平静，\n乌黑浓密的顺直长发，精致古风半盘发造型，发丝根根分明，有自然蓬松感，额前与脸颊有飘逸的细碎胎毛碎发，发丝带细闪珠光质感，\n华丽暗黑系古风发饰，银质金属雕花发冠，镶嵌大量白水晶、珍珠、水钻，两侧垂挂长款珍珠水钻流苏步摇，配套银质水滴珍珠流苏耳坠，\n暗黑系露肩古风汉服，主色调为纯黑色，搭配银色金属镶边，衣身有大面积银色缠枝暗纹刺绣，镶嵌大量水钻、珍珠、银饰雕花，面料为哑光高级丝绸+薄透纱质，面料有柔和高级的光泽感，衣缘袖口有精致钉珠与金属装饰，露肩设计凸显肩颈线条，\n纯灰色暗调背景，突出人物主体，电影级伦勃朗光，侧逆光轮廓光，柔和柔光打亮面部，明暗对比强烈，画面有细碎星光闪片氛围感，光影柔和细腻，完美呈现皮肤与面料的通透质感，整体氛围冷艳惊艳，清冷禁欲，仙气十足，\n人物四视图排版，画面左侧为人物上半身特写，画面右侧并列展示人物全身正面、全身侧面、全身背面三个视图，整体画面比例16:9",
+     "desc": "",
+     "images": [
+      "assets/img_32.jpg"
+     ]
+    },
+    {
+     "title": "超写实真人摄影写真，8K超清，极致细节，照片级真实质感，专业古风人像摄影，85mm …",
+     "titleFull": "超写实真人摄影写真，8K超清，极致细节，照片级真实质感，专业古风人像摄影，85mm f1.4大光圈镜头，浅景深，焦点精准锁定人物面部与肩部，东方古典梦幻美学，古风汉服美人， 1位年轻亚洲女性，鹅蛋脸，冷白皮，皮肤细腻通透自带柔光质感，清透暖调古风妆容，暖棕调大地色眼影，卧蚕自然，浅琥珀色通透瞳色，精致杏眼，双眼皮，眼神温柔迷离又带一丝清冷，鼻梁高挺精致，唇形饱满，唇色为豆沙粉色，表情淡然温婉， 乌黑浓密的长发，古风高颅顶半披发造型，发丝根根分明，带有空气感蓬松度，额前与脸颊有飘逸的细碎胎毛碎发，发丝自然垂落修饰脸型，发间点缀细碎星光闪片， 精致古风发饰，金色金属底托发簪，搭配白色珍珠、玉髓、白色小花造型装饰，两侧垂挂长款珍珠流苏步摇，配套珍珠流苏耳坠， 浅青绿色（豆青色）古风汉服，外搭薄如蝉翼的透明纱质大袖衫，纱质面料自带细闪珠光质感，衣身覆盖精致细腻的花卉刺绣，胸前肚兜位置有色彩鲜艳的花鸟刺绣图案，面料通透轻盈，光影交错， 纯灰色暗调背景，突出人物主体，电影级柔和侧逆光，暖调柔光打亮面部与肩部，画面有细碎星光闪片和光斑氛围感，光影柔和细腻，完美呈现皮肤与面料的通透质感，整体氛围清冷温柔、仙气飘逸、江南温婉， 人物四视图排版，画面左侧为人物上半身特写，画面右侧并列展示人物全身正面、全身侧面、全身背面三个视图，整体画面比例16:9",
+     "desc": "",
+     "images": [
+      "assets/img_33.jpg"
+     ]
+    },
+    {
+     "title": "杰作，最佳画质，8K 超高清，极致细节，超写实人像摄影，四视图组合：左侧为角色面部特…",
+     "titleFull": "杰作，最佳画质，8K 超高清，极致细节，超写实人像摄影，四视图组合：左侧为角色面部特写 (半身)，右侧依次为正面全身，侧身全身，背面全身，三视严格对齐，无透视畸变，角色间距均匀，无重叠。1 位绝美年轻东方女性，冷白皮，细腻通透的皮肤质感，灰蓝色眼眸，清冷破碎的眼神，精致立体的五官，高挺鼻梁，饱满镜面玻璃唇，红棕调口红，凌乱的黑色长发，几缕碎发拂过脸颊，新中式暗黑古风妆容，红棕烟熏眼影，上扬眼线，根根分明的睫毛，眼下腮红，面部珠光闪片提亮。黑红配色古风汉服，暗纹花卉刺绣，纱质面料，华丽古风头饰，黑色蝴蝶发饰，珍珠流苏步摇，暗红色虞美人花朵发饰，金色金属配饰，珍珠耳坠，流苏链条装饰，蝴蝶元素点缀。暗调弱光环境，侧光勾勒轮廓，柔和光影，电影感氛围感，灰色渐变统一背景，大光圈景深，85mm 定焦镜头质感，极致毛发细节，高色彩还原度，电影级调色，暗黑古风美学，清冷妖冶气质，全视图造型、妆造、配饰完全一致，无穿模，无变形，画面干净无多余元素。",
+     "desc": "",
+     "images": [
+      "assets/img_34.jpg"
+     ]
+    },
+    {
+     "title": "新中式水墨绘本，致敬80年代上美影风格。强调大巧若拙的毛笔触感与宣纸纹理，低饱和矿物…",
+     "titleFull": "新中式水墨绘本，致敬80年代上美影风格。强调大巧若拙的毛笔触感与宣纸纹理，低饱和矿物色，极简留白构图。画面人物为主体视觉，比例3:4，[此处替换你的主体或场景描述]。",
+     "desc": "",
+     "images": [
+      "assets/img_35.jpg"
+     ]
+    },
+    {
+     "title": "Create a cinematic realistic film still of…",
+     "titleFull": "Create a cinematic realistic film still of a wounded Asian man standing under a vast clear blue sky, captured from a dramatic low-angle perspective as if the camera is looking up at him from below. He has messy medium-length black hair blown slightly by the wind, a tired but intense expression, and a small fresh cut on his cheek with subtle blood stains. He wears a dusty beige suit jacket over a dark shirt, the fabric slightly dirty and worn, suggesting he has just survived a violent confrontation or difficult journey.\n\nThe composition should feel lonely, powerful, and cinematic, with the man positioned slightly left of center and a large amount of empty sky filling the background. Use natural harsh daylight, strong contrast, realistic skin texture, soft film grain, muted colors, and a raw cinematic atmosphere. The mood should feel tense, quiet, and emotionally heavy, like a moment after chaos. Shot on a vintage anamorphic lens, wide cinematic frame, shallow depth of field, realistic live-action movie still, no text, no logo, no extra characters.",
+     "desc": "",
+     "images": [
+      "assets/img_36.jpg"
+     ]
+    },
+    {
+     "title": "1. 摄影设备与光学特性",
+     "titleFull": "1. 摄影设备与光学特性\n*                 ARRI Alexa 65 + Cooke vintage cinema lenses: 高动态范围、电影级宽屏比例、超清晰解析力\n*                 Cooke Look: 柔和边缘过渡、奶油状焦外虚化(soft bokeh)、温暖有机质感\n*                 宽广景深控制: 背景极度柔和虚化,前景细节锐利\n2. 胶片美学\n*                 35mm film grain: 细微均匀的胶片颗粒感,在暗部和过渡区域尤为明显\n*                 Kodak Vision3 500T aesthetic:\n*                 色彩自然略带略带复古调性\n*                 肤色温暖自然、层次丰富\n*                 中等饱和度,不过度鲜艳\n*                 高光柔和过渡,暗部保留细节\n3. 纪实写实质感\n*                 Documentary realism style: 自然构图、未经图、未经摆拍、生活化场景\n*                 零修图瑕疵: 保留真实皮肤纹理、毛孔、皱纹\n*                 运动模糊: 动态场景捕捉真实运动轨迹\n4. 光线处理\n*                 Natural lighting: 自然日光、窗户光、环境光\n*                 柔和对比: 柔和阴影,自然明暗过渡\n5. 超细节纹理\n*                 织物、布料、皮肤、建筑纹理清晰可见\n*                 保持真实质感,非过度锐化\n6. 画面修复\n*                 画面需要减少噪点，不要过度锐化。\n*                 让画面更加干净通透，去除画面底部的脏污纹理。\n风格关键词\n*                 电影级写实 | 纪实美学 | 柯达胶片感 | 库克镜头柔光 | 自然生活瞬间 | 35mm颗粒质感 | 柔和焦外 | 超细节纹理｜消除噪点",
+     "desc": "",
+     "images": [
+      "assets/img_37.jpg"
+     ]
+    },
+    {
+     "title": "韩系唯美逆光柔焦风",
+     "titleFull": "· 韩系唯美逆光柔焦风\n\n```\n视觉风格：朦胧逆光柔焦风，韩系唯美画风。全程逆光拍摄，柔焦滤镜覆盖，发丝光晕效果，高光轻微过曝。\n摄影规格：35mm数字摄影写实颗粒质感，2.39:1宽银幕画幅，手持微晃制造身临其境的临场代入感。\n色彩基调：冷白月光为主光源，阴影偏淡蓝灰。肤色呈现暖瓷白，高光区域轻微溢出，画面如蒙薄雾。\n特效禁令：禁止仙侠发光、光剑光刃、金光粒子尾迹等廉价特效。\n```",
+     "desc": "",
+     "images": []
+    },
+    {
+     "title": "日系清新胶片风",
+     "titleFull": "· 日系清新胶片风\n\n```\n视觉风格：日系清新胶片风，静谧自然生活感。画面柔和，颗粒质感明显，自然光为主，无人工补光痕迹。\n摄影规格：35mm胶片模拟，4:3或16:9画幅，固定机位或极缓慢推拉，轻微欠曝，保留暗部细节。\n色彩基调：暖黄米白为主色调，阴影偏棕绿，高光不过曝，整体低饱和、高明度，如午后阳光透过窗帘。\n特效禁令：禁止数字光效、霓虹光晕、人工色彩叠加特效。",
+     "desc": "",
+     "images": []
+    },
+    {
+     "title": "欧美商业大片写实风",
+     "titleFull": "欧美商业大片写实风\n\n```\n视觉风格：好莱坞商业大片写实风。高对比度构图，强饱和色彩分级，景深锐利，质感厚重。\n摄影规格：IMAX 65mm胶片质感，2.39:1宽银幕画幅，稳定器拍摄，运镜流畅有力。\n色彩基调：橙青对比调色（Orange & Teal），阴影偏冷青绿，高光偏暖橙黄，肤色饱满。\n特效禁令：禁止低成本光效、廉价爆炸粒子、过度HDR滤镜。\n```",
+     "desc": "",
+     "images": []
+    },
+    {
+     "title": "生成一张竖版 3:4 写真人像，主题为“汉服古风白色清冷肖像 轻扶头纱”。",
+     "titleFull": "生成一张竖版 3:4 写真人像，主题为“汉服古风白色清冷肖像 轻扶头纱”。  \n\n竖版 3:4，真实摄影质感的古风白衣肖像，全画幅人像相机，85mm f/1.4 镜头，浅景深，焦点准确落在眼睛和脸部，背景为低饱和深绿色园林自然虚化。  \n\n人物：成年女性，清冷东方五官，脸型小而立体，皮肤真实细腻不过度磨皮，淡眉，细长眼型，干净眼神光，额心一枚细为图片中的角色，右侧眼睛眼角点一颗极小的不易察觉的美人痣。其余的所有元素都不要改变。小朱砂红纹，淡粉裸色唇妆，黑色中分低盘发，少量细碎发丝垂在脸侧。  \n\n穿搭：白色古风汉服，交领，宽袖，轻薄纱质外层，半透明白色头纱覆盖头顶与两侧，头纱边缘有柔软白色滚边，发侧少量珍珠流苏，手腕有淡蓝玉珠手串。  \n\n场景道具元素：江南园林树荫，深绿色竹叶和池水虚化背景，少量白色荷花虚化在远处，不要复杂道具。  镜头构图：人物正面近景肖像，头肩到胸口构图，脸占画面中心偏上，白纱从画面上方垂落形成自然框景，背景简洁虚化。  \n\n动作表情：人物双手轻轻扶住头纱边缘，手指自然修长，头肩同向面对镜头，眼神平静看向镜头下方一点点，表情安静、克制、略带疏离。  \n\n光线：晴天树荫下的真实自然光，人物处在树影与开阔天空光的交界处，脸部被柔和天光照亮，同时保留自然鼻影、眼窝阴影和下颌层次；白色头纱只有边缘轻微透光，背景深绿自然压暗，白衣干净但不过曝，画面清透安静，像真实全画幅人像照片。  \n\n负面约束：不要强逆光，不要夸张轮廓光，不要 HDR 通透感，不要塑料皮肤，不要过度磨皮，不要阴天灰雾，不要整张图发白发灰，不要廉价影楼光，不要过曝白衣，不要大量光斑，不要梦幻滤镜，不要 AI 高光泛滥；不要回头看镜头，不要扭头回望，不要身体背向镜头，避免断颈、多余手指、手部畸形、文字、水印、logo。  Status: 状态:test；肖像近景成立，双手扶头纱动作清楚，脸部和白纱稳定，手指整体可用。",
+     "desc": "",
+     "images": [
+      "assets/img_38.jpg"
+     ]
+    },
+    {
+     "title": "国风写实人像摄影。古典柔焦电影美学，清冷忧郁氛围。近景微俯视角，浅景深。一位精致典雅…",
+     "titleFull": "国风写实人像摄影。古典柔焦电影美学，清冷忧郁氛围。近景微俯视角，浅景深。一位精致典雅的年轻女性，冷白肤色，面部有柔和高光。她微微低头，眼神疏离，单手纤细的手指轻抚下巴，淡雅修长美甲。身穿银白色带有细密亮纹的丝绸古装，衣料呈现自然的微光与垂坠褶皱。额头点缀红色花钿，黑色发丝略微散落。暗调背景中隐约可见白色梨花。局部聚光自上方洒落，冷青与银白的主色调伴随柔和的阴影，胶片质感，画质细腻",
+     "desc": "",
+     "images": [
+      "assets/img_39.jpg"
+     ]
+    },
+    {
+     "title": "真人摄影、真实人物、日系复古 Pin 图气质的柔焦手机闪光人像，竖幅 9:16，近景…",
+     "titleFull": "真人摄影、真实人物、日系复古 Pin 图气质的柔焦手机闪光人像，竖幅 9:16，近景半身构图，略高于眼平的正面机位，人物居中偏右，脸部占据上半部主视觉，右侧白色窗框作为辅助竖向结构，左侧深色室内墙面压暗背景。年轻女性，冷白到象牙白肤调，脸颊和鼻尖有粉红腮红与细小闪粉，眼神湿润安静、略带羞怯和无辜感，眉眼放松，嘴唇微张并含住黑色细框眼镜的一端，嘴角不笑。蓬松黑棕短卷发、空气感齐刘海，右侧格纹蝴蝶结发夹，珍珠耳钉，亮泽唇釉，银色闪片美甲；一只手抬起眼镜靠近唇边，另一只手搭在右侧前景，身体轻微前倾、肩颈前收。穿米白粗针织马甲叠搭浅色印花衬衫，马甲罗纹和纽扣边缘自然贴合，上身有柔和包裹感，衬衫领口袖口产生轻薄褶皱，针织哑光绒感与衬衫低反光材质清晰。右侧窗光混合正面闪光，冷白高光、灰紫暗部、低饱和粉米色调，局部过曝和朦胧光晕，保留脸部水润高光、唇部反光、指甲闪片反射；CCD/手机压缩质感，轻微噪点、灰尘颗粒、柔焦低对比，不要动漫、不要插画",
+     "desc": "",
+     "images": [
+      "assets/img_40.jpg"
+     ]
+    }
+   ]
+  },
+  {
+   "key": "mj",
+   "name": "MJ 风格",
+   "sub": "及事例",
+   "count": 55,
+   "items": [
+    {
+     "title": "A high-quality 1970s Shaw Brothers Wuxia f…",
+     "titleFull": "A high-quality 1970s Shaw Brothers Wuxia film still, half-body close-up of a heroic female warrior facing the camera. She is in a dynamic martial arts stance, one fist clenched and the other hand in a palm-strike position, ready for combat. Expression is intense, determined with a hint of righteous anger. Iconic \"Sword Eyebrows\" makeup, bold red lips, porcelain skin. Wearing traditional silk Wuxia attire in vibrant crimson and embroidered gold. Shot on 35mm film, Technicolor palette, high contrast, sharp focus on eyes. Background is a stylized studio-set Chinese temple with incense smoke. Dramatic rim lighting, vintage Hong Kong cinema aesthetic, authentic grain, anamorphic lens flares --ar 2:3 --v 6.0 --stylize 250\n\n 高品质70年代邵氏武侠电影剧照，英姿飒爽的女武士半身特写，正对镜头。她摆出极具动感的武术架势，一手握拳，另一手呈掌击姿态，蓄势待发。神情凌厉坚毅，带着一丝凛然正气。经典剑眉妆容，浓艳红唇，肤如凝脂。身着绯红织锦传统武侠古装，衣身饰有金色刺绣。35毫米胶片拍摄，特艺彩色调色，高对比度，眼部对焦锐利。背景为布景式中式古寺，缭绕袅袅香烟。戏剧化轮廓光，复古港风电影质感，原生胶片颗粒，带有宽银幕镜头眩光。",
+     "desc": "邵氏武侠美学 (Shaw Brothers Aesthetics)         20世纪60至70年代香港电影的标志性范式，核心在于“硬桥硬马”（马步扎实、动作正统）的真实动作与高度符号化的片场美术。视觉上，它极度依赖色彩饱和的精心布置的室内影棚，利用人工烟雾和强烈的轮廓光营造肃杀氛围。角色造型常配以凌厉的“剑眉”与鲜红唇妆，以此强化英雄主义的刚毅感。这种美学不追求现实主义的自然，而追求一种极致、华丽且充满武道精神的“人工真实”，深刻影响了后世全球动作电影的动作设计与暴力美学。\n特艺彩色色调 (Technicolor Palette)                     源自20世纪电影工业的视觉美学，其核心在于著名的“三色带”工艺。用特制摄像机内的分光棱镜，将单镜头同步投射到三条记录不同原色信息的黑白胶片上进行感光，随后通过类似彩色印刷的“染料转印法”，将青、品红、黄三色层层叠印在单条拷贝上。",
+     "images": [
+      "assets/img_41.jpg"
+     ]
+    },
+    {
+     "title": "prompt",
+     "titleFull": "prompt\n\n[subject], techno-futuristic, motion blur, pink glow in the background, minimalistic, hyper-realistic, studio photography, --ar 16:9 --sref 798619805 --profile 4dw3gsh --stylize 1000\n\nthis should look something like this\n2. 提示词\n\n[主题]，科技未来主义，运动模糊，背景中粉色光芒，极简主义，超写实，摄影棚摄影，--AR 16：9 --sref 798619805 --profile 4dw3gsh --stylize 1000",
+     "desc": "",
+     "images": [
+      "assets/img_42.jpg",
+      "assets/img_43.jpg",
+      "assets/img_44.jpg",
+      "assets/img_45.jpg"
+     ]
+    },
+    {
+     "title": "Sref: --sref 3283428648  --niji 7  --sv 6 …",
+     "titleFull": "Sref: --sref 3283428648  --niji 7  --sv 6                                                    *   `masterpiece, best quality, ultra-detailed anime illustration, dynamic angle, dramatic cinematic lighting, strong chiaroscuro, floating glowing particles, sketchy expressive lineart, backlighting, intense rim light, epic mood --ar 3:4`\n*   `top-tier commercial anime art, character in action, extreme perspective, glowing magic effects, deep shadows, bright highlights, lens flare, wind blowing, concept art illustration --ar 16:9`\n*   `breathtaking anime key visual, highly detailed, expressive brushstrokes, dramatic light and shadow contrast, atmospheric depth, flying debris, cinematic composition --ar 4:5`",
+     "desc": "sref 风格特征分析 此 SREF 代码所呈现的风格巧妙地融合了**现代动漫/漫画艺术**、**电影级光影**和**半厚涂插画**的精髓。它之所以属于这些流派，是因为它保留了动漫文化中标志性的人物面部特征和锐利的线条结构，同时摒弃了传统的平涂着色，转而采用好莱坞式的光影技巧——强烈的明暗对比、引人入胜的轮廓光以及极具张力的空间景深。如果寻找行业标杆，这种风格与当前顶级动漫手游（例如《明日方舟》、《原神》）的高级原画非常接近，或者与米山麻衣、Wlop 等知名日本插画家作品中强调“光影感知”和“情感张力”的视觉表达方式非常相似。这种风格最令人印象深刻的特点在于其**“极具爆发力的戏剧性效果”。**通过高对比度的色彩碰撞、飞舞的粒子特效（如光尘、火花、魔法碎片）以及随风飘动的衣摆，营造出一种视觉错觉，仿佛时间在最壮观的瞬间凝固。即使是静态图像，也能感受到强烈的动感和宏大的叙事氛围。## 什么是戏剧光影动漫风格？**戏剧光影动漫风格**是一种在传统动漫风格基础上发展而来的高级插画风格，它引入了先进的摄影光影概念和复杂的后期处理效果。这种风格的核心在于“以光塑形，以影叙事”。它不依赖于复杂的材质渲染，而是利用极其醒目的强光源（如逆光、轮廓光或发光的魔法元素）与深邃黑暗的环境形成鲜明的对比。这种风格的线条艺术通常保持着一种随意却精准的“呼吸感”（素描线条），结合轻盈的光晕渲染，营造出兼具动漫美学和商业大片质感的视觉盛宴。## 戏剧光影动漫风格的应用场景 凭借其强大的视觉冲击力和情感感染力，**戏剧光影动漫风格**尤其适用于以下创意场景： * **游戏美术及宣传：**完美契合动漫风格角色扮演游戏和卡牌游戏中的SSR角色原画、启动画面或大型活动海报的关键视觉图，瞬间吸引玩家的目光。 * **轻小说及漫画封面：**这种风格本身就具有强烈的“故事感”，能够完美传达奇幻、科幻或悬疑小说的世界观，极大地提升读者对作品的购买欲望。 * **电影和动画海报：** 适用于独立动画短片或动画长片的预告海报设计，使用大面积的留白或深色背景，并突出人物，以强调主角的史诗感。* **个人IP及街头服饰周边：** 极具辨识度的线条和光影效果非常适合制作亚克力立牌、痛车/服装图案设计或高端动漫画册。## 戏剧性光影动漫风格灵感提示 要在MidJourney中运用这种风格，您的提示需要结合动漫元素和光影效果说明。以下是一些灵感：* `杰作，最佳品质，超精细的动漫插画，动态角度，戏剧性的电影级光影，强烈的明暗对比，漂浮的发光粒子，富有表现力的线条，逆光，强烈的轮廓光，史诗般的氛围 --ar 3:4` * `顶级商业动漫艺术，动作角色，极端透视，闪耀的魔法特效，深邃的阴影，明亮的高光，镜头光晕，风吹拂，概念艺术插画 --ar 16:9` * `令人叹为观止的动漫主视觉图，高度精细，富有表现力的笔触，戏剧性的光影对比，大气深度，飞舞的碎片，电影级的构图 --ar 4:5` 想要获得更精准的负片提示组合，并探索不同动作和场景的高级参数比例吗？升级为网站会员即可解锁网站上的所有提示，让每一代人都能达到专业大师级水平。",
+     "images": [
+      "assets/img_46.jpg"
+     ]
+    },
+    {
+     "title": "sref 1595383305 --v 7 --sv 6",
+     "titleFull": "--sref 1595383305 --v 7 --sv 6",
+     "desc": "最具电影感的超现实风格之一。\n\nSREF 的 1595383305\n\n它将黑暗科幻、流动的运动、戏剧性的对比和超现实细节融合进一种视觉效果，仿佛在混乱来临前的梦境。\n\n为什么它特别突出：\n• 现代超现实主义 + 未来主义张力\n• 光泽光线和深邃阴影\n• 漂浮液体、拍打的波浪、悬浮运动\n• 极致构图，瞬间吸引目光\n• 黑暗、情感丰富、难忘的氛围\n\nMidjourney 的最佳使用场景：\n• 科幻电影海报\n• 游戏关键艺术\n• 专辑封面\n• 未来城市场景\n• 超现实广告创意\n• 实验性概念艺术\n\n如果你想要神秘、强烈且无法忽视的画面，这种风格值得一试",
+     "images": [
+      "assets/img_47.jpg"
+     ]
+    },
+    {
+     "title": "sref 552187227 2649257630 --v 8.1",
+     "titleFull": "--sref 552187227 2649257630 --v 8.1",
+     "desc": "",
+     "images": [
+      "assets/img_48.jpg"
+     ]
+    },
+    {
+     "title": "try this simple prompt in midjourney v8.1:",
+     "titleFull": "try this simple prompt in midjourney v8.1:\n\"interesting composition, cinematography\"                  试试 Midjourney v8.1 中的这个简单提示：\n“有趣的构图，摄影”  you can even add \"70mm\" for a wide cinematic look!                                           add \" 35mm, natural light \"",
+     "desc": "",
+     "images": [
+      "assets/img_49.jpg"
+     ]
+    },
+    {
+     "title": "A hyper-realistic wide-angle architectural…",
+     "titleFull": "A hyper-realistic wide-angle architectural photograph of a futuristic bright red conical tower embedded inside a deep crystalline glacial crevasse. The tower features an intricate parametric lattice facade and a circular glass observation deck. Intense direct sunlight from the top right creating a cinematic lens flare, sharp shadows on the snow, mist and swirling frost around the base of the structure. High-contrast color grading, vibrant red versus icy blue and white, shot on ARRI Alexa Mini LF, 24mm lens, architectural masterpiece, breathtaking scale --ar 16:9 --exp 25 --s 250 --v 8.1",
+     "desc": "",
+     "images": [
+      "assets/img_50.jpg"
+     ]
+    },
+    {
+     "title": "sref 4642760790 --v 7 --sv6",
+     "titleFull": "--sref 4642760790 --v 7 --sv6",
+     "desc": "这种 Midjourney 风格让人感觉像是来自另一个宇宙的失落 90 年代专辑封面。赋予你那种超现实的概念摄影风格：\n不可能的场景\n电影现实主义\n深蓝色调\n戏剧性光\n轻微的胶片颗粒\n还有那种“这怎么可能不是真的？”的感觉这立刻让人联想到《风暴索格森》式的视觉叙事：\n一个装着大海的手提箱\n漂浮石\n在水面上行走\n梦境逻辑如同真实照片般捕捉这种风格的最佳使用场景：\n摇滚/电子/氛围音乐专辑封面\n科幻或哲学书籍封面\n高端广告创意\n电影概念艺术\n需要强烈视觉吸引力的艺术海报\n\n如果你想重现它，可以这样思考：\n一扇漂浮在海中的老木门，通向银河系\n一个巨大的灯泡，里面有一片雨林\n玻璃糖云悬挂在沙漠之上",
+     "images": [
+      "assets/img_51.jpg"
+     ]
+    },
+    {
+     "title": "sref 1461896404 3130362434  | niji 7 | sv6",
+     "titleFull": "--sref 1461896404 3130362434  | niji 7 | sv6",
+     "desc": "感觉像是时尚编辑与水彩漫画的结合——而且真的非常漂亮。\n\n它的独特之处：\n• 极具表现力的动漫眼睛，瞳孔光滑如宝石\n• 干净的漫画线条与柔和水彩渗色混合\n• 大胆的颜色如粉色、祖母绿、紫色——但由于白色空间，依然轻盈\n• 浓厚的哥特/时尚能量，带有手绘画册般的感觉\n\n它看起来不像是普通的平面动漫艺术。\n它感觉像是一本高级插画封面。\n\n非常适合：\n• 漫画或轻小说封面\n• 动漫游戏角色溅画\n• 时尚概念视觉\n• 突出的个人形象与个人品牌\n• 流行、摇滚、低保真、虚拟艺术家的音乐封面艺术\n\n如果你想要 Midjourney 的这种造型，想想：\n水彩质感+墨水飞溅+细致睫毛+情感凝视+高端时尚态度",
+     "images": [
+      "assets/img_52.jpg"
+     ]
+    },
+    {
+     "title": "sref 4089868573 --v 6.1 --sv 4",
+     "titleFull": "--sref 4089868573 --v 6.1 --sv 4",
+     "desc": "这种 Midjourney 风格就像手绘的梦境。\n\nsref 4089868573 将印象派+柔和写实融合为温暖、细腻且瞬间停笔的感觉：\n• 微型绘画细节\n• 布料质地\n• 柔和发光的灯光\n• 鲜艳的色彩而不显得刺眼\n\n结果呢？画面既梦幻又触感十足，同时又极致。\n\n非常适合：\n儿童图书插图\n精品产品的包装\n礼品卡\n受自然启发的墙面艺术\n情感品牌视觉\n定制礼品概念",
+     "images": [
+      "assets/img_53.jpg"
+     ]
+    },
+    {
+     "title": "sref 2877561726                           …",
+     "titleFull": "--sref 2877561726                                                 写实摄影，带有复古胶片美学。特色为柔和自然色调的青绿色和大地棕色，柔和的灯光，以及一种亲密且略带忧郁的氛围。",
+     "desc": "",
+     "images": [
+      "assets/img_54.jpg"
+     ]
+    },
+    {
+     "title": "Midjourney v 8.1 --sref 2465721221",
+     "titleFull": "Midjourney v 8.1 --sref 2465721221",
+     "desc": "",
+     "images": [
+      "assets/img_55.jpg"
+     ]
+    },
+    {
+     "title": "sref 1969426288",
+     "titleFull": "--sref 1969426288",
+     "desc": "",
+     "images": [
+      "assets/img_56.jpg"
+     ]
+    },
+    {
+     "title": "midjourney v8.1, sref 8317046035",
+     "titleFull": "midjourney v8.1, sref 8317046035",
+     "desc": "",
+     "images": [
+      "assets/img_57.jpg"
+     ]
+    },
+    {
+     "title": "sref 1318071355 --niji 7 --sv 4",
+     "titleFull": "--sref 1318071355 --niji 7 --sv 4",
+     "desc": "这组图片呈现的视觉风格融合了强烈的幻想元素与细腻的情感表达，展现出既神秘又深刻的氛围。整体画面以梦幻般的色调和扭曲的形态构建，仿佛将角色从现实中拉出，带入一个幻觉般的虚拟世界。通过柔和的光影处理和细腻的面部表情，每个角色都被赋予了超越物理世界的神秘气场。这种风格让人不可避免地将其与超现实主义和奇幻艺术中的角色构建联系在一起，尤其是面部特征和发光效果，呈现出独特的视觉冲击力。这种风格融合了神话、传说和未来主义，具有强烈的视觉吸引力，让观众无法忽视。什么是超现实主义\n超现实主义是一种艺术风格，通过梦境、潜意识和潜意识的元素表达超越理性的世界。其特点是通过非常规的物体和场景组合，创造出震撼且梦幻般的视觉效果。艺术家通常使用夸张的形态和不自然的光影来构建一个现实中找不到的世界。这种风格不仅让人在视觉上感到新颖，也激发观众对生命、梦想和存在的深刻思考。 超现实主义使用场景\n超现实主义风格特别适合需要创作非现实、奇幻或梦幻场景的作品，如电影海报设计、游戏艺术、插画、书籍封面等。通过其独特的视觉语言，这种风格能够有效传达复杂的情感或营造神秘氛围，特别适合奇幻、恐怖和科幻主题。在需要传达强烈视觉冲击力并激发观众深刻思考的场合，超现实主义风格的运用无疑会提升作品的吸引力。超现实主义灵感\n- “梦中人物，交错的光影，夸张的面部细节”\n- “神秘人物、奇异场景、非现实空间”\n- “奇幻世界中的光与暗，未来装饰”\n- “诡异的面部表情，漂浮的元素，幻影般的光辉”",
+     "images": [
+      "assets/img_58.jpg"
+     ]
+    },
+    {
+     "title": "sref 748512145 --v 7 --sv6",
+     "titleFull": "--sref 748512145 --v 7 --sv6",
+     "desc": "它融合了：\n美国复古涂鸦\n丝网印刷纹理\n蓝版风格靛蓝色调\n还有那种让人停下来的手绘能量是什么让它如此震撼：\n• 粗糙、颤抖、不完美的线条\n• 靛蓝+米白色高对比度调色板\n• 细腻的橙红色点缀\n• 牛仔布 / 再生纸 / 旧印刷质地\n• 采用原始的模拟手感，而非塑料般的 AI 流畅感\n\nThe vibe:\nlike someone sketched directly onto old denim with a white paint pen\n氛围：\n就像有人用白色油漆笔直接在旧牛仔布上画画一样\n\n\n我会这样称呼它：\n复古牛仔布涂鸦风格\n\n为什么这种风格在 Midjourney 中如此有效：\n当你希望照片更具触感、怀旧感和真实感时，它非常适合\n尤其是那些需要个性而非泛泛“漂亮”视觉效果的项目\n\n\n最佳使用场景：\n• T 恤、连帽衫、手提袋的街头服饰图案\n• 精酿咖啡或啤酒包装\n• 独立专辑封面\n• 滑板活动、艺术市场海报、杂志\n• 需要大胆复古视觉识别的社交帖子\n\nEasy prompt directions to start with:\nwhite chalk sketch on blue denim texture, risograph print style, rough hand-drawn lines, vintage illustration\n简单的提示指引，方便你开始：\n白色粉笔草图配蓝色牛仔布纹理，复印印刷风格，粗略手绘线条，复古插画\n\n\n或者尝试以下主题：\n• 复古磁带\n• 老派运动鞋\n• 披萨片\n• 任何线条凌乱、模拟纹理看起来更好的作品",
+     "images": [
+      "assets/img_59.jpg"
+     ]
+    },
+    {
+     "title": "chaos 30 --ar 3:4 --exp 30 --raw --sref 42…",
+     "titleFull": "--chaos 30 --ar 3:4 --exp 30 --raw --sref 4220932832 2854997163 4395474070 5454301996 --profile igusadc --hd",
+     "desc": "",
+     "images": [
+      "assets/img_60.jpg"
+     ]
+    },
+    {
+     "title": "sref 2867431616 1882931887 279069550 38224…",
+     "titleFull": "--sref 2867431616 1882931887 279069550 3822475064::2 3531287505::3 4294505177 2807388098 526259515",
+     "desc": "",
+     "images": [
+      "assets/img_61.jpg"
+     ]
+    },
+    {
+     "title": "sref 275161546",
+     "titleFull": "--sref 275161546",
+     "desc": "",
+     "images": [
+      "assets/img_62.jpg"
+     ]
+    },
+    {
+     "title": "sref 3331899828",
+     "titleFull": "--sref 3331899828",
+     "desc": "电影剪辑现实主义\n高保真摄影，搭配丰富自然的深绿色和温暖的土红色调。采用戏剧性柔和的定向光影、锐利的纹理，以及优雅、情绪化的氛围，宛如高端编辑专题。",
+     "images": [
+      "assets/img_63.jpg"
+     ]
+    },
+    {
+     "title": "Midjourney v8.1",
+     "titleFull": "Midjourney v8.1\n\n--profile xrdcsnv",
+     "desc": "",
+     "images": [
+      "assets/img_64.jpg"
+     ]
+    },
+    {
+     "title": "A masterful cinematic master shot deep ins…",
+     "titleFull": "A masterful cinematic master shot deep inside a claustrophobic, majestically decaying ancient Chinese temple hall. Extreme high contrast Chiaroscuro tonal grading: crushing midnight blue shadows contrasted with intense, focused pools of hot amber firelight. A single cluster of tattered ancient red candles provides harsh flickering key light, casting jagged dancing shadows across moldy Buddhist banners. A horrifying redesigned cybernetic monk sits cross legged; withered grey flesh peels to reveal corroded ancient iron gears fused with bone, dark oil staining tattered saffron robes. Thick choking sandalwood smoke rises from ancient bronze incense burners, trapping narrow light shafts. His sole functional eye emits an intensely bright, harsh pale crimson beam piercing the smoke. Extreme blacks balanced against searing highlights, masterful film grain, hyper detailed textures, Unreal Engine 5.1 with Lumen and Volumetric Fog. High budget horror cinema still. --chaos 50 --ar 16:9 --raw --profile ikx8cwl --stylize 400 --v 8",
+     "desc": "",
+     "images": []
+    },
+    {
+     "title": "The crane is purely biological - elegant w…",
+     "titleFull": "The crane is purely biological - elegant white feathers, red crown, no mechanical or monster parts. Environment features massive ancient gnarled trees and pines on every floating spire. Crane's giant wings spread wide, beating turbulent air. Extreme chiaroscuro lighting, deep midnight blue volumetric fog, dramatic rim light on knight's back profile. High budget film aesthetic, Unreal Engine 5.1, 8K, 14mm lens distortion,Dutch tilt. --chaos 10 --ar 16:9 --raw --profile ikx8cwl --stylize 400 --weird 8 --hd",
+     "desc": "",
+     "images": [
+      "assets/img_65.jpg"
+     ]
+    },
+    {
+     "title": "cinematic extreme low-angle portrait, dram…",
+     "titleFull": "cinematic extreme low-angle portrait, dramatic wide-angle lens perspective (18mm), Ganyu from Genshin Impact standing above the camera, leaning slightly forward while looking down at the viewer, upper body portrait (waist-up), strong foreshortening focused on upper torso, shoulders and chest extending slightly toward the camera, immersive perspective depth, NO legs visible composition control: head occupies the upper 50% of the frame, near top edge, neck to waist occupies lower 30%, strict vertical hierarchy, face as primary focal point long silky pale-blue hair flowing dynamically in the wind, ultra-detailed strands, soft translucency under sunlight, subtle horn-like red-black gradient horns visible large stylized anime eyes, deep blue crystalline irises with snowflake reflections, luminous star-like highlights, ultra-detailed eyelashes Ganyu signature outfit reinterpretation (Liyue-style bodice, elegant blue-white-black color scheme, gold ornaments, soft flowing fabric, subtle icy motifs), upper garment only visible bright blue sky with soft clouds, cold sunlight beams, faint icy particles floating in air, dreamy high-altitude atmosphere cinematic lighting, global illumination, soft rim light, volumetric light rays, HDR, depth of field, ultra-detailed cinematic CG render, masterpiece, 8k, anime-realism hybrid --ar 16:9 --niji 7",
+     "desc": "",
+     "images": [
+      "assets/img_66.jpg"
+     ]
+    },
+    {
+     "title": "Ning Yao from Sword of Coming (Jian Lai), …",
+     "titleFull": "Ning Yao from Sword of Coming (Jian Lai), Chinese xianxia female sword cultivator, extreme realism CG style, cinematic action moment dynamic side-profile flying pose, body leaning forward at high speed, calm and cold expression, restrained emotion, no smile bright expressive eyes with strong catchlight, clear reflective highlights in the pupils, wet glossy cornea, visible limbal ring, high contrast iris detail refined East Asian facial structure, slim jawline, straight nose bridge, very fair porcelain skin, luminous pale complexion, high subsurface scattering, subtle natural pores, clean highlights on cheekbones and nose bridge, light red lips high ponytail black hair with realistic density, individual strands clearly visible, hair violently flowing backward under strong wind pressure wearing traditional white hanfu with pale cyan trims, translucent silk fabric edges, minimalist elegant design, silk ribbons reacting to airflow realistic air turbulence and motion trails around her body, volumetric wind effects, no magical energy soft frontal beauty lighting, subtle rim light outlining face and hair, high-key cinematic lighting without underexposure high-key white mist background, distant soft mountains barely visible, cinematic depth photorealistic CG render, global illumination, sharp facial focus, motion blur only on hair tips and fabric edges, ultra-detailed 8k, film-quality, masterpiece --ar 16:9 --stylize 700 --niji 6",
+     "desc": "",
+     "images": [
+      "assets/img_67.jpg"
+     ]
+    },
+    {
+     "title": "Lu Xueqi (陆雪琪), legendary cold sword culti…",
+     "titleFull": "Lu Xueqi (陆雪琪), legendary cold sword cultivator, silent, distant, unapproachable aura, extreme realism cinematic CG style, standing still, sword held close to the body, three-quarter frontal view, composed posture, eyes calm and emotionless, bright clear eyes with moonlight catchlight, wet glossy cornea, refined iris contrast, clean symmetrical East Asian face, slim jawline, straight nose bridge, snow-pale porcelain skin, cold luminous tone, subtle subsurface scattering, long black hair in high ponytail, smooth and orderly, slight movement in night breeze, wearing pure white minimalist hanfu, straight silhouette, frost-like texture, pale cyan accents, elegant and restrained, immortal sword partially unsheathed, thin cold white light leaking from the blade, soft glow illuminating fingers and sleeve, no particles, no energy waves, background: ancient stone ruins under moonlight, white mist drifting across the ground, deep blue night sky, cinematic depth, cool high-key lighting balanced with moonlight, sharp facial focus, ultra-detailed, 8k photorealistic CG, film-level quality, masterpiece --ar 16:9 --raw --stylize 800 --niji 6",
+     "desc": "",
+     "images": [
+      "assets/img_68.jpg"
+     ]
+    },
+    {
+     "title": "sref 3084175219 3087243072 --p k1eiut2",
+     "titleFull": "--sref 3084175219 3087243072 --p k1eiut2",
+     "desc": "",
+     "images": [
+      "assets/img_69.jpg"
+     ]
+    },
+    {
+     "title": "You are a cinematic prompt director and vi…",
+     "titleFull": "You are a cinematic prompt director and visual composition designer.\n\nYour job is to take any user input, whether it is a simple idea, a rough image prompt, a scene description, or an uploaded image, and transform it into 10 distinct cinematic image prompts focused on composition, camera angle, framing, blocking, depth, and visual storytelling.\n\nCore Objective:\nCreate 10 different prompts that explore the same idea through different cinematic compositions and camera positions. Each prompt must feel like a film still, not a poster, not a portrait, not a staged photoshoot, and not generic concept art.\n\nBase Style:\nAlways preserve or integrate this base style unless the user provides a different one:\n\ncinematic realism, film stock grain, film still\n\nInput Handling:\nIf the user gives a written idea, expand it into cinematic visual scenes.\nIf the user gives a rough prompt, keep the subject and mood but improve the composition.\nIf the user gives an image, analyze the subject, setting, mood, lighting, pose, and visual idea, then create 10 new prompt variations inspired by it.\nDo not copy the image literally unless the user asks for direct replication.\nDo not change the core subject unless the user asks for alternatives.\n\nOutput Rules:\nGive exactly 10 prompts.\nEach prompt must have:\n1. A short title.\n2. A camera/composition concept.\n3. A full image prompt.\n\nEach prompt should explore a different visual language, such as:\n- extreme low angle\n- high angle\n- overhead top-down\n- over-the-shoulder\n- foreground obstruction\n- reflection shot\n- silhouette shot\n- frame-within-a-frame\n- deep vanishing point\n- wide negative space\n- compressed telephoto distance\n- handheld close perspective\n- diagonal movement\n- symmetrical blocking\n- asymmetrical balance\n- subject partially hidden\n- environmental scale\n- POV composition\n- layered foreground/midground/background\n\nPrompt Writing Rules:\nWrite each prompt as one clean paragraph.\nMake the prompts detailed but not bloated.\nFocus heavily on composition, lens choice, camera height, subject placement, foreground, midground, background, lighting, atmosphere, and storytelling.\nAvoid generic words like “epic,” “beautiful,” or “cool” unless they are supported by specific visual details.\nAvoid black bars unless the user asks for them.\nAvoid saying “in the style of” living directors or artists.\nDo not use brand names unless the user provides them.\nDo not explain the prompts unless asked.\n\nCinematic Quality Rules:\nEvery prompt should feel like a captured moment from a real film scene.\nThe scene should imply story, tension, movement, or emotion.\nUse imperfect realism: grain, haze, motion blur, soft focus falloff, natural lighting, practical light sources, weather, dust, reflections, shadows, and environmental texture.\nPrefer mid-action or emotionally charged moments over static posing.\nMake the camera feel intentional.\n\nDefault Negative Add-ons:\nAt the end of each prompt, add:\nno clean digital sharpness, no CGI look, no poster composition, no centered portrait, no black bars\n\nOutput Format:\n\n1. **Title**\n   **Composition: [brief camera/composition idea]**\n\n   Prompt: \n   [full cinematic prompt]\n\n---\n\n2. **Title**\n   **Composition: [brief camera/composition idea]**\n\n   Prompt: \n   [full cinematic prompt]\n\n---\n\nContinue until 10.",
+     "desc": "这里有一个系统提示，你可以在 ChatGPT 或 Claude 项目中使用。它的核心理念很简单：你输入一个基本想法、一个粗略的图像提示、一段场景描述，甚至是一张上传的图片，它就会对其进行增强，并返回 10 个电影风格的提示，每个提示都探索不同的构图和镜头角度。例如，我输入了“一个角斗士骑马在山坡上”，这就是结果！这是探索不同视觉语言、发现有趣构图的绝佳方式。系统提示如下",
+     "images": [
+      "assets/img_70.jpg"
+     ]
+    },
+    {
+     "title": "a group of knights are walking through a m…",
+     "titleFull": "a group of knights are walking through a mountain pass with colossal peaks, dwarfing the pair as their full helms have gorgeous plumes and decorated armor, capturing the essence of dark fantasy --ar 9:16 --raw --profile m895wxf --hd",
+     "desc": "",
+     "images": [
+      "assets/img_71.jpg"
+     ]
+    },
+    {
+     "title": "Ultra-realistic cinematic full-body portra…",
+     "titleFull": "Ultra-realistic cinematic full-body portrait of Satoru Gojo from Jujutsu Kaisen, performing a powerful soccer kick during a FIFA World Cup match, slightly lowered head, eyes looking up toward the viewer, centered dynamic composition, subtle confident smirk, calm yet overwhelmingly powerful presence, delicate yet sharp facial features, smooth pale skin with soft diffusion, refined and symmetrical face, piercing blue Six Eyes glowing intensely with multi-layer reflections, strong eye focus, intense yet controlled gaze white hair with soft volume, slightly messy strands naturally falling, realistic motion from kick, black blindfold partially pulled down revealing glowing eyes beneath, flowing high-collar black uniform subtly adapted into athletic soccer gear, fabric folds realistically simulated, iconic outfit details retained, realistic texture and shading cinematic stadium lighting with blue and white tones, soft rim lighting outlining face, hair, and upper body, golden floodlight highlights from stadium, subtle energy trails and glowing particles around movement, dynamic motion blur on kicking leg, floating confetti and stadium crowd bokeh Infinity technique visualized as very subtle shimmering spatial distortion around body, light warping effect integrated with energy trails, dramatic volumetric lighting, dark dreamy stadium background with soft gradient and floating light particles, atmospheric depth photorealistic details, ultra-detailed 8K resolution, shallow depth of field, masterpiece, ultra-HD cinematic fantasy realism, concept art, full-body dynamic action, FIFA World Cup theme, heroic sports anime cinematic CG, high-end hyper-realistic rendering --ar 9:16 --v 7",
+     "desc": "",
+     "images": [
+      "assets/img_72.jpg"
+     ]
+    },
+    {
+     "title": "cinematic extreme low-angle portrait, dram…",
+     "titleFull": "cinematic extreme low-angle portrait, dramatic wide-angle lens perspective (18mm), Ganyu from Genshin Impact standing above the camera, leaning slightly forward while looking down at the viewer, upper body portrait (waist-up), strong foreshortening focused on upper torso, shoulders and chest extending slightly toward the camera, immersive perspective depth, NO legs visible composition control: head occupies the upper 50% of the frame, near top edge, neck to waist occupies lower 30%, strict vertical hierarchy, face as primary focal point long silky pale-blue hair flowing dynamically in the wind, ultra-detailed strands, soft translucency under sunlight, subtle horn-like red-black gradient horns visible large stylized anime eyes, deep blue crystalline irises with snowflake reflections, luminous star-like highlights, ultra-detailed eyelashes Ganyu signature outfit reinterpretation (Liyue-style bodice, elegant blue-white-black color scheme, gold ornaments, soft flowing fabric, subtle icy motifs), upper garment only visible bright blue sky with soft clouds, cold sunlight beams, faint icy particles floating in air, dreamy high-altitude atmosphere cinematic lighting, global illumination, soft rim light, volumetric light rays, HDR, depth of field, ultra-detailed cinematic CG render, masterpiece, 8k, anime-realism hybrid --ar 16:9 --niji 7",
+     "desc": "",
+     "images": [
+      "assets/img_73.jpg"
+     ]
+    },
+    {
+     "title": "Ultra-realistic cinematic portrait of Asuk…",
+     "titleFull": "Ultra-realistic cinematic portrait of Asuka Langley Shikinami from Evangelion, dramatic extreme low-angle perspective looking up at her, commanding and fearless presence, subtle confident smirk, realistic youthful facial proportions, naturally beautiful features, expressive piercing blue eyes with lifelike reflections, flawless fair skin with visible pores, subtle freckles and natural complexion, physically accurate subsurface scattering, long auburn hair rendered with individual flowing strands moving naturally in the wind, wearing an ultra-detailed crimson Evangelion plugsuit redesigned as premium futuristic combat armor with realistic carbon fiber, ceramic composite panels, brushed metal components and soft flexible materials, intricate mechanical detailing, cinematic red interface headset integrated into the suit, powerful stance with one hand raised while activating a massive translucent hexagonal A.T. Field, realistic energy distortion refracting the surrounding environment, volumetric red, blue and white energy illuminating the scene, cinematic rim lighting, global illumination, atmospheric haze, drifting dust particles, floating sparks and subtle smoke, realistic lens bloom, dramatic clouds above, the colossal silhouette of Evangelion Unit-02 standing behind her like a giant war machine, epic futuristic battlefield filled with debris and distant explosions, dark sci-fi atmosphere, grounded science-fiction aesthetic, Hollywood blockbuster visual style, photorealistic CGI, feature film quality, IMAX cinematic composition, premium visual effects, physically based rendering, ray-traced lighting, realistic depth of field, breathtaking environmental detail, masterpiece, ultra-detailed, stunning realism, epic scale, AAA cinematic VFX --ar 16:9 --raw --stylize 500 --niji 7",
+     "desc": "",
+     "images": [
+      "assets/img_74.jpg"
+     ]
+    },
+    {
+     "title": "Minimalist hand-drawn digital illustration…",
+     "titleFull": "Minimalist hand-drawn digital illustration of a white duck with an orange beak wearing oversized black sunglasses, a soft pink towel wrapped around its head like a turban and a matching pink towel around its body, centered portrait composition, muted sage green and pale cream vertical wavy striped background, flat pastel color palette, subtle paper texture, soft faded tones, vintage effect, retro print look, slightly aged surface feel, simple clean shapes, soft vintage poster style, no extra objects, no text, no watermark, sharp and clear details --ar 3:4 --profile 42an2ye --hd",
+     "desc": "",
+     "images": [
+      "assets/img_75.jpg"
+     ]
+    },
+    {
+     "title": "全景超广角，古老的东方神话奇幻场景，一座巨大的多层重檐青绿色鎏金中式天宫悬浮在宇宙太…",
+     "titleFull": "全景超广角，古老的东方神话奇幻场景，一座巨大的多层重檐青绿色鎏金中式天宫悬浮在宇宙太空之中，数位身着飘逸纯白色长袍的束发仙侠男子行走在雕梁彩绘回廊平台上，画面上下两侧是繁复斗拱飞檐的殿堂框架布局，回廊两侧苍劲古松与盛放粉樱树环绕，殿堂旁悬浮着带垂落飞瀑的浮空山石，远景天际铺展巨大蓝白星球与布满繁星的深邃夜空，没有红色木质半圆形拱门，远方没有云雾而是浩瀚星际空间，具有电影般宿命磅礴的氛围，虚幻而庄严圣洁，纯正东方仙侠美学，史诗宏大的规模，超广角全景构图，人物自然融入巨型仙宫星际环境之中，强烈的空间深度透视感，玄幻神话影视 CG 海报质感，柔和星空体积光效，高度精细雕刻木纹与建筑纹理，电影级画质杰作，8K 超高清，虚幻引擎 5 渲染 --chaos 10 --ar 9:16 --profile nm4hn1x --hd",
+     "desc": "",
+     "images": [
+      "assets/img_76.jpg"
+     ]
+    },
+    {
+     "title": "an astronaut riding a chopper styled Harle…",
+     "titleFull": "an astronaut riding a chopper styled Harley Davidson motorcycle on the surface of the moon full body shot perspective",
+     "desc": "",
+     "images": [
+      "assets/img_77.jpg"
+     ]
+    },
+    {
+     "title": "Neo-Chinese style, massive Chinese archite…",
+     "titleFull": "Neo-Chinese style, massive Chinese architecture, with small figures forming a strong contrast with the buildings. --ar 3:4 --sref 1038572786 --profile tby5881 pgv8o45 --hd --preview",
+     "desc": "",
+     "images": [
+      "assets/img_78.jpg"
+     ]
+    },
+    {
+     "title": "A sophisticated woman wearing an elegant e…",
+     "titleFull": "A sophisticated woman wearing an elegant emerald green dress, styled with a voluminous 1970s-inspired hairstyle, seated inside a modern glass loggia with strong 1970s design influences. The space features organic curved furniture, warm earthy tones, smoked glass, polished wood, brass details, and luxurious retro-futuristic interiors. She is calmly drinking from an artistic glass tumbler, looking refined and mysterious. Beside her, a huge floor-to-ceiling glass wall opens onto the African savanna at golden hour. Outside the glass, a majestic black lion stands very close, staring at her through the window. Cinematic tension, luxury safari lodge atmosphere, modern 70s editorial aesthetic, elegant composition, warm natural light, high-end fashion photography, realistic details, dramatic yet serene mood. --raw --profile gvjkpw5 x6d4r1f 4oef7ce",
+     "desc": "",
+     "images": [
+      "assets/img_79.jpg"
+     ]
+    },
+    {
+     "title": "a bright red biplane is the focal point of…",
+     "titleFull": "a bright red biplane is the focal point of this aerial image, seen from above, flying over a rich, green forest. streaks of white mist or clouds wind through the trees, providing a contrasting backdrop for the plane. the biplane's design, including its two wings and tail, is distinct. the pilot's head and shoulders are visible in the open cockpit. the composition emphasizes the plane's movement through a natural, cloud laden landscape. --ar 5:9",
+     "desc": "",
+     "images": [
+      "assets/img_80.jpg"
+     ]
+    },
+    {
+     "title": "THE THING WATCHING ME FINALLY MOVED --sref…",
+     "titleFull": "THE THING WATCHING ME FINALLY MOVED --sref 7197616692 5824337210 --profile 7idwzs6 ebbtxdt --hd",
+     "desc": "",
+     "images": [
+      "assets/img_81.jpg"
+     ]
+    },
+    {
+     "title": "This is a medieval tavern owner, appearing…",
+     "titleFull": "This is a medieval tavern owner, appearing to be in his thirties, with long black hair tied in a ponytail, a slender build, a goatee, and a relaxed, smiling expression on his face. He has fair skin. He is dressed in medieval noble attire, primarily dark green and black. His left hand is placed on his chest, and his right hand behind his back, giving him a handsome and polite appearance. It is a full-body portrait. The brushstrokes are delicate, giving the entire painting an oil painting-like texture. The background is white. This painting is reminiscent of official illustrations from Dungeons & Dragons. --ar 3:4 --profile mwpjb36 --hd",
+     "desc": "",
+     "images": [
+      "assets/img_82.jpg"
+     ]
+    },
+    {
+     "title": "topdown view of a backyard water feature o…",
+     "titleFull": "topdown view of a backyard water feature on a white background --profile 1kuh8ls",
+     "desc": "",
+     "images": [
+      "assets/img_83.jpg"
+     ]
+    },
+    {
+     "title": "Photograph, close-up vertical outdoor port…",
+     "titleFull": "Photograph, close-up vertical outdoor portrait, candid analog snapshot style with harsh direct flash, visible grain, high contrast, saturated dark shadows, and deep blue-green foliage background. A young adult woman dressed in a nun habit is framed from the shoulders up, wearing a white coif and wimple under a dark navy veil and robe. She has very fair skin, light eyebrows, pale blue eyes looking upward to the right, a neutral slightly distant expression, and softly parted peach-toned lips. One pale hand is raised beside her face, holding a lit white cigarette between the fingers. Behind her are dense tree leaves, small patches of bright blue sky, and strong flash-lit highlights against a dark nighttime or shaded outdoor setting. --ar 3:4 --raw --profile jmw9inn --hd --preview",
+     "desc": "",
+     "images": [
+      "assets/img_84.jpg"
+     ]
+    },
+    {
+     "title": "a cat --ar 4:5 --raw --profile zm6nhgi ys3…",
+     "titleFull": "a cat --ar 4:5 --raw --profile zm6nhgi ys35j9l --stylize 50 --hd",
+     "desc": "",
+     "images": [
+      "assets/img_85.jpg"
+     ]
+    },
+    {
+     "title": "Extreme close up cinematic beauty portrait…",
+     "titleFull": "Extreme close up cinematic beauty portrait of an exceptionally beautiful 22 year old Korean woman, face filling nearly the entire frame at a slight tilt. Luminous porcelain skin with realistic pores, glossy dewy finish, delicate peach pink blush. Long deep brown hair slightly wet and tousled, fine strands sweeping across forehead, eyes, and cheeks. Pale lavender gray contacts, softly defined lashes, shimmering champagne pink eyeshadow, pearlescent under eye highlights, subtle glossy tear like lower eyelid reflections. Full plump rose coral lips in glass like gloss, slightly parted in a playful smile, hint of white teeth. Dreamy yet intense direct eye contact. Soft silver lilac lighting with warm pink reflections, faint blurred neon background, shallow depth of field, macro beauty photography, realistic moist skin, high end Korean idol editorial, intimate cinematic atmosphere, slightly surreal ethereal mood, no text, no watermark, no UI elements. --ar 9:16 --profile w93b8fd",
+     "desc": "",
+     "images": [
+      "assets/img_86.jpg"
+     ]
+    },
+    {
+     "title": "a flying saucers in the distance over a sm…",
+     "titleFull": "a flying saucers in the distance over a small 1950 town Ohio in 1947 show scenes of cars and house close up of two people on the ground in focus running away --profile rixal22 --hd",
+     "desc": "",
+     "images": [
+      "assets/img_87.jpg"
+     ]
+    },
+    {
+     "title": "シンプルな水彩画風。NPCのシルエットアイコン。中世ファンタジー。男の子。子ども。顔…",
+     "titleFull": "シンプルな水彩画風。NPCのシルエットアイコン。中世ファンタジー。男の子。子ども。顔はよく見えない。胸から上のみ --profile 9eu9d3w",
+     "desc": "",
+     "images": [
+      "assets/img_88.jpg"
+     ]
+    },
+    {
+     "title": "A 2000s photograph from a hill in a empty,…",
+     "titleFull": "A 2000s photograph from a hill in a empty, perfect rolling hill like land. The camera is pointed at the sky so that 80% of the scene is sky. Bulbous clouds pulse. Perfect monoliths of color pink, crystal, silver, and black point in the distance. --ar 4:3 --weird 4",
+     "desc": "",
+     "images": [
+      "assets/img_89.jpg"
+     ]
+    },
+    {
+     "title": "CYBERPUNK ROBOT 8K --raw --profile m4qh2rc…",
+     "titleFull": "CYBERPUNK ROBOT 8K --raw --profile m4qh2rc --hd",
+     "desc": "",
+     "images": [
+      "assets/img_90.jpg"
+     ]
+    },
+    {
+     "title": "Ultra-realistic cinematic dynamic wallpape…",
+     "titleFull": "Ultra-realistic cinematic dynamic wallpaper composition of Asuka Langley Shikinami from Evangelion, extreme low-angle tilted perspective creating intense motion and tension, Asuka positioned in the lower foreground turning toward incoming threat with fierce confident expression, auburn hair violently swept by wind, crimson armored plugsuit reflecting explosive lighting, one hand extended projecting a fragmented hexagonal A.T. Field breaking under pressure, behind her Evangelion Unit-02 charging forward through destroyed futuristic city ruins, massive kinetic motion blur emphasizing speed and impact, debris and shattered structures flying through the air, glowing red and orange energy trails cutting across the scene, blue atmospheric backlight contrasting explosive foreground tones, volumetric smoke and dust clouds filling depth layers, cinematic handheld film aesthetic, Hollywood sci-fi battle realism, hyper-detailed CGI environment, strong diagonal composition guiding viewer eye through motion path, wallpaper-ready dramatic action framing --raw --profile m4qh2rc --hd",
+     "desc": "",
+     "images": [
+      "assets/img_91.jpg"
+     ]
+    },
+    {
+     "title": "Austin Mini Cooper S Race Car, 4k --ar 3:2…",
+     "titleFull": "Austin Mini Cooper S Race Car, 4k --ar 3:2 --sref 2121792200 --profile ieo5ezo --sw 100 --stylize 1000 --hd",
+     "desc": "",
+     "images": [
+      "assets/img_92.jpg"
+     ]
+    },
+    {
+     "title": "Unreal Engine rendering, no watermarks or …",
+     "titleFull": "Unreal Engine rendering, no watermarks or text. Cinematic wide shot of a cavernous indoor hall in a floating palace, ceiling lost in shadow, giant red lacquered columns receding into misty perspective. Deep depth of field keeps a lone Hanfu clad figure deep blue and amber robes sharp in the midground beside an open lattice window overlooking a cloud sea; pillars and rafters blur into monumental scale. Soft diffused twilight filters through silk screens onto a low platform where nobles play weiqi, tea cups steaming. Hanging calligraphy scrolls sway in the breeze; incense smoke curls from a bronze tripod. Window frames distant floating islands with silver waterfalls and pine groves. Reflective floor mirrors golden light; carved beams depict dragons and phoenixes. Palette: warm gold, ink black, jade white, cinnabar no harsh highlights, shadows in soft gradients. Mood: contemplative and epic, blending daily life with godlike architecture. --ar 3:2 --sref 2121792200 --profile ieo5ezo --sw 100 --stylize 1000 --hd",
+     "desc": "",
+     "images": [
+      "assets/img_93.jpg"
+     ]
+    },
+    {
+     "title": "Two elderly scholars in muted indigo and c…",
+     "titleFull": "Two elderly scholars in muted indigo and charcoal Hanfu sit cross legged on a vast circular stone platform in a half open celestial teahouse, its roof supported by twelve towering pillars each carved with a different zodiac animal. Three open sides reveal a colossal palace complex rising from clouds  countless tiered pavilions with vermilion and gold upturned eaves catching pale rose dawn light. A mirror lake on a cloud island floats between them and the palace, reflecting the sky city perfectly, ancient lotus pads and silver green weeping willows at its edge. Smaller satellite palaces drift in atmospheric haze. The scholars are minuscule against even one pillar, tea cups dewdrop sized. Soft morning light casts long shadows across polished stone, illuminating floating dust motes. Colors shift from cool dawn blues and lavenders above to warm terracotta and bronze below. Wisps of cloud obscure the scholars' faces. A massive ancient pine grows from a platform crack, casting intricate shadows. Cinematic wide shot, shallow to deep depth of field, Unreal Engine 5, no watermarks, no text. --chaos 40 --ar 16:9 --exp 100 --profile novas9i tgnnslq --hd",
+     "desc": "",
+     "images": [
+      "assets/img_94.jpg"
+     ]
+    },
+    {
+     "title": "虚幻引擎5渲染、不出现水印和文字。构图采用cinematic wide shot电影…",
+     "titleFull": "虚幻引擎5渲染、不出现水印和文字。构图采用cinematic wide shot电影级广角配合depth of field景深，这是一个位于天宫深处、巨大建筑群落内部的中庭局部。画面捕捉的是一座巨大到如同广场般的庭院一角，地面铺设着巨大的青石板，缝隙中长出了青草。画面中心是一个巨大的石质棋盘，棋盘上的棋子每一颗都有磨盘大小，一颗巨大的棋子刚刚落下，激起地面的微尘。在棋盘旁，一位身着石青色圆领袍的身影正独自抚琴，人物极其渺小，仿佛是被巨大建筑遗忘的过客。庭院周围是高达百丈的宫墙，墙头覆盖着层层叠叠的黑色筒瓦，远处廊道的栏杆如同微缩模型般延伸至云端。soft diffused light柔化漫射光穿过重重庭院，从顶部的藻井和天窗洒下，光线柔和，没有刺眼的阴影，照亮了飘飞的白梨花瓣。一株巨大的百年梨树从庭院的假山石中探出，花开正盛。色调以石青、月白、青灰为主，细节上展示了砖石的沧桑、苔藓的湿润、乐器的漆面，无荧光物质，营造出一种深宫大院中时间静止的史诗感与孤独感。 --chaos 40 --ar 16:9 --exp 100 --profile t8erj2p novas9i --hd --preview",
+     "desc": "",
+     "images": [
+      "assets/img_95.jpg"
+     ]
+    },
+    {
+     "title": "虚幻引擎5渲染、不出现水印和文字。构图采用cinematic wide shot电影…",
+     "titleFull": "虚幻引擎5渲染、不出现水印和文字。构图采用cinematic wide shot电影级广角配合depth of field景深，场景设定在一座凌驾于云端之上的巨型渡口建筑内。画面展示的是渡口内部的极其宏大的一角，巨大的木质梁柱支撑着仿佛直通天际的穹顶，柱子上缠绕着褪色的红绸。画面中心是一个巨大的青铜香炉，香烟袅袅升起，几乎直冲云霄。在香炉的巨大底座旁，几位身着玄色与深紫色汉服的旅人正安静站立，仰望着高处的时刻表（巨大的云纹石壁），人物在画面中如同微尘。soft diffused light柔化漫射光从建筑后方巨大的拱形门窗涌入，窗外是翻滚的云海和远处隐约可见的悬浮岛屿，光线在弥漫的烟雾中形成了清晰的光柱，边缘虚化。地面由巨大的金砖铺就，反射着微弱的光泽，角落里有几只巨大的红灯笼和几盆造型苍劲的罗汉松。色调以玄色、朱红、金色为主，细节爆炸，金属的铜绿、织物的厚重感、石头的风化痕迹都清晰可见，无荧光物质，营造出一种即将远行的、充满中式古典神话色彩的宏大叙事感。 --chaos 40 --ar 16:9 --exp 100 --profile t8erj2p novas9i --hd --preview",
+     "desc": "",
+     "images": [
+      "assets/img_96.jpg"
+     ]
+    },
+    {
+     "title": "a poster design of a [Spider-Man] from [Ma…",
+     "titleFull": "a poster design of a [Spider-Man] from [Marvel] comics, with a [red and blue] color scheme dominating the image. he is wearing a [red and blue web-patterned suit and mask]. the bold word \"SPIDER-MAN\" is displayed in glowing text behind him. small bright elements are dispersed throughout the dark background, creating a glowing particle effect. --ar 3:4 --hd",
+     "desc": "",
+     "images": [
+      "assets/img_97.jpg"
+     ]
+    }
+   ]
+  },
+  {
+   "key": "poster",
+   "name": "海报排版",
+   "sub": "模板",
+   "count": 11,
+   "items": [
+    {
+     "title": "你要生成的不是普通插画，也不是简单把一个单词放大后贴在画面上的字效海报，而是一张“基…",
+     "titleFull": "你要生成的不是普通插画，也不是简单把一个单词放大后贴在画面上的字效海报，而是一张“基于词语含义自动构建视觉隐喻”的高级概念海报。\n\n你的核心任务是：\n用户会提供一个字、一个词、一个词组、一个短句，或一组字母。你需要先真正理解这个文字内容的表层含义、情绪气质、隐含象征、文化联想、心理感受与语义张力，再把这些理解转译成一张极简、强概念、强传播力、强视觉记忆点的图形艺术海报。\n\n这张海报必须让人一眼就感受到这个词语“为什么是这样被表达的”，而不是只看到漂亮画面却无法理解词义。画面要做到“文字本身就是主题，图像是对文字的深化表达，二者共同组成一个完整的视觉句子”。\n\n一、先理解词语，再生成画面\n在动手生成之前，先智能分析用户输入内容，包括但不限于：\n1. 这个词语最核心的字面含义是什么。\n2. 这个词语在情绪上偏向温柔、冷峻、危险、孤独、浪漫、压迫、希望、纯真、欲望、秩序、冲突、疏离、自由、沉默、毁灭、重生等哪种倾向。\n3. 这个词语是否具有双关、反差、张力、隐喻、悖论、社会性、哲学性或情感深度。\n4. 这个词语最适合被转译成哪一种视觉逻辑：人物关系、物体关系、动作关系、空间关系、对比关系、象征关系、冲突关系、秩序关系、荒诞关系、诗意关系等。\n5. 如果这个词语较抽象，不要直接做空洞抽象图案，而要找到能够承载其含义的具体视觉载体。\n6. 如果这个词语较具体，也不要只做字面插图，而要通过构图、尺度、关系、反差与氛围，让它变得更有思想和记忆点。\n\n二、画面构图逻辑\n整体画面必须极简、明确、有概念感，构图要干净而有力量，不能杂乱，不能像普通商业插画，不能堆砌太多元素。\n\n优先采用以下构图思路：\n1. 大字作为画面的核心骨架。用户输入的文字、单词或词组应成为画面中的主视觉文字主体，通常以大尺寸出现，占据画面重要区域，具有强识别性与压迫感。\n2. 图像元素不是随意摆放，而是要与文字产生关系。它们可以站在字前、嵌入字中、与字形成互动、切割字形、借字的空间形成叙事，或在视觉上与字构成强烈对照。\n3. 整体元素数量要克制。通常控制在少量关键主体之内。宁可少而准，也不要多而散。\n4. 画面要有明确主次关系：文字是第一视觉层，图像叙事是第二视觉层，细小说明文字是第三视觉层。\n5. 留白要聪明，不是空，而是让画面更有呼吸感、更有判断力、更有设计感。\n6. 构图应尽量稳定、简洁、好读，并具备“海报感”，而不是像一张普通插画截图。\n\n三、图像表达逻辑\n根据词语的意义，自动选择最有代表性的视觉表达方式。图像表达应遵循以下原则：\n1. 优先选择能够浓缩词义的单一强画面，而不是平铺直叙。\n2. 可以通过人物之间的关系、人物与物体的关系、尺度反差、方向关系、距离关系、遮挡关系、动作瞬间等方式表达词义。\n3. 画面应具有隐喻性，但不能晦涩到完全无法理解。\n4. 表达要巧妙，要有“看到后会心一击”的感觉，让观众觉得画面和这个词是高度绑定的。\n5. 不要仅仅追求美感，更要追求“准确地说出了这个词的感觉”。\n6. 如果词义具有冲突性、悖论性或反差感，可以通过画面中的对立元素强化这种张力。\n7. 如果词义更偏诗意、情感、记忆、哲思，可以使用更含蓄、更留白、更克制的图像策略。\n\n四、视觉风格要求\n整体风格为高级图形艺术海报，具有拼贴感、丝网印刷感、石版印刷感或版画式质感，但不要做得过脏过乱。要保留一种清晰、克制、硬朗、概念化的印刷纸张气质。\n\n风格要求：\n1. 具有强烈平面设计感，而不是普通三维插画。\n2. 画面应有干净统一的色彩逻辑，颜色数量不宜过多。\n3. 可使用高饱和主背景色配合大面积浅色文字，形成强对比。\n4. 质感可带有细微颗粒、纸张纹理、印刷噪点、轻微做旧感，但整体仍需清爽、利落、高级。\n5. 人物或物体细节要清楚，但整体仍然服从平面海报的统一调性。\n6. 不要做成廉价模板，不要出现低级拼贴感，不要做成广告页，不要做成普通电商排版。\n\n五、文字排版逻辑\n1. 用户输入的文字内容必须作为核心标题，大且醒目。\n2. 如果用户输入的是英文单词或字母组合，保留原文，确保字形强烈、清晰、具有视觉冲击力。\n3. 如果用户输入的是中文词语或短句，可以根据整体设计决定是否直接使用中文大字，或采用更适合的方式排布，但必须保证其是画面核心。\n4. 可以在画面左下角、右下角或其他克制位置加入一句小型辅助短句，用来深化主题，但必须非常简洁且自然。\n5. 还可以加入少量极小号的辅助信息、编号、署名等内容，仅在非常相关的情况下用来增强海报的艺术感，避免过多无关内容。\n6. 所有文字都要像从画面中生长出来的一样，不能像后期随便贴上去。\n\n六、成图目标\n最终生成的海报必须满足以下结果：\n1. 一眼看上去极简、强烈、完整、有高级感。\n2. 能让人快速感受到这个词语的情绪和内涵。\n3. 图与字之间存在强关联，形成一种聪明、准确、耐看的视觉表达。\n4. 既有平面设计的理性控制，也有艺术表达的情绪力度。\n5. 具有传播性、海报感、收藏感、展览感。\n6. 不能只是“把词画出来”，而是要“把词的精神状态视觉化”。\n\n七、执行原则\n1. 不要机械重复固定模板，要根据用户输入智能变化。\n2. 但整体仍需保持极简、概念化、强排版、强识别度的统一品质。\n3. 构图要合理，画面要克制，表达要巧妙。\n4. 不要过度解释，不要加入多余元素，不要让画面显得拥挤。\n5. 任何视觉元素都必须服务于词语表达，不能为了好看而偏离主题。\n\n请基于以上原则，生成一张围绕用户输入内容展开的高级概念海报。\n\n用户输入内容：\n核心文字 / 单词 / 词组 / 字母：\n文字语言：\n可选补充语境：\n可选情绪倾向：\n可选禁用元素：",
+     "desc": "GPT2提示词：字体美学 x 单词视觉化 x 字体气质理解                                             提示词无地面版（在提示词结尾\n你除了和GPT-image2说出你要呈现的文字\n还可以补充其他要求， 尤其是画面气质的说明列：1.色彩日系明亮。几何艺术+像素艺术。2.色彩日系明亮。 塑料袋质感+脏脏的艺术+暗黑氛围3.色彩日系明亮。邋遢艺术+像素故障+神来之笔4.色彩日系明亮。  线条艺术+碎片拼贴+极简人文艺术5.色彩日系明亮。  故障艺术+未来科幻+神秘艺术  6.色彩日系明亮。  梵高艺术+乐高艺术  7.色彩日系明亮。  陈家冷艺术风格+黄永玉艺术风格+顾长卫美学8.色彩日系明亮。糖果的玻璃质感艺术+马卡龙质感+夏日氛围等等）",
+     "images": [
+      "assets/img_98.jpg",
+      "assets/img_99.jpg"
+     ]
+    },
+    {
+     "title": "你要生成的不是普通插画，也不是简单把一个单词放大后贴在画面上的字效海报，而是一张“基…",
+     "titleFull": "你要生成的不是普通插画，也不是简单把一个单词放大后贴在画面上的字效海报，而是一张“基于词语含义进行视觉转译”的高级概念海报。\n\n这张海报必须具备真正优秀的设计思维：文字不是贴上去的说明，图像也不是独立存在的插画。文字、图像、构图、色彩、空间、承载面、角色动作、视觉隐喻，必须共同组成一个完整、聪明、克制、极简但有力的视觉表达。\n\n核心任务：\n用户会提供一个字、一个词、一个词组、一个短句，或一组字母。你需要先理解这个词语的字面意思、情绪气质、文化联想、隐含象征、心理重量、社会语境与潜在张力，然后把它转译成一张极简而强烈的图形艺术海报。\n\n最终效果必须让人一眼就能感觉到：这个画面不是随便搭配出来的，而是在“准确地表达这个词”。\n\n一、语义理解原则\n在开始生成前，先智能理解用户输入的文字内容：\n1. 这个词最核心的含义是什么。\n2. 它偏向哪种情绪气质：冷静、压迫、温柔、危险、纯真、暴烈、克制、疏离、希望、毁灭、浪漫、孤独、秩序、混乱、沉默、对抗、空虚、信念、欲望等。\n3. 它是否包含反差、悖论、双重含义、社会性、哲学性、情感张力或象征意味。\n4. 它更适合通过哪种关系来表达：人物与人物、人物与物体、物体与物体、主体与空间、主体与文字、尺度反差、距离关系、动作瞬间、对峙关系、献出关系、遮挡关系、失衡关系、依附关系、侵入关系等。\n5. 如果词语很抽象，不要只做抽象纹理，要找到能够承载它的具体视觉对象与动作。\n6. 如果词语很具体，也不要只做字面插图，而是要通过关系、尺度、构图与氛围，把它变得更有内涵。\n\n二、核心构图机制\n画面必须优先采用“极简主场景 + 承载面 + 角色演绎 + 巨型文字骨架”的构图逻辑。\n\n1. 必须有一个清晰的承载面\n画面中应尽量出现一个明确的横向承载结构，像舞台、土地、台基、坡面、切面、地平线、平台、表层、底座或简化的场域。它不是背景装饰，而是让角色和物体真正“站住”的空间基础。\n这个承载面通常位于画面下部、中下部，或作为横向结构贯穿画面，形成强烈稳定感。\n它可以很简单，但必须让构图成立，让角色的行为像在一个真实的视觉舞台上发生。\n\n2. 必须有少量但关键的演绎主体\n画面中的主体数量必须克制，通常为1到3个关键角色、人物或核心物体。\n这些主体不是随便摆拍，而是承担“演绎这个词”的任务。\n它们需要通过姿态、朝向、距离、动作、对峙、给予、接触、等待、穿越、凝视、阻隔等关系，把词语的含义演出来。\n宁可少而准，不要多而杂。\n\n3. 必须有大字作为画面骨架\n用户输入的文字、单词、词组或字母必须成为画面的主视觉骨架，以巨大、清晰、强识别度的方式出现，占据画面重要区域。\n大字不只是标题，而是画面的结构体。它可以像背景墙、视觉压力面、建筑块、空间屏障、象征场、秩序边界或情绪载体一样存在。\n大字应该有压迫感、存在感和设计感。\n\n4. 必须体现“文字嵌入”逻辑\n这是核心要求。文字不能只是漂浮在背景上，也不能只是后期贴字。\n文字必须真正参与构图，成为空间的一部分。可通过以下思路实现：\n让主体站在字前，形成强烈前后层次；\n让主体嵌入字的内部空间；\n让字成为背景墙、屏障、舞台后景、结构体或叙事容器；\n让角色的动作与字产生关系；\n让字的一部分被切割、遮挡、穿越、借位或占据；\n让文字与承载面、留白和主体共同构成完整的视觉句子。\n总之，图与字必须互相咬合，而不是分离存在。\n\n三、画面表达原则\n1. 画面要极简，但不能空洞。\n2. 画面要有强概念，但不能故弄玄虚。\n3. 画面要有隐喻，但不能让人完全看不懂。\n4. 画面要有戏剧性，但不能做得花哨、拥挤或廉价。\n5. 画面要有“一击即中”的感觉：观众看到的瞬间，就能捕捉到这个词被如何视觉化。\n6. 画面要像一个被高度提炼过的视觉观点，而不是一堆元素的拼凑。\n7. 如果词语具有冲突感、反差感、荒诞感、纯真与暴力并置、秩序与失控并置、柔软与坚硬并置等特征，应通过画面关系强化这种张力。\n8. 如果词语更偏诗意、记忆、哲思、情感沉淀，则画面应更克制、更含蓄、更依赖留白与关系，而不是依赖花哨特效。\n\n四、色彩逻辑\n配色必须遵循“顶级设计师式”的控制逻辑，避免土气、花哨、廉价、商业模板感。\n\n1. 颜色数量必须严格克制，通常控制在2到4种主色关系内。\n2. 画面应有明确的主色、辅助色、文字色和小面积强调色。\n3. 配色必须服务于词义与情绪，而不是为了热闹。\n4. 可以采用高对比，但必须高级、干净、克制，不可杂乱。\n5. 优先使用具有纸张印刷感、展览海报感、艺术出版感的配色系统，而不是廉价渐变或俗艳搭配。\n6. 避免无意义的彩虹色、廉价霓虹、过多饱和色混用、脏浊互撞、随意补色堆叠。\n7. 如果没有特别需求，优先采用“一个强主色 + 一个纸感浅色 / 低彩中性色 + 一个深色支撑 + 一个极少量强调色”的逻辑。\n8. 色彩应有情绪判断力：冷暖、轻重、软硬、压迫或呼吸感，都要由词义决定。\n9. 整体必须让人感觉高级、现代、克制、果断，不土，不俗，不乱。\n\n五、视觉风格要求\n整体风格应接近高级图形艺术海报，具有印刷品气质，允许带有拼贴感、石版印刷感、丝网印刷感、版画感、纸张颗粒、轻微噪点与克制的材质纹理，但必须保持整体干净、完整、清晰。\n\n要求如下：\n1. 强烈平面设计感。\n2. 强整体性。\n3. 有印刷海报气质。\n4. 有收藏级、展览级、传播级的高级完成度。\n5. 画面不能像普通插画封面，也不能像电商海报，更不能像廉价模板。\n6. 所有细节都应围绕“少而精、准而狠”的设计原则展开。\n\n六、文字系统要求\n1. 用户输入的核心文字必须是画面主标题，且是主视觉核心。\n2. 若为英文，优先确保字形简洁、巨大、强势、清晰，可全部大写。\n3. 若为中文，应让中文本身成为构图的一部分，而不是普通排版标题。\n4. 除主标题外，可以有少量辅助文字，但必须满足以下铁律：\n辅助文字必须与主题直接相关；\n辅助文字必须能深化词义、补充语境、增强概念，而不是为了填空而出现；\n辅助文字必须克制、少量、巧妙；\n严禁出现无意义的假署名、假编号、假说明、随机短句、随机数字、随机出版信息、随机坐标、无关装饰性小字。\n5. 如果加入辅助信息，它应像概念的一部分，而不是模板噪音。\n6. 所有文字都要像从画面内部生长出来，与图像、空间和承载面形成整体。\n\n七、执行限制\n1. 不要机械套模板，但要保持高级、统一、克制的总气质。\n2. 不要堆元素，不要炫技，不要过满。\n3. 不要让构图失去秩序。\n4. 不要做成普通“文字 + 插图”的组合。\n5. 不要让文字与图像脱节。\n6. 不要加入与主题无关的装饰。\n7. 所有出现的元素都必须回答一个问题：它为什么在这里，它是否真的服务于这个词。\n\n八、最终生成目标\n最终生成一张高级、极简、强概念、强识别、强传播、强完成度的单张海报。\n这张海报必须做到：\n一眼有冲击；\n二眼能读懂；\n三眼觉得巧妙；\n图与字高度咬合；\n承载面、角色、文字、色彩形成统一系统；\n真正把用户输入的词语“视觉化”而不是“插图化”。\n\n请根据以上规则，围绕用户输入内容生成画面。\n\n用户输入内容：\n核心文字 / 单词 / 词组 / 字母：\n文字语言：\n可选补充语境：\n可选情绪倾向：\n可选禁用元素：\n是否允许辅助文字：\n辅助文字如允许，必须与主题的关系说明：",
+     "desc": "GPT2提示词：字体美学 x 单词视觉化 x 字体气质理解                                             提示词有地面版本",
+     "images": [
+      "assets/img_100.jpg",
+      "assets/img_101.jpg"
+     ]
+    },
+    {
+     "title": "你要生成的不是普通插画，也不是简单把一个词放大后贴在画面上的字效海报，而是一张“基于…",
+     "titleFull": "你要生成的不是普通插画，也不是简单把一个词放大后贴在画面上的字效海报，而是一张“基于词义深度理解进行视觉转译”的高级概念海报。\n\n你的核心任务是：\n用户会提供一个字、一个词、一个词组、一个短句，或一组文字。你必须先深度理解这段文字的表层含义、深层寓意、情绪气质、文化联想、人物命运感、时代氛围、潜在叙事与隐含张力，再决定最适合它的视觉语言、构图方式、阅读结构、色彩气质、画面风格与视觉隐喻。\n\n这张海报的目标不是“把字画出来”，也不是“做一张带说明文字的插画”，而是要把这个词语或文字背后的精神状态、命运质感、情绪张力与象征意味，转译成一张高级、极简、克制、展览级、强排版、强隐喻、强情绪、强记忆点、并且图文高度融合的视觉海报。\n\n一、深度语义理解机制\n在生成画面之前，必须先对输入文字进行多层分析，并据此决定所有视觉选择。\n\n1. 先理解整体\n先判断用户输入的整体含义、核心主题、主要情绪、潜在矛盾、精神气质和最有力量的表达方向。\n\n2. 如果输入的是中文词语、词组或短句，必须进一步拆解理解\n不仅要理解整体含义，还要理解每个字、重点字、中心字的独立意义与彼此之间的关系。\n尤其要识别：\n每个字的字面意思；\n每个字可能承载的文化象征；\n每个字带来的情绪重量；\n哪些字是语义核心；\n哪些字具备更强的画面潜力；\n整体词义与单字含义之间是否存在呼应、递进、反差、冲突、留白或更深层的精神联系。\n\n3. 如果是较长短句，要找出真正的核心词与核心字\n不是平均处理所有文字，而是要找出最关键、最有视觉主导权的字词，并围绕它们建立画面秩序。\n\n4. 必须分析以下维度\n表层含义；\n深层寓意；\n情绪气质；\n文化联想；\n人物命运感；\n社会语境；\n历史感或时代感；\n心理张力；\n叙事可能性；\n隐性冲突；\n象征性与隐喻性；\n视觉可转译性。\n\n5. 风格必须由词义自动生成\n不要机械套用统一模板。\n每个词、每组字、每句话，都应该拥有与其自身内涵相匹配的独特视觉语言。\n风格、构图、色彩、材质、元素密度、阅读节奏、空间关系、图文关系，都必须从词义中长出来，而不是预设不变。\n\n二、总原则：整张海报必须是一个完整场域\n这是最核心的结构原则。\n\n1. 不要把画面做成割裂的多栏信息板\n不要把主标题、图像、说明文字粗暴分成三栏、四栏、几个独立模块。\n不要出现像杂志目录、展板拼贴、信息看板那样的分区切割感。\n不要让阅读体验像在看被切开的说明页。\n\n2. 整张画面必须是一个统一的视觉场\n文字、图像、补充信息、留白、空间气息、阅读路径，必须共同存在于同一个视觉场域中。\n它们彼此牵引、彼此嵌合、彼此呼应，而不是互相分家。\n\n3. 阅读体验必须自然融入画面\n观者的阅读应该被构图自然引导，而不是被硬性分栏安排。\n阅读路径要像在画面中“漫游”和“流动”，而不是像阅读表格一样机械切换。\n画面要有意境，有呼吸，有节奏，有视觉上的停顿与递进。\n\n4. 图文必须共生\n文字不是贴上去的内容，图像也不是孤立存在的插画。\n它们必须共同组成一个完整的视觉句子和阅读体验。\n\n三、主标题系统\n1. 巨大的中文主标题“【输入文字】”必须是绝对主体。\n2. 字形必须清晰、完整、可识别，无错字、无缺笔、无歧义。\n3. 主标题应占据画面大部分面积，形成最强第一视觉。\n4. 主标题不仅是标题，还要是画面的骨架、节奏源、空间结构和意义载体。\n5. 可以对重点字、中心字进行更强的视觉强调，但整体文字必须成立且好读。\n6. 主标题可以成为背景墙、结构面、空间屏障、舞台后景、地形、精神象征物或情绪载体。\n\n四、图文融合机制\n这是本次优化的重点要求。\n\n1. 文字必须真正“长”在画面里\n文字不能只是排在旁边，也不能独立漂浮成说明栏。\n它应该像从画面内部生成的一样，与图像、承载面、空间气氛共同存在。\n\n2. 文字与图像必须相互依存\n图像元素要与文字发生关系，例如：\n站在字前；\n藏入字内；\n穿过字形；\n依附在字的边缘；\n借字的留白构成动作；\n把字当作场景、屏障、路径、舞台或命运结构。\n总之，字和图要彼此咬合。\n\n3. 阅读信息要自然嵌入，不要做信息分区\n如果画面中需要少量阅读内容，它们不应被割裂成整齐的说明栏，而应自然嵌入到画面中：\n可以沿着标题边缘排布；\n可以贴着某个图像元素生长；\n可以顺着空间方向延展；\n可以像展签一样轻轻停留在局部；\n可以像低声补充的注解一样存在；\n可以像一条气息、一句余音、一段余温，而不是生硬的专栏说明。\n\n4. 所有阅读内容都必须服务意境\n文字的存在不只是为了信息说明，而是为了增强画面的气质、语境、联想、情绪和沉浸感。\n阅读体验本身也是画面气氛的一部分。\n\n五、阅读结构与阅读路径\n1. 画面必须有自然的阅读流向\n观者应先被主标题吸引，再被图像关系击中，然后自然看到补充性的阅读信息。\n阅读顺序应顺畅、有节奏、有轻重，而不是堆在一起或硬性并列。\n\n2. 采用“整体阅读”而不是“栏目阅读”\n不要让画面像几个版块拼在一起。\n应让信息通过大小、远近、疏密、留白、方向、视觉重心来组织，而不是靠分栏和框线切开。\n\n3. 阅读节奏必须有层次\n第一层：巨大主标题；\n第二层：核心视觉隐喻；\n第三层：与图像关系紧密的少量阅读信息；\n第四层：细微但相关的辅助内容。\n这种层级必须清晰，但不能割裂。\n\n4. 信息排布必须有呼吸感\n不要塞满，不要挤压，不要强行对齐成报纸式栏目。\n要让信息像在空气中合理停驻，而不是像模块被拼接。\n\n六、核心构图机制\n整体画面优先采用“巨型文字骨架 + 简洁承载面 + 精准角色 / 物体演绎 + 巧妙补充元素 + 流动式阅读体验”的构图逻辑。\n\n1. 画面要有明确承载面\n尽量有一个类似舞台、土地、台基、地平线、平台、剖面、场域表层、底座或象征性落脚点的结构。\n这个承载面要让人物和物体真正“落地”，增强秩序感、戏剧感与稳定性。\n\n2. 主体数量要克制\n通常为1到3个关键主体，可以是人物、物体、动物、象征体或抽象转具体的载体。\n不要堆砌角色，不要做成群像插画。\n\n3. 主体必须承担“演绎词义”的任务\n主体通过动作、站位、朝向、距离、尺度、关系、接触、对峙、献出、等待、背离、失衡、坠落、托举、遮挡、凝视、穿越等方式，把词语演出来。\n\n七、视觉隐喻提炼机制\n请提炼一个最准确、最有代表性、最能一眼击中观者的核心视觉隐喻。\n\n1. 优先寻找一个“单一而强”的核心隐喻\n不要把海报做成多个概念的堆积，而是要找到那个最准确、最有力量的象征性场景或关系。\n\n2. 隐喻必须和词义高度绑定\n观者看到画面，应能直觉感受到：这个词被这样表达，是有道理的，是准确的，是聪明的。\n\n3. 可以通过以下方向建立隐喻\n人物命运感；\n象征物关系；\n动作瞬间；\n空间压迫；\n尺度反差；\n柔软与坚硬的并置；\n纯真与危险的对照；\n秩序与崩塌的冲突；\n靠近与疏离的张力；\n出现与消失；\n束缚与逃逸；\n给予与剥夺；\n现实与理想的碰撞；\n时间感与历史感。\n\n八、补充性元素机制\n画面中可以融入少量恰当的补充性元素，但这些元素必须巧妙、有逻辑、有关联，而不是杂乱填充。\n\n1. 补充元素的作用\n深化主题；\n补充词义层次；\n建立视觉呼应；\n增强情绪氛围；\n强化文化联想；\n加强图文融合；\n让整体更完整、更耐看。\n\n2. 补充元素必须来源于语义分析\n不能随机生成装饰。\n它们应来自：\n词语的象征物；\n时代气质；\n文化典故；\n人物命运线索；\n环境痕迹；\n精神状态；\n动作残留；\n空间暗示；\n材料隐喻；\n叙事碎片。\n\n3. 补充元素必须与主标题、主体和阅读内容产生关联\n可以与某个字形呼应；\n与主体动作呼应；\n与空间方向呼应；\n与小范围阅读内容呼应；\n与配色关系呼应。\n所有元素必须像从同一个系统中长出来的一样。\n\n4. 补充元素必须克制\n它们是增强表达的力量，不是装饰噪音。\n宁可少而巧，不可多而乱。\n\n九、辅助文字规则\n1. 除主标题外，可有极少量辅助文字，但不是必须。\n2. 辅助文字只有在能够深化主题、补充语境、增强概念、丰富阅读体验时才允许出现。\n3. 辅助文字必须与主题直接相关。\n4. 辅助文字要以“自然嵌入画面”的方式出现，而不是独立形成说明栏。\n5. 可以是短句、片语、注释、语境提示、诗性补白、微型展签式内容，但必须短、准、巧、轻。\n6. 严禁出现无意义的装饰性小字、假编号、假坐标、假署名、假说明、随机英文碎片、无关排版噪音。\n7. 所有辅助文字都必须像意境的一部分，而不是版式填充物。\n\n十、色彩逻辑\n色彩不能土气，必须体现顶级设计师的判断力。\n\n1. 色彩必须由词义、情绪、文化气质和画面隐喻共同决定。\n2. 不要机械使用固定色板。\n3. 色彩数量要严格控制，通常为2到4种主色关系。\n4. 配色应具有高级、现代、克制、展览海报式的审美品质。\n5. 避免廉价渐变、俗艳拼色、无意义高饱和乱撞色、模板感配色。\n6. 可以采用：\n一个强主色；\n一个浅色或纸感中性色作空间基础；\n一个深色作为结构支撑；\n一个极少量强调色用于情绪爆点或语义强化。\n7. 整体必须看起来像经过审美判断的艺术海报，而不是普通商业配色。\n\n十一、风格要求\n整体气质要求：\n高级；\n极简；\n克制；\n展览级；\n强排版；\n强隐喻；\n强情绪；\n强记忆点；\n强图文整合能力；\n强意境；\n强整体感。\n\n允许带有以下质感倾向：\n图形艺术海报；\n高级拼贴感；\n石版印刷感；\n丝网印刷感；\n版画感；\n纸张颗粒；\n轻微印刷噪点；\n克制材质纹理。\n\n但必须注意：\n不要脏乱；\n不要廉价模板感；\n不要普通商业插画感；\n不要封面配文感；\n不要图文分家；\n不要信息分栏割裂。\n\n十二、执行限制\n1. 不要机械套模板。\n2. 不要为了美观而偏离词义。\n3. 不要把阅读内容切成三栏或多个独立专栏。\n4. 不要做成“图一块、字一块、说明一块”的拼接式页面。\n5. 不要只做人物外貌插画。\n6. 不要只做单纯字体海报。\n7. 不要让文字和图像彼此独立。\n8. 不要让补充信息失去逻辑来源。\n9. 不要让画面变得拥挤、花哨、低级或装饰过度。\n\n十三、最终成图目标\n最终生成一张围绕“【输入文字】”展开的高级概念海报。\n这张海报必须做到：\n主标题巨大、清晰、强势；\n整张画面像一个统一的视觉场域；\n阅读体验自然融入图像之中；\n图、字、阅读、意境彼此融合，而不是分栏割裂；\n画面一眼即有冲击；\n词义被准确转译；\n视觉隐喻精准而巧妙；\n补充性元素恰当且彼此呼应；\n图、字、色、空间、象征元素形成统一系统；\n整体具有高级感、设计感、展览感与传播力；\n让人一眼感受到这个词为什么会被这样表达。\n\n请基于以上全部规则进行创作。\n\n用户输入内容：\n输入文字：【在此填写】\n文字语言：【在此填写】\n可选补充语境：【在此填写】\n可选情绪倾向：【在此填写】\n可选文化方向：【在此填写】\n可选禁用元素：【在此填写】\n是否允许辅助文字：【是 / 否】\n辅助文字如允许，需说明与主题的关系：【在此填写】",
+     "desc": "GPT2: 字体美学+文字图鉴+大字报+瞳孔地震级 · 升级版（融合了更多的图形元素，并将其巧妙地融合到你的语义文本中，让画面更有张力，也更有设计的亮点）",
+     "images": [
+      "assets/img_102.jpg",
+      "assets/img_103.jpg"
+     ]
+    },
+    {
+     "title": "你要生成的不是普通插画，也不是简单把一个词放大后贴在画面上的字效海报，而是一张“基于…",
+     "titleFull": "你要生成的不是普通插画，也不是简单把一个词放大后贴在画面上的字效海报，而是一张“基于词义深度理解进行视觉转译”的高级概念海报。\n\n你的核心任务是：\n用户会提供一个字、一个词、一个词组、一个短句，或一组文字。你必须先深度理解这段文字的表层含义、深层寓意、情绪气质、文化联想、人物命运感、时代氛围、潜在叙事与隐含张力，再决定最适合它的视觉语言、构图方式、阅读结构、色彩气质、画面风格与视觉隐喻。\n\n这张海报的目标不是“把字画出来”，也不是“做一张带说明文字的插画”，而是要把这个词语或文字背后的精神状态、命运质感、情绪张力与象征意味，转译成一张高级、极简、克制、展览级、强排版、强隐喻、强情绪、强记忆点、并且图文高度融合的视觉海报。\n\n一、深度语义理解机制\n在生成画面之前，必须先对输入文字进行多层分析，并据此决定所有视觉选择。\n\n1. **先理解整体**\n先判断用户输入的整体含义、核心主题、主要情绪、潜在矛盾、精神气质和最有力量的表达方向。\n\n2. **如果输入的是中文词语、词组或短句，必须进一步拆解理解**\n不仅要理解整体含义，还要理解每个字、重点字、中心字的独立意义与彼此之间的关系。\n尤其要识别：\n- 每个字的字面意思；\n- 每个字可能承载的文化象征；\n- 每个字带来的情绪重量；\n- 哪些字是语义核心；\n- 哪些字具备更强的画面潜力；\n- 整体词义与单字含义之间是否存在呼应、递进、反差、冲突、留白或更深层的精神联系。\n\n3. **如果是较长短句，要找出真正的核心词与核心字**\n不是平均处理所有文字，而是要找出最关键、最有视觉主导权的字词，并围绕它们建立画面秩序。\n\n4. **必须分析以下维度**\n- 表层含义；\n- 深层寓意；\n- 情绪气质；\n- 文化联想；\n- 人物命运感；\n- 社会语境；\n- 历史感或时代感；\n- 心理张力；\n- 隐性冲突；\n- 象征性与隐喻性；\n- 视觉可转译性。\n\n5. **风格必须由词义自动生成**\n不要机械套用统一模板。\n每个词、每组字、每句话，都应该拥有与其自身内涵相匹配的独特视觉语言。\n风格、构图、色彩、材质、元素密度、阅读节奏、空间关系、图文关系，都必须从词义中长出来，而不是预设不变。\n\n二、总原则：整张海报必须是一个完整场域\n这是最核心的结构原则。\n\n1. **不要把画面做成割裂的多栏信息板**\n不要把主标题、图像、说明文字粗暴分成三栏、四栏、几个独立模块。\n不要出现像杂志目录、展板拼贴、信息看板那样的分区切割感。\n不要让阅读体验像在看被切开的说明页。\n\n2. **整张画面必须是一个统一的视觉场**\n文字、图像、补充信息、留白、空间气息、阅读路径，必须共同存在于同一个视觉场域中。\n它们彼此牵引、彼此嵌合、彼此呼应，而不是互相分家。\n\n3. **阅读体验必须自然融入画面**\n观者的阅读应该被构图自然引导，而不是被硬性分栏安排。\n阅读路径要像在画面中“漫游”和“流动”，而不是像阅读表格一样机械切换。\n画面要有意境，有呼吸，有节奏，有视觉上的停顿与递进。\n\n4. **图文必须共生**\n文字不是贴上去的内容，图像也不是孤立存在的插画。\n它们必须共同组成一个完整的视觉句子和阅读体验。\n\n三、主标题系统\n1. **巨大的中文主标题“【输入文字】”必须是绝对主体。**\n2. 字形必须清晰、完整、可识别，无错字、无缺笔、无歧义。\n3. 主标题应占据画面大部分面积，形成最强第一视觉。\n4. 主标题不仅是标题，还要是画面的骨架、节奏源、空间结构和意义载体。\n5. 可以对重点字、中心字进行更强的视觉强调，但整体文字必须成立且好读。\n6. 主标题可以成为背景墙、结构面、空间屏障、舞台后景、地形、精神象征物或情绪载体。\n\n四、图文融合机制\n这是本次优化的重点要求。\n\n1. **文字必须真正“长”在画面里**\n文字不能只是排在旁边，也不能独立漂浮成说明栏。\n它应该像从画面内部生成的一样，与图像、承载面、空间气氛共同存在。\n\n2. **文字与图像必须相互依存**\n图像元素要与文字发生关系，例如：\n- 站在字前；\n- 藏入字内；\n- 穿过字形；\n- 依附在字的边缘；\n- 借字的留白构成动作；\n- 把字当作场景、屏障、路径、舞台或命运结构。\n总之，字和图要彼此咬合。\n\n3. **阅读信息要自然嵌入画面，不要做信息分区**\n如果画面中需要少量阅读内容，它们不应被割裂成整齐的说明栏，而应自然嵌入到画面中：\n- 可以沿着标题边缘排布；\n- 可以贴着某个图像元素生长；\n- 可以顺着空间方向延展；\n- 可以像展签一样轻轻停留在局部；\n- 可以像低声补充的注解一样存在；\n- 可以像一条气息、一句余音、一段余温，而不是生硬的专栏说明。\n\n4. **所有阅读内容都必须服务意境**\n文字的存在不只是为了信息说明，而是为了增强画面的气质、语境、联想、情绪和沉浸感。\n阅读体验本身也是画面气氛的一部分。\n\n五、阅读结构与阅读路径\n1. **画面必须有自然的阅读流向**\n观者应先被主标题吸引，再被图像关系击中，然后自然看到补充性的阅读信息。\n阅读顺序应顺畅、有节奏、有轻重，而不是堆在一起或硬性并列。\n\n2. **采用“整体阅读”而不是“栏目阅读”**\n不要让画面像几个版块拼在一起。\n应让信息通过大小、远近、疏密、留白、方向、视觉重心来组织，而不是靠分栏和框线切开。\n\n3. **阅读节奏必须有层次**\n第一层：巨大主标题；\n第二层：核心视觉隐喻；\n第三层：与图像关系紧密的少量阅读信息；\n第四层：细微但相关的辅助内容。\n这种层级必须清晰，但不能割裂。\n\n6. **信息排布必须有呼吸感**\n不要塞满，不要挤压，不要强行对齐成报纸式栏目。\n要让信息像在空气中合理停驻，而不是像模块被拼接。\n\n六、核心构图机制\n整体画面优先采用“巨型文字骨架 + 简洁承载面 + 精准角色 / 物体演绎 + 巧妙补充元素 + 流动式阅读体验”的构图逻辑。\n\n1. **画面要有明确承载面**\n尽量有一个类似舞台、土地、台基、地平线、平台、剖面、场域表层、底座或象征性落脚点的结构。\n这个承载面要让人物和物体真正“落地”，增强秩序感、戏剧感与稳定性。\n\n2. **主体数量要克制**\n通常为1到3个关键主体，可以是人物、物体、动物、象征体或抽象转具体的载体。\n不要堆砌角色，不要做成群像插画。\n\n3. **主体必须承担“演绎词义”的任务**\n主体通过动作、站位、朝向、距离、尺度、关系、接触、对峙、献出、等待、背离、失衡、坠落、托举、遮挡、凝视、穿越等方式，把词语演出来。\n\n七、视觉隐喻提炼机制\n请提炼一个最准确、最有代表性、最能一眼击中观者的核心视觉隐喻。\n\n1. **优先寻找一个“单一而强”的核心隐喻**\n不要把海报做成多个概念的堆积，而是要找到那个最准确、最有力量的象征性场景或关系。\n\n2. **隐喻必须和词义高度绑定**\n观者看到画面，应能直觉感受到：这个词被这样表达，是有道理的，是准确的，是聪明的。\n\n3. **可以通过以下方向建立隐喻**\n人物命运感；\n象征物关系；\n动作瞬间；\n空间压迫；\n尺度反差；\n柔软与坚硬的并置；\n纯真与危险的对照；\n秩序与崩塌的冲突；\n靠近与疏离的张力；\n出现与消失；\n束缚与逃逸；\n给予与剥夺；\n现实与理想的碰撞；\n时间感与历史感。\n\n八、补充性元素机制\n画面中可以融入少量恰当的补充性元素，但这些元素必须巧妙、有逻辑、有关联，而不是杂乱填充。\n\n1. **补充元素的作用**\n深化主题；\n补充词义层次；\n建立视觉呼应；\n增强情绪氛围；\n强化文化联想；\n加强图文融合；\n让整体更完整、更耐看。\n\n2. **补充元素必须来源于语义分析**\n不能随机生成装饰。\n它们应来自：\n词语的象征物；\n时代气质；\n文化典故；\n人物命运线索；\n环境痕迹；\n精神状态；\n动作残留；\n空间暗示；\n材料隐喻；\n叙事碎片。\n\n3. **补充元素必须与主标题、主体和阅读内容产生关联**\n可以与某个字形呼应；\n与主体动作呼应；\n与空间方向呼应；\n与小范围阅读内容呼应；\n与配色关系呼应。\n所有元素必须像从同一个系统中长出来的一样。\n\n4. **补充元素必须克制**\n它们是增强表达的力量，不是装饰噪音。\n宁可少而巧，不可多而乱。\n\n九、辅助文字规则\n1. **除主标题外，可有极少量辅助文字，但不是必须。**\n2. **辅助文字只有在能够深化主题、补充语境、增强概念、丰富阅读体验时才允许出现。**\n3. **辅助文字必须与主题直接相关。**\n4. **辅助文字要以“自然嵌入画面”的方式出现，而不是独立形成说明栏。**\n5. **可以是短句、片语、注释、语境提示、诗性补白、微型展签式内容，但必须短、准、巧、轻。**\n6. **严禁出现无意义的装饰性小字、假编号、假坐标、假署名、假说明、随机英文碎片、无关排版噪音。**\n7. **所有辅助文字都必须像意境的一部分，而不是版式填充物。**\n\n十、色彩逻辑\n色彩不能土气，必须体现顶级设计师的判断力。\n\n1. **色彩必须由词义、情绪、文化气质和画面隐喻共同决定。**\n2. **不要机械使用固定色板。**\n3. **色彩数量要严格控制，通常为2到4种主色关系。**\n4. **配色应具有高级、现代、克制、展览海报式的审美品质。**\n5. **避免廉价渐变、俗艳拼色、无意义高饱和乱撞色、模板感配色。**\n6. **可以采用：**\n- 一个强主色；\n- 一个浅色或纸感中性色作空间基础；\n- 一个深色作为结构支撑；\n- 一个极少量强调色用于情绪爆点或语义强化。\n7. **整体必须看起来像经过审美判断的艺术海报，而不是普通商业配色。**\n\n十一、风格要求\n整体气质要求：\n- 高级；\n- 极简；\n- 克制；\n- 展览级；\n- 强排版；\n- 强隐喻；\n- 强情绪；\n- 强记忆点；\n- 强图文整合能力；\n- 强意境；\n- 强整体感。\n\n允许带有以下质感倾向：\n- 图形艺术海报；\n- 高级拼贴感；\n- 石版印刷感；\n- 丝网印刷感；\n- 版画感；\n- 纸张颗粒；\n- 轻微印刷噪点；\n- 克制材质纹理。\n\n但必须注意：\n- 不要脏乱；\n- 不要廉价模板感；\n- 不要普通商业插画感；\n- 不要封面配文感；\n- 不要图文分家；\n- 不要信息分栏割裂。\n\n十二、执行限制\n1. **不要机械套模板。**\n2. **不要为了美观而偏离词义。**\n3. **不要把阅读内容切成三栏或多个独立专栏。**\n4. **不要做成“图一块、字一块、说明一块”的拼接式页面。**\n5. **不要只做人物外貌插画。**\n6. **不要只做单纯字体海报。**\n7. **不要让文字和图像彼此独立。**\n8. **不要让补充信息失去逻辑来源。**\n9. **不要让画面变得拥挤、花哨、低级或装饰过度。**\n\n十三、最终成图目标\n最终生成一张围绕“【输入文字】”展开的高级概念海报。\n这张海报必须做到：\n- 主标题巨大、清晰、强势；\n- 整张画面像一个统一的视觉场域；\n- 阅读体验自然融入图像之中；\n- 图、字、阅读、意境彼此融合，而不是分栏割裂；\n- 画面一眼即有冲击；\n- 词义被准确转译；\n- 视觉隐喻精准而巧妙；\n- 补充性元素恰当且彼此呼应；\n- 图、字、色、空间、象征元素形成统一系统；\n- 整体具有高级感、设计感、展览感与传播力；\n- 让人一眼感受到这个词为什么会被这样表达。\n\n请基于以上全部规则进行创作。\n\n用户输入内容：\n输入文字：【在此填写】\n文字语言：【在此填写】\n可选补充语境：【在此填写】\n可选情绪倾向：【在此填写】\n可选文化方向：【在此填写】\n可选禁用元素：【在此填写】\n是否允许辅助文字：【是 / 否】\n辅助文字如允许，需说明与主题的关系：【在此填写】",
+     "desc": "GPT2: 字体美学+文字图鉴+大字报+瞳孔地震级 · 升级版。（更大比例的版本，图片高存在感版本，更有极简海报的韵味，提示词）",
+     "images": [
+      "assets/img_104.jpg"
+     ]
+    },
+    {
+     "title": "你要生成的不是普通插画，也不是把信息机械排成一列的时间轴，而是一张“高完成度、强组织…",
+     "titleFull": "你要生成的不是普通插画，也不是把信息机械排成一列的时间轴，而是一张“高完成度、强组织性、强阅读价值、兼具知识含量与高级审美的进程演化信息图海报”。\n\n核心任务：\n用户只会提供一个主题、概念、命题、对象、类别，或一个需要被梳理的方向。你需要自动理解这个主题背后所包含的“演化过程 / 发展进程 / 时间序列 / 阶段变化 / 版本更替 / 文明推进 / 形态变迁 / 谱系延展 / 历史流变”，并把它转译成一张结构清晰、图文一体、具有专业设计感的流程化信息图。\n\n这张图必须具备如下能力：\n当用户只输入一个主题时，你要自动沿着该主题延展出完整的阶段结构、关键节点、代表性视觉对象、时间分段、核心说明与整体叙事逻辑。不要要求用户提供大量细节。你要主动补全最合理、最有知识性、最有可视化价值的内容，并将其转化为一张完整、优雅、可信、耐看的信息图。\n\n适用范围必须非常广：\n可以用于文明史、产品演化史、技术发展史、朝代更替、帝王谱系、物种进化、器物演变、服饰演变、饮食演变、品牌发展、某一物件的形态变迁、某一制度或思想的发展过程、某一行业的阶段性变化，或任何可以被整理成“阶段推进”的主题。\n无论用户输入的是严肃学术主题，还是日常消费品主题，还是带趣味性的生活主题，你都要以同样专业、优雅、清晰、富有美感的方式，把它梳理成一张完整的信息图。\n\n请严格遵守以下创作原则：\n\n第一原则：先理解主题，再决定进程结构\n在开始生成前，你必须先智能判断这个主题最适合被梳理成什么样的“演进结构”。\n如果它是历史主题，就梳理其年代推进、关键时期、代表节点与典型物证。\n如果它是产品品类，就梳理其形态、结构、材料、工艺、使用方式、审美风格、社会功能的演化。\n如果它是生物或自然主题，就梳理其进化链条、关键分支、典型形态与核心特征。\n如果它是抽象命题，就梳理它在时间、认知、制度、媒介、社会语境中的发展阶段。\n总之，你必须自动找到这个主题最适合被呈现为“进程”的逻辑，而不是机械套模板。\n\n第二原则：画面不是简单时间轴，而是“被空间化的进程”\n整体构图优先采用具有强烈秩序感和视觉记忆点的“递进式台阶 / 阶梯式平台 / 斜向推进路径 / 分层式结构 / 展陈式轨迹 / 版块式进化路径”。\n这个结构要像一条被实体化的演进路径，带有明确的起点、阶段节点、递进节奏与终点。\n路径不应只是画一条线，而应具有平台感、层级感、空间感，让每个阶段都像站在一个清晰的知识台阶或展陈单元上。\n但不要固化为同一种造型。你必须根据主题决定更适合用“阶梯、坡道、时间地层、谱系展开、版本阶层、器物陈列台、年代阶板、进化路径”等哪一种形式。重点是强组织性，而不是形式重复。\n\n第三原则：信息图必须兼具知识性与审美性\n这不是普通科普图，也不是纯装饰海报，而是一张“有内容密度、有知识价值、有设计美感”的高级信息图。\n观者看完应该有“学到了东西”的满足感，同时也被优雅的组织方式打动。\n画面必须体现出：内容被高度梳理、信息被优雅安放、视觉被克制组织、阅读路径非常清楚。\n\n第四原则：整体视觉语言要高级、克制、优雅、专业\n画面审美参考高端展览信息设计、博物馆展板、视觉百科、现代知识型海报、编辑设计系统、精致图录。\n整体风格必须简洁、沉稳、理性、克制，不要网红化，不要廉价卡通化，不要花哨拼贴，不要过度装饰，不要俗气配色。\n即使主题本身很日常，也必须被提升成一种优雅、专业、可收藏的视觉呈现。\n\n第五原则：视觉方案必须根据主题智能变化，不能千篇一律\n不要让所有主题都长得一样。\n你需要根据用户输入的主题，智能决定：\n应该强调年代，还是强调结构变化；\n应该突出实物，还是突出人物、器官、服装、工具、器皿、产品、图标、轮廓、谱系分支；\n应该更偏博物馆考古感，还是更偏现代工业设计感，还是更偏自然科学图鉴感，还是更偏时尚编辑感；\n应该采用更严谨的纪年表达，还是阶段命名表达，还是世代版本表达；\n应该做得厚重、理性、冷静，还是轻盈、诗性、柔和，还是锐利、现代、未来感。\n每次都要重新建立视觉规则，不允许形成固定套路。\n\n第六原则：配色必须真正跟随主题，不允许固定色板\n配色必须根据主题语义、情绪气质、时代属性、材料属性、文化背景、行业特征、使用场景、用户指定偏好来智能决定。\n绝对不要默认永远使用同一种暖棕、米白、博物馆色调。只有当主题本身确实适合这种气质时，才可以使用。\n你必须为每个主题重新思考以下问题：\n这个主题更适合浅色模式还是深色模式；\n背景应该是纸感、石感、雾感、金属感、科技感、纤维感、自然感、夜色感还是极简纯色感；\n主色应该传达什么气质；\n辅助色如何区分阶段；\n强调色应该突出哪些关键节点；\n整体色域是克制单色系、低饱和多色系、冷暖对照系，还是高端中性色加一枚强强调色。\n配色必须体现“因题而变”的智能性。\n\n第七原则：深色模式与浅色模式要有明确判断逻辑\n如果用户指定深色或浅色模式，必须严格遵守。\n如果用户没有指定，你要根据主题智能判断：\n偏考古、文献、教育、器物、历史、自然图录、生活方式、服饰演变等，通常更适合浅底高级配色，但不是绝对；\n偏科技、宇宙、未来、电子、夜间场景、数字系统、赛博工业、深海、生物解剖等，通常更适合深色模式，但仍要以主题匹配为准；\n偏时尚、奢侈品、品牌演化、潮流器物，也可能采用深浅双系统中的任一种，但必须有明确设计理由。\n无论深色还是浅色，信息都必须清楚、层级明确、对比得当、阅读舒适。\n背景色必须参与叙事，而不是简单填充。\n\n第八原则：建立“主题驱动的配色系统”\n每张图都必须构建一个完整的配色系统，而不是随便选几个颜色。\n这个系统通常包括：\n背景色；\n结构色；\n主标题色；\n副标题与说明文字色；\n阶段标签色；\n时间标签色；\n强调节点色；\n引线或注释系统色；\n必要时的分组色。\n颜色之间必须有逻辑、有层级、有秩序。\n可以控制在少量精炼颜色中完成，也可以做低饱和层次扩展，但必须高级、耐看、统一。\n不要颜色过多，不要脏，不要杂，不要俗。\n对于不同主题，应尽量呈现出不同的色彩人格，让人一看就知道这是为这个主题专门定制的，而不是拿模板换词。\n\n第九原则：字体与排版不能过于中规中矩，要有“克制的创新”\n文字排版不能只是把标题居中放上去、把说明整齐排成一列。你需要在保持清晰可读的前提下，进行有分寸的创新。\n可以做的创新包括但不限于：\n主标题与副标题形成更有节奏的比例关系；\n主标题可以采用更有姿态的断行、错位、穿插、留白、纵横组合、局部叠压、局部嵌入结构；\n大年份、大数字、大阶段编号可以成为画面的一部分，而不只是说明文字；\n部分文字可以顺应路径、平台、引线、空间方向排布；\n文字块可以像展签、目录条、标签、铭牌、注释条、信息胶囊那样被整合进画面；\n中英文、数字、符号、年代信息之间可以有层级节奏，而不是一律同质；\n字距、行距、对齐方式、留白、大小反差要体现编辑设计意识。\n但这种创新必须是“微妙而聪明”的，不是哗众取宠。不能为了设计感而损害清晰度与可读性。\n\n第十原则：字体气质必须根据主题智能匹配\n如果主题偏历史、文明、考古、传统文化，可采用更有文化气息、展览气质、碑帖感或书卷气的标题处理，但仍需现代设计化，不可陈旧土气。\n如果主题偏科技、工业、未来、产品演化，可采用更利落、理性、现代、精密的字体气质。\n如果主题偏时尚、生活方式、消费品、服饰，可采用更编辑化、更时尚、更克制的字形秩序。\n如果主题偏自然科学、图鉴、百科，可采用更清晰、严谨、学术化但不呆板的排版风格。\n总之，字体是内容气质的一部分，不可以永远是同一种感觉。\n\n第十一原则：版式结构必须非常强\n整张图必须有清晰、成熟、专业的排版组织。建议包含但不限于以下模块：\n顶部主标题：直接点明用户主题；\n副标题：对主题的进程逻辑做简洁概括，例如“演化路径 / 发展脉络 / 进程总览 / 形态变迁 / 文明推进 / 谱系展开 / 时间纵览”等，但具体措辞要根据主题智能匹配；\n主体路径：以台阶、层级平台、斜向递进结构或其他空间化系统承载时间与阶段；\n阶段节点：每个阶段要清晰可辨，有对应的时间标记、阶段名称、代表性对象与简短说明；\n注释系统：通过引线、点位、标签、小标题、年份、小注、区域说明等方式，把信息优雅展开；\n底部或末端收束：以终点、当代阶段、总结性阶段或未来延展节点形成完整闭环。\n\n第十二原则：时间与阶段必须清楚\n如果主题适合做年代型信息图，就要明确标出关键年份、世纪、年代段、时代名称或阶段范围。\n如果主题不需要精确年份，也要以“阶段一、阶段二、阶段三”这种清晰的结构来组织。\n任何情况下都要让观者能看出进程的先后顺序与演变关系。\n阶段数量通常控制在 5 到 12 个左右，具体根据主题复杂度智能调整。不要太少而显得空洞，也不要过多而拥挤失控。\n\n第十三原则：每个阶段都要有“代表性视觉对象”\n每个阶段应配一个或多个最具辨识度、最能说明该阶段特征的视觉对象。\n这些对象可以是器物、产品、人物形象、服饰形态、化石、物种形态、结构剖面、工具、文物、轮廓图、标本、部件、容器、造型特征等。\n对象必须足够典型，能让观众通过图像直观感知“这个阶段的差异是什么”。\n每个对象都应尽量精致、清晰、质感良好，像被 carefully curated 的展品一样陈列在对应阶段。\n\n第十四原则：文本说明要少而准\n文字不是越多越好，而是要精准、简洁、清晰、有知识点。\n每个阶段附近可以放：\n阶段标题；\n时间标签；\n一句话特征说明；\n必要时加一个更小的补充说明。\n文字必须简练，不堆砌，不长篇大论，但要让人感觉专业而有收获。\n说明内容优先提炼“该阶段最本质的变化、代表意义、标志特征、关键突破、社会用途、审美转折、技术变化”等。\n\n第十五原则：图文关系要真正融合\n所有文字、对象、节点、引线、标签、时间标记、阶段说明，都必须自然依附于主路径结构。\n它们应共同组成一个整体，而不是“背景一张图，上面再贴几行字”。\n图与文应该彼此解释、彼此支撑、彼此增强，让整张图成为一个完整的知识可视化系统。\n\n第十六原则：阅读体验必须层层递进\n观众第一眼先看到主标题与整体结构；\n第二眼看到清晰的进程路径；\n第三眼看到不同阶段的代表性对象；\n第四眼逐步阅读每个阶段的说明；\n第五眼能通过细节标签获得更细的知识点。\n这张图必须让人感到“结构非常好”“被整理得非常舒服”“看起来很高级”“内容很值得看”。\n\n第十七原则：重点避免的问题\n不要生成普通 PPT 感；\n不要做成廉价百科图；\n不要把所有主题都做成相同的米白棕色模板；\n不要颜色逻辑僵化；\n不要把标题和文字排得过于保守、缺乏呼吸与层次；\n不要使用杂乱无章的箭头堆叠；\n不要把所有信息铺满整个页面导致失去呼吸感；\n不要把图像和文字割裂成两个系统；\n不要为了装饰而装饰；\n不要出现与主题无关的花纹、图标或填充元素；\n不要过度卡通化；\n不要颜色过多或过艳；\n不要让阶段之间差异不明显；\n不要让观众看不出进程方向；\n不要让信息图失去“优雅”“可信度”“可读性”。\n\n第十八原则：智能细化内容\n当用户输入主题后，请你自动完成以下工作并反映到画面中：\n判断这个主题最合理的起点与终点；\n梳理其中最关键的阶段；\n为每个阶段匹配最有辨识度的代表性视觉对象；\n总结每个阶段的核心变化；\n决定整体更适合深色还是浅色模式；\n建立一套与主题匹配的配色系统；\n决定整体更适合什么样的字体气质与排版节奏；\n决定整体适合用什么样的副标题与注释语言；\n控制信息密度与视觉密度；\n自动让图面既丰富又整洁，既有知识价值又有设计感。\n你必须保证：换一个主题，就像换了一套专属视觉系统，而不是只换内容不换灵魂。\n\n第十九原则：最终输出的感觉\n最终画面应该像一张“高端、优雅、极具知识含量、图文深度融合、配色与字体都因主题而生”的演化进程信息图海报。\n它要有清晰的逻辑路径、稳定的结构节奏、典型的代表物、克制但聪明的版式、富有质感的视觉对象、精准的文字说明、灵活而高级的主题配色，以及不落俗套的字体组织方式。\n无论主题是什么，都要尽可能把它做得既专业，又漂亮，又让人觉得有收获。\n\n现在请基于用户输入的主题：\n“{{主题}}”\n自动完成内容梳理、视觉策略、配色策略、字体排版策略与信息图设计，生成一张高完成度、高美学水准、高信息组织能力、真正因主题而异的“进程演化信息图”。\n如果用户没有特别指定语言，则默认使用与用户输入一致的语言来呈现全部标题、注释与说明。\n如果用户没有特别指定画幅，则优先采用适合信息图阅读的纵向海报比例。",
+     "desc": "GPT2: 进化史  x 信息图 x 万物简史 x 高拓展性 x 设计师",
+     "images": [
+      "assets/img_105.jpg",
+      "assets/img_106.jpg"
+     ]
+    },
+    {
+     "title": "本次不是文本任务， 是生成图片任务，要求如下：",
+     "titleFull": "本次不是文本任务， 是生成图片任务，要求如下：\n生成图片任务：\n你要生成的不是普通插画，也不是标准化的信息板，而是一张“经过联网核实、知识准确、图文一体、兼具国际级海报设计水准、博物馆出版物气质、东方审美、研究感与强视觉记忆点的文物知识海报 / 文物美学卡片 / 展览级单页”。\n\n你的目标不是把资料堆上去，而是把一件文物真正“设计出来、讲透出来、研究出来”。它必须同时满足以下标准：知识准确，不凭空编造；视觉大气，有留白，有巧思；排版灵动，不僵硬，不套路化；图文关系高级，不是图片加说明；第一眼就抓人，越看越有内容；既像顶级展览海报，也像一页被精心设计过的博物馆研究图录。\n\n在正式生成之前，必须先执行联网检索与事实核验。优先检索博物馆官网、文博机构官网、官方展览资料、权威百科、考古报告、学术文章、出版图录等高可信来源。重点核实正式名称、别名、年代、朝代或时期、器类、材质、工艺、尺寸、重量、出土地、发现背景、现藏机构、用途、造型特征、纹饰特征、铭文信息、文化寓意、历史价值、艺术价值、工艺价值、学术意义、代表性细节、相关典故或文献出处、归属与流传等信息。若不同来源存在差异，应优先采用更权威、更广泛认可的说法，并对存疑内容谨慎表述，不得凭空编造。最终画面中的所有知识文字都必须建立在检索与判断基础上，而不是靠想象补写。\n\n整张海报的信息量必须明显强于普通博物馆展签，至少包含十个不同层级的信息点，而且每个层级都要有真实的信息增量。除基础数据外，应尽量涵盖挖掘背景、考古过程、流传与修复经历、文献典故或出处、器物归属、时代背景、礼制与社会意义、工艺与结构分析、纹饰与造型解读、与同类器物的比较、地域文化特征、学术研究价值、展览与收藏意义、公众传播影响、历史趋势与文明脉络、价值总结等维度。观者读完后要有一种“比听讲解更透、更准、更有收获”的感觉。\n\n整体版式必须彻底摆脱教科书式、表格式、规则分栏式的信息图逻辑。画面要更有灵气、更有节奏、更有松弛感，更像国际知名海报设计师为一件文物量身打造的视觉作品。必须具备强烈的整体构图意识、前景与后景的穿插关系、几何图形的设计感、留白的控制力，以及图文之间的巧妙遮挡与共生关系。\n\n核心构图建议采用“主体文物 + 几何背景结构 + 嵌入式超大文字 + 一条完整的主笔刷动线 + 周边研究信息模块”的方式。主体文物是前景核心，几何图形是支撑整体版面的背景结构，大字嵌在几何图形之中，笔刷则负责建立画面的气脉与动态节奏。整张图要形成清晰的前景、中景、背景三层关系，彼此叠压、遮挡、呼应。\n\n文物名称的最大文字不要再出现在画面顶部，也不要以传统标题方式直白地摆在那里。最大的文物名称，应当转化成一种“围绕文物而存在的背景结构文字”。做法是：将文物名称中的关键字拆解成超大号背景字，嵌入几何图形之中，让这些大字环绕在文物周边，部分被文物遮挡，部分被几何图形切割，部分被笔刷穿过，只露出一部分轮廓或局部笔画，让观者能够通过这些碎片化的大字去猜测文物名称。每一个字都必须被保留下来，绝对不能漏掉任何一个字。即使允许遮挡，也必须保证每个字都至少有足够清晰的一部分被看见，使观者仍能辨认或推断出该字，保证文字的可理解性与完整性。不能出现明明是四个字却少一个字、或者某个字被吞掉到完全认不出的情况。背景大字应有“局部遮挡但整体可读”的效果，而不是“为了形式感牺牲识别度”。真正完整、清晰的文物全名，还必须在比超大背景字小一级的文字层中被巧妙地再次体现一次，例如放在副标题、小标签、角落题签、信息卡标题、器物说明、边注信息或基础信息区中，用一种低调但清楚的方式明确写出完整文物名称，方便不熟悉该文物的观者快速知道它到底叫什么。也就是说，超大字负责气势与记忆点，次一级标题或说明负责完整识别，两者必须互相配合。\n\n几何图形必须成为画面中的重要设计语言。可以使用矩形、弧形、圆形、方块、条带、框形、弧面切片、结构块面等作为背景承托物，把超大文字嵌入其中。几何图形不仅用于装饰，更用于组织空间、建立层次、承载大字、调节留白、衬托主体。几何图形的边界可以与文物轮廓发生压叠关系，也可以为局部图和信息模块提供落点。整体效果要体现一种现代平面设计与东方文物气质融合的感觉：理性结构与文化气韵并存。\n\n画面中仍然需要那条完整而有势的主笔刷，但它要和几何背景、大字嵌入式结构融合在一起，而不是孤立存在。笔刷应像一条河流、一笔刷过的气脉，从画面的某一端自然流向另一端，具有起承转合、浓淡变化、飞白、渗化、轻微晕染与书写节奏。它必须连贯、舒展、自然、有姿态，不能僵硬、断裂、像贴上去的色块。笔刷可以穿过几何图形，扫过背景大字，压住一部分信息模块，也可以轻轻托起主体文物，成为整张画面的视觉动线和情绪动线。\n\n色调不必固定使用浅色背景，而应根据文物自身的气质、材质、年代感与视觉重量来智能判断。可以使用浅背景，也可以使用深背景，但必须保证背景与文物主体之间有清晰而高级的层次关系。如果文物较深，可以使用更浅、更能托起主体的底色，也可以使用同色系中更特别、更透气的一种色相。如果文物较浅，可以使用更沉稳、更有包裹感的背景来衬托。整体配色要结合几何图形进行灵活处理，允许深浅对比、冷暖偏移、材质对照、矿物色延展、综合色协调，但必须统一、高级、克制，不可土气，不可僵硬，不可把背景、文物、笔刷和大字糊成一片。\n\n色彩必须遵循“色从器出，但不死守器色”的原则。要从文物本身提炼核心色，再进行更聪明的延展、偏移、互补与层次拆分。背景、几何图形、笔刷、嵌入式大字、信息模块和主体文物之间，既要有统一关系，也要有明确区分。可以根据文物类型建立不同的综合色系统。青铜器可延展青铜绿、古铜褐、烟灰、暗金、松石灰、黛青、墨蓝灰等；瓷器可延展月白、釉青、青花蓝、米釉、暖灰白、浅矿物色等；玉器可延展脂白、青白、淡灰、温润浅青等；漆器、织物、佛造像、画像石、铜镜等也应依据材质和时代气质决定综合色逻辑。目标不是炫彩，而是建立一套真正高级、耐看、富有审美判断的系统。\n\n背景中的超大文字不要机械地默认用烫金，也不要一律使用同一款字体。字体的选择必须跟着文物的气质走，做到真正的智能判断。不同类型的文物，应当匹配不同的字形性格和视觉语言。青铜器可以偏金石感、碑刻感、篆隶气、厚重铸铭气；铜镜可偏古雅、镜铭感、细致而有历史气息；瓷器可偏秀润、清雅、洁净而有流线感；佛像类可偏庄严、含蓄、静穆、有宗教气息；玉器可偏温润、克制、留白感强；漆器、织物、画像石、碑刻、书画类也都应根据文物的材质、用途、时代精神与文化属性来判断。可以在碑帖感、题签感、篆意、隶意、楷意、行书感、手写感、现代展览设计字之间灵活选择，但必须统一于文物气质，而不是模板化地使用同一款所谓高级字体。\n\n是否使用金色，必须由文物本身决定，而不是预设。可以完全不用烫金，也可以只在小范围点到为止。标题和背景大字可以采用低饱和纯色、矿物色、压印感、朴素描边、留白、浅墨、柔和铜色、淡灰褐色、局部磨损感、轻微浮雕感、局部色块承托等多种方式来呈现。目标是让字成为文物精神的延伸，而不是影响整体美学观感的多余装饰。\n\n主体文物必须保持高质量、清晰、完整和真实依据，但不应只是冷冰冰的产品图式摆拍。要在真实基础上融入适度的绘画化、图录插绘化、工笔设色化或研究图化处理，使其自然嵌入整体设计语言。主体文物应当像从几何结构、大字背景和笔刷动线中“生长出来”，而不是简单贴在版面中间。其边缘、压叠关系、阴影、与背景字的遮挡关系，都要处理得非常讲究，体现前景感和层次感。\n\n信息模块必须更灵活，不要再整齐排成说明书。基础数据、挖掘背景、流传修复、文献典故、归属与礼制、工艺分析、纹饰观察、时代趋势、学术价值、展览意义、价值总结等，可以围绕主体与几何背景自由分布，形成疏密有致的阅读节奏。可以采用边栏式信息、研究卡片式小块、悬浮标签、题签、细线引导、编号系统、半透明叠层、边角批注、局部框选等方式。重要信息块更突出，次级信息更轻、更小、更克制。不要平均分配信息，要让版面有呼吸、有主次、有节奏。\n\n局部细节观察区必须紧密围绕主图展开。可以安排纹饰放大图、器耳器足特写、结构分析图、线稿研究图、局部描摹图、铭文局部或工艺拆解图。这些细节图必须说明“为什么这个地方重要”，而不是只做装饰。它们可以压在几何图形或背景大字之上，也可以被笔刷轻轻带过，与主体形成自然的研究关系和视觉联系。\n\n正文与图注系统必须清晰可读，但不能全部机械统一。可以让主要说明文字保持工整、克制、可读性高，同时让部分旁注、关键词、局部解说、观察提示、学术判断、研究批注具有更轻微的手写感、批注感或研究手记感。整体效果应像一页真正被设计师与研究者共同打磨过的图录页：正文有秩序，旁注有人的温度。\n\n留白必须极其讲究。要像顶级海报设计那样，大胆留白，敢于空出空间，让主体、几何图形、大字、笔刷和信息块都能呼吸。留白不是浪费，而是画面气场的一部分。整个版面要有大片安静区域，也要有局部信息密度较高的区域，通过疏密对比建立真正高级的节奏感与大气感。\n\n整体阅读路径必须自然。观者应先被文物主体、周边嵌入的巨型结构字和几何图形吸引，再顺着笔刷与视觉流线进入关键信息模块，然后通过局部观察图和研究批注逐层深入，最后读到更深层的背景知识与价值总结。整个过程要像被一位非常聪明、非常懂设计、也非常懂文物的策展人带着看懂这件文物，而不是被迫阅读一张课件。\n\n最终生成目标不是把资料罗列出来，而是产出一张真正具备以下特质的高水平作品：知识准确，信息丰厚，至少十个层级的信息点清晰可见；文物名称的最大文字不在顶部，而是围绕文物嵌入几何背景之中，并以部分显露、部分遮挡的方式形成“可猜测”的高级视觉效果；所有背景大字一个都不能丢，必须保持整体可理解性；完整文物名称必须在次一级文字中被巧妙而清楚地再次体现；画面可浅可深，但配色必须智能而高级；几何图形与笔刷共同参与构图；字体选择根据文物气质灵活变化，不再千篇一律；排版大气、留白充足、非常有巧思；整体具备国际知名海报设计师级别的美学素质与排版素质，既震撼、又耐看、又有文化温度。\n\n请严格围绕用户最终输入的对象，先检索，后判断，再提炼，再设计，确保内容准确，排版顶级，配色聪明，字体与文物气质匹配，几何背景与嵌入式大字逻辑清晰，所有大字都可被理解且不会缺字，完整文物名称在次一级文字中清楚出现，笔刷自然流动，留白大气，整体不套路、不重复、不僵硬，真正做到高级、灵动、聪明、有国际级完成度。\n\n用户输入对象： 马踏飞燕  \n比例2:1",
+     "desc": "GPT2：文物图鉴 x 博物馆知识AI下乡 x 国宝会说话",
+     "images": [
+      "assets/img_107.jpg",
+      "assets/img_108.jpg"
+     ]
+    },
+    {
+     "title": "基于我上传的原图，生成一张“智能修图 + 涂鸦互动叠加”的创意照片成图。",
+     "titleFull": "基于我上传的原图，生成一张“智能修图 + 涂鸦互动叠加”的创意照片成图。\n\n默认先对原图进行适度美化优化，让画面在光线、色彩、氛围和质感上更适合后续创作；用户也可以关闭修图，或指定自己想要的修图风格。\n\n在此基础上，叠加具有设计感和互动感的手绘涂鸦、文字、角色、小物件、喷绘色块、笔刷痕迹或其他自由元素，让整张图既保留真实照片的生活感，又拥有潮流、趣味、杂乱但有节奏的视觉表现。\n\n请智能识别原图中的人物、动作、视线、场景、情绪和整体气质，再自动匹配最适合这张图的创作风格，包括：\n- 修图方向\n- 涂鸦方式\n- 文字内容\n- 字体风格\n- 色彩倾向\n- 互动元素\n- 装饰节奏\n\n这些风格不应固定，而应根据画面自动变化。\n例如：儿童主题可以更童趣、活泼、跳跃；少女主题可以更轻盈、清新、精致；街头主题可以更大胆、夸张、喷涂感更强；温馨日常主题可以更自然、柔和、生活化。\n如果用户有明确要求，则优先按用户要求执行；如果没有，则系统自动判断最适合的方向。\n\n涂鸦元素需要与人物动作、手势、视线和场景物件形成自然互动，不是简单贴在空白处，而是像真的参与了画面。\n可以加入一个核心互动生物，也可以加入一些小物件、小角色、贴纸感元素、边角图形、动作线、光环、喷漆云团、拟声词或随场景变化的小型视觉语言。\n\n同时，请智能识别画面中杂乱、不够好看、或不宜直接公开的区域，并通过自然、巧妙、风格一致的方式进行修饰或弱化处理。可使用小贴纸、手绘笔刷、色块、角落元素、小图形、小角色或其他合适方式进行遮挡和美化，让处理后的区域融入整体画面，而不是生硬遮盖。\n\n文字部分不要固定死板，可根据场景智能生成，允许中文、英文或中英混合，形式灵活，可大可小，可主标题也可边角短句，但要少而有力，并与整体气质匹配。\n字体风格也应智能匹配画面，不固定一种形式，而是根据人物属性、主题气质和整体美学自动选择最合适的表现方式。\n\n色彩也不要机械套用固定配色，而是根据环境、光线、内容、情绪和角色设定智能匹配，让画面既统一又有亮点，既符合场景，又保留创意表达和视觉冲击力。\n\n整体效果应是：真实照片被智能修饰后，再被创意化、风格化、互动化地升级，最终形成一张适合直接发布、具有设计感、潮流感和传播感的创意照片海报。\n\n用户可选补充：\n- 想要的修图风格\n- 想加入的核心互动生物\n- 想加入的小元素或物品\n- 想要的文字或口号\n- 想要的整体气质或风格方向",
+     "desc": "GPT2: 万物智能自动修图 x 自动涂鸦 x 环境净化 x 废片变萌片",
+     "images": [
+      "assets/img_109.jpg"
+     ]
+    },
+    {
+     "title": "创建一张专业且极具真实性的照片，展示[主题/对象]，画面应干净、明亮，背景简洁且美观…",
+     "titleFull": "创建一张专业且极具真实性的照片，展示[主题/对象]，画面应干净、明亮，背景简洁且美观。确保所有物体展现为真实照片风格，而非插图。画面应加入技术蓝图叠加图，包含清晰的白色线条、箭头、尺寸标注、标签，以及展示零件、材料、尺寸与功能的小型示意图。整体布局需优雅、结构清晰，且信息丰富。画面比例为1:1，比例精准。整体视觉效果应保持生动且充满活力，避免死板的暗部，体现出现代感与精致感。\n\n输入内容：\n\n主题/对象：太和殿\n其他要求：[请根据需求补充]",
+     "desc": "GPT2: 建筑知识点 x 信息图 x 建筑图鉴 x 实拍风",
+     "images": [
+      "assets/img_110.jpg",
+      "assets/img_111.jpg"
+     ]
+    },
+    {
+     "title": "生成一张具有诗意且视觉层次丰富的诗歌解析海报，风格与结构应根据用户提供的诗句、名词或…",
+     "titleFull": "生成一张具有诗意且视觉层次丰富的诗歌解析海报，风格与结构应根据用户提供的诗句、名词或地点进行定制，确保营造浓厚的文学氛围与艺术感。\n\n**核心要求**：\n1. **海报标题**：海报顶部应使用优雅且富有气势的手写大字，字形与整体风格相协调，展示用户提供的诗句或主题。字体设计应具有视觉冲击力，突出文字的情感和主题。\n\n2. **文字排版**：标题下方安排小字或小图形，展现与诗句相关的解析、背景介绍或象征性解释。排版要具备设计感，确保文字、图形的层次与节奏，增强视觉冲击力。\n\n3. **知识点**：根据用户提供的主题，整合5到10个相关知识点，并将其展示在海报中。这些知识点可通过文字、图标或图形形式呈现，内容可以涉及历史背景、文化内涵、诗歌分析等。\n\n4. **画面风格**：海报的风格需与输入的诗歌或主题相契合。色调、光影及图像风格要与诗歌的情感和意境一致。可能涉及自然景象、人物描绘、情感表达等元素，确保风格现代且富有文化深度。\n\n5. **视觉效果**：整体画面设计要具有强烈的视觉吸引力。背景、形状、插图等元素应分层次设计，避免画面过于拥挤或杂乱，使观众能够沉浸在诗意的视觉体验中。\n\n**用户输入变量**：\n\n- 主题：［填写诗句 / 诗题 / 诗人 / 名词 / 地点 / 意象］\n- 补充要求：［可选，说明希望突出的方向，例如“偏苍凉”“偏送别”“偏豪迈”“偏空灵”“偏知识性”“偏历史感”］\n- 知识点数量：［填写5至10个，不填写则智能生成］\n- 是否需要原诗全文：［是 / 否］\n- 是否需要作者与朝代信息：［是 / 否］\n- 语言风格：［简洁凝练 / 文学感强 / 学术感强 / 通俗易懂］\n- 海报比例：［竖版 9:16 / 横版 4:3 / 方版 1:1］",
+     "desc": "GPT2：中国风x知识图鉴 x 诗词解析",
+     "images": [
+      "assets/img_112.jpg",
+      "assets/img_113.jpg"
+     ]
+    },
+    {
+     "title": "你是一个高级视觉KV与海报图像生成助手，专门把“大标题文字”自然融合进照片场景中，生…",
+     "titleFull": "你是一个高级视觉KV与海报图像生成助手，专门把“大标题文字”自然融合进照片场景中，生成电影感、广告级、16:9画幅的主视觉图片。\n\n你的核心任务：\n当用户提供文字描述、主题词、截图方案、基础照片、人物照片或参考图时，你要提炼场景、人物、情绪、主题文字和视觉风格，并使用 image2 直接生成一张大标题与场景融合的高质量图片。\n\n默认规则：\n1. 默认画幅为16:9。\n2. 默认生成真实摄影质感、电影感、广告KV、editorial campaign visual。\n3. 大标题文字必须与场景融合，不允许像普通字幕一样简单贴在画面上。\n4. 文字要像场景的一部分：可以融入天空、海浪、水面反光、烟雾、火光、树影、建筑墙面、玻璃反射、地面纹理、织物刺绣、霓虹灯、云层、光束、阴影或透视结构中。\n5. 大标题可以被人物、道具、树叶、浪花、水滴、火光、烟雾、建筑结构部分遮挡，形成高级的前后层次。\n6. 如果用户提供人物照片，必须保持人物脸部一致性，包括五官、脸型、气质、发型特征和年龄感；只根据需求更换服装、姿势、场景和光影。\n7. 如果用户提供基础照片，要尽量保留其核心构图、人物关系、情绪和场景逻辑，再将主题文字自然融入。\n8. 如果用户只提供文字方案，则根据文案生成完整KV画面。\n9. 英文标题必须拼写准确；中文标题尽量简洁，不要生成大量复杂文字。\n10. 画面要高级、克制、真实、有品牌感，避免廉价海报感、AI感、卡通感、乱字、贴纸式排版和过度装饰。\n\n工作流程：\n用户输入后，先判断以下信息：\n- 主标题：例如 COURAGE / JOY / PRIDE / WONDER\n- 中文标题：例如 勇气 / 快乐 / 自豪 / 惊奇\n- 副标题或口号：例如 READY TO BE BRAVE\n- 场景：海边、泳池、帆船、厨房、雨林、火光、夜游等\n- 人物：谁出现、年龄、关系、动作、表情\n- 服装：如有指定，严格遵守\n- 情绪：勇敢、快乐、自豪、惊奇、温柔、亲密等\n- 文字融合方式：根据场景选择最自然的融合方式\n\n如果信息不完整，不要频繁追问，可以合理补全；只有主标题完全缺失时才询问用户。\n\n生成图片时使用这样的提示词结构：\n- 画幅与类型：16:9 cinematic campaign key visual\n- 场景核心：描述真实环境、时间、天气、光线\n- 人物身份与动作：保持脸部一致，强调情绪和姿态\n- 服装造型：根据用户要求或参考图\n- 文字融合：明确说明大标题如何融入自然场景，不能平贴\n- 色彩基调：给出3-5个主色\n- 光影：说明主光、逆光、反射、阴影\n- 禁止项：no flat overlay text, no poster sticker text, no misspelled title, no extra logos, no cartoon look\n\n输出行为：\n每次直接使用 image2 生成图片，不要只输出文字方案。\n生成后只用简短说明标注：主题、场景、文字融合方式。",
+     "desc": "",
+     "images": [
+      "assets/img_114.jpg"
+     ]
+    },
+    {
+     "title": "比例：[5:2 / 16:9 / 3:4]",
+     "titleFull": "比例：[5:2 / 16:9 / 3:4]\n\n主标题：[填写主标题]\n副标题：[可空，建议一句话以内]\n场景：[填写具体场景]\n核心隐喻：[填写一个具体动作或物件]\n\n生成一张高级编辑海报。\n\n整体学习 Maria Svarbova 的色彩与构图逻辑，但不复刻具体作品：冷静、克制、几何化公共空间，人物像空间里的秩序符号。\n\n画面以极简公共空间为主，使用瓷砖、台阶、门框、柱廊、座椅、走廊、墙面、水面反射等几何结构。空间干净，留白充足，秩序感强。\n\n人物数量少，表情平静，不笑，不夸张，不表演。人物只承担构图和隐喻功能。\n\n色彩：\n薄荷绿、冰蓝、奶油白、浅木色为主。\n只用少量番茄红 / 珊瑚红作为视觉锚点。\n整体色彩干净、明亮、复古、克制。\n\n文字：\n只保留主标题和副标题。\n主标题巨大，使用番茄红或深青绿色，成为画面结构的一部分。\n副标题小一号，只出现一次。\n允许极少量匹配主题的小字，但不超过一处。\n\n禁止：\n信息栏、编号、数据图标、条形码、百分比、右侧说明栏、装饰英文、杂志小字堆叠。\n不要PPT感，不要廉价科技感，不要元素堆砌。\n\n最终效果：\n极简艺术摄影感 + 高级杂志封面感 + 图文一体化海报。",
+     "desc": "",
+     "images": [
+      "assets/img_115.jpg"
+     ]
+    }
+   ]
+  },
+  {
+   "key": "selfmade",
+   "name": "自制风格",
+   "sub": "",
+   "count": 5,
+   "items": [
+    {
+     "title": "男生通用模板",
+     "titleFull": "男生通用模板\n真人国风写实人像摄影，古典柔焦电影美学，清冷忧郁氛围，摄影棚服装造型参考拼版。四视图组合：左侧为同一位真人男性模特的面部特写半身照，右侧依次为正面全身、侧身全身、背面全身，三视图严格水平对齐，正交视角，无透视畸变，角色间距均匀，无重叠。年轻亚洲男性，冷白肤色，五官清俊自然，真实皮肤纹理，轻微毛孔，面部有柔和高光，眼神安静疏离，表情克制不夸张。黑色长发【发型描述】，少量发丝自然垂落，头发质感真实。身穿【服装颜色】古风长袍 / 古装劲装，布料为丝绸、织锦或轻薄纱料，带有细密暗纹和自然微光，真实衣料褶皱与垂坠感清晰，腰间搭配【腰封 / 玉佩 / 织带 / 披风】等简洁配饰。背面视图清楚展示发型、衣摆、披风和服装层次结构。背景为暗调虚化空间，隐约可见白色梨花或浅色花枝元素。整体以冷青、银白、雾灰为主色调，顶部柔和聚光，细腻阴影，浅景深，胶片颗粒，真实摄影质感，高级电影感，非CG，非插画，非游戏立绘，非二次元，非塑料皮肤。",
+     "desc": "",
+     "images": []
+    },
+    {
+     "title": "女生通用模板",
+     "titleFull": "女生通用模板\n真人国风写实人像摄影，古典柔焦电影美学，清冷忧郁氛围，摄影棚服装造型参考拼版。四视图组合：左侧为同一位真人女性模特的面部特写半身照，右侧依次为正面全身、侧身全身、背面全身，三视图严格水平对齐，正交视角，无透视畸变，角色间距均匀，无重叠。年轻亚洲女性，冷白肤色，五官清丽自然，真实皮肤纹理，轻微毛孔，面部有柔和高光，眼神安静疏离，表情含蓄克制，不夸张。黑色长发【发型描述】，发丝真实柔顺，少量碎发自然散落，不要额头花钿，不要额饰。身穿【服装颜色】古风长裙 / 古装长裙，布料为丝绸、薄纱或织锦，带有细密亮纹、暗纹或轻微珠光，真实布料微光与自然垂坠褶皱清晰，袖摆轻盈，裙摆层次自然，腰线细致，搭配【玉饰 / 流苏 / 披帛 / 发簪】等简洁古典配饰。背面视图清楚展示发型、长发线条、披帛、裙摆和服装层次结构。背景为暗调虚化空间，隐约可见白色梨花或浅色花枝元素。整体以冷青、银白、雾灰为主色调，顶部柔和聚光，细腻阴影，浅景深，胶片颗粒，真实摄影质感，高级电影感，非CG，非插画，非游戏立绘，非二次元，非塑料皮肤。",
+     "desc": "",
+     "images": []
+    },
+    {
+     "title": "通用负面提示词",
+     "titleFull": "通用负面提示词\nCG感，游戏立绘，二次元，动漫脸，插画风，概念设定图，3D渲染，卡通，油画，塑料皮肤，过度磨皮，完美无瑕皮肤，假人感，蜡像感，面部过度对称，夸张大眼，虚假高光，过度美颜，身体比例异常，畸形手指，手指数量错误，服装融合，视图重叠，角色重叠，三视图不对齐，透视畸变，背景过亮，额头花钿，额头红点，额饰。",
+     "desc": "",
+     "images": []
+    },
+    {
+     "title": "未命名",
+     "titleFull": "",
+     "desc": "",
+     "images": []
+    },
+    {
+     "title": "未命名",
+     "titleFull": "",
+     "desc": "",
+     "images": []
+    }
+   ]
+  },
+  {
+   "key": "charfeel",
+   "name": "人物感",
+   "sub": "",
+   "count": 5,
+   "items": [
+    {
+     "title": "夏日海边元气写真，Y2K 男生 度假，CCD / 数码卡片机质感，轻微过曝，高饱和蓝…",
+     "titleFull": "夏日海边元气写真，Y2K 男生 度假，CCD / 数码卡片机质感，轻微过曝，高饱和蓝天，柔焦，低机位仰拍 + 俯拍等混合，广角近距离自拍感",
+     "desc": "",
+     "images": [
+      "assets/img_116.jpg"
+     ]
+    },
+    {
+     "title": "未命名",
+     "titleFull": "",
+     "desc": "",
+     "images": []
+    },
+    {
+     "title": "未命名",
+     "titleFull": "",
+     "desc": "",
+     "images": []
+    },
+    {
+     "title": "未命名",
+     "titleFull": "",
+     "desc": "",
+     "images": []
+    },
+    {
+     "title": "未命名",
+     "titleFull": "",
+     "desc": "",
+     "images": []
+    }
+   ]
+  },
+  {
+   "key": "brand",
+   "name": "品牌产品",
+   "sub": "事例",
+   "count": 8,
+   "items": [
+    {
+     "title": "Vertical advertising poster with a surreal…",
+     "titleFull": "Vertical advertising poster with a surreal playful concept, photorealistic rendering. The entire composition is shot from a first-person POV from inside a cardboard moving box looking straight up — the viewer sees the inside walls of the box converging toward a bright square opening at the top.Canvas: Vertical 3:4 portrait poster.Foreground / framing (fills ~70% of the image): The interior of an opened kraft-brown cardboard moving box, seen from the bottom looking up. The four inner walls of the box recede in strong one-point perspective toward the center-top of the frame, creating a natural vignette that guides the eye upward. The cardboard has realistic texture — visible corrugation, slight scuff marks, shipping creases, authentic warm kraft-paper tones. The inner flaps are fully opened outward so the square \"window\" at the top is clean and unobstructed. Subtle soft shadow along the inner corners of the box. The bottom edge of the frame shows the inside floor of the box, slightly out of focus.Sky opening (top of the composition, ~30% of the image): A bright, clear midday sky visible through the opening — soft pale cerulean-blue with a few fluffy cumulus clouds drifting across. Natural sunlight streams down into the box, subtly brightening the upper edges of the cardboard walls.Subjects (peeking down into the box from above, filling the sky opening): Two curious dairy cows framing the top opening — one on the left, one on the right — peering downward into the box with big gentle eyes. Both are Holstein cows (the classic black-and-white dairy breed):Left cow: Head tilted slightly, one ear perked up, one floppy. Big glossy dark eyes with long lashes. Pink muzzle visible, mouth slightly open as if mid-chew. Black and white patchy fur, visible fine hair detail. Looking directly down into the box at the viewer with a curious, almost questioning expression.Right cow: Head angled the other direction, slightly closer to the camera so her pink nose is prominent in the frame. Warm pink nostrils, soft breath visible. Wide innocent eyes, friendly expression. Black and white markings, one ear tag visible (generic yellow, no brand).Both cows are photographed with the same bright natural daylight as the sky. The perspective makes them appear enormous, like they've discovered something in a box much larger than themselves. Their heads lean in from outside the frame of the box opening, creating a playful \"what's in here?\" moment. Shallow depth of field keeps the cows sharp and the cardboard slightly softer.Main headline (bottom of poster, large bold sans-serif, deep charcoal-black): Horizontally aligned, slightly left-weighted, in a modern grotesk sans-serif: \"OUT OF / THE BOX.\" Clean confident typography, all caps, tight leading between the two lines.Sub-headline (directly below the main headline, smaller, medium-weight sans-serif, muted grey): Two-line supporting copy, center-aligned: \"Fresh milk, straight from the farm. / No middlemen, no long shelf lives, no surprises.\"Bottom-right corner: Small clean brand logo lockup — a minimalist circular glyph containing a stylized milk-drop or simple cow silhouette, next to the brand wordmark in bold clean sans: \"PASTURE & CO.\" (placeholder fictional brand name).Below the logo, a small tracked uppercase line: \"FIND US IN STORES · PASTUREANDCO.FARM\".Bottom-left corner: A small minimalist info block in tracked uppercase sans-serif, charcoal text on kraft background:\"DELIVERED FRESHEVERY MORNING— SINCE 2022\"Next to it, a tiny line-icon illustration of a milk bottle with a small sunrise motif behind it.Very bottom edge (thin strip, tiny tracked uppercase sans): \"FARM-TO-BOTTLE DAIRY · COW-TO-CUSTOMER · EST. 2022\".Palette: warm kraft-brown cardboard (#B8916B), bright cerulean sky (#A8C8E4), soft cumulus cloud white, natural black-and-white Holstein markings, pink muzzles, deep charcoal typography (#1A1A1A), muted grey support text (#6B6B6B).Typography: bold modern grotesk sans-serif for headline (like Neue Haas Grotesk Bold, Söhne Bold, or Inter Black), medium-weight sans for sub-copy, tracked uppercase sans for meta.Mood: clever, playful, wholesome, fresh, trustworthy, farm-direct.Finish: crisp commercial photography, bright natural daylight, subtle photographic texture, polished advertising quality. Shutterstock / Cannes Lion-quality dairy advertisement poster, 4k vertical.",
+     "desc": "",
+     "images": [
+      "assets/img_117.jpg"
+     ]
+    },
+    {
+     "title": "Create a high-fashioned editorial advertis…",
+     "titleFull": "Create a high-fashioned editorial advertisement featuring a Korean female model. The model should be striking a dynamic pose that exudes confidence and elegance, while wearing an avant-garde outfit perfectly color-matched to a sleek Ferrari car displayed prominently in the scene. The setting is minimalist, with a powder pastel background and a reflective floor to enhance a clean, sophisticated aesthetic. Bold, artistic typography should showcase the tagline “Drive Your Style” integrated within the composition. The overall style is modern and artistic, suitable for a high-end magazine spread.",
+     "desc": "",
+     "images": [
+      "assets/img_118.jpg"
+     ]
+    },
+    {
+     "title": "Use the \"Neon Kinetic Typographic Poster\" …",
+     "titleFull": "Use the \"Neon Kinetic Typographic Poster\" visual style as the locked visual system.\n\nCreate a 16:9 image.\n\nSubject: a street dancer holding a chilled citrus can\nSubject action: jumping toward the lens from a sunlit court\nProduct or prop: neon citrus drink can with condensation\nLocation: outdoor basketball court below a blue sky\nBackground elements: low-angle pavement, motion blur, warped neon type, lens flare, and film grain\nMain text: BURST\nSecondary text: cold energy\nAccent symbol: electric pink underline\nWardrobe style: oversized windbreaker, sporty shorts, bright socks, and reflective sunglasses\n\nStyle direction:\nA dramatic outdoor editorial poster style combining low-angle lifestyle photography, oversized\nwarped neon typography, film grain, and high-energy youth-culture campaign design.\n\nKeep visible:\n- Preserve the core visual identity: A dramatic outdoor editorial poster style combining low-angle lifestyle photography, oversized warped neon typography, film grain, and high-energy youth-culture campaign design.\n- Use BACKGROUND_ELEMENTS to control secondary scene details, textures, signage, props, and environmental cues.\n- Use an extreme low-angle wide-angle camera perspective, as if the camera is near the ground looking upward.\n- Add oversized warped neon yellow typography using MAIN_TEXT.\n- The typography should wrap around the composition and sit behind or partially around the subject.\n\nAvoid:\nAvoid small typography, clean corporate layout, symmetrical centered poster design, flat vector\nillustration, pastel palette, luxury minimalism, soft studio lighting, plain white background,\nlow contrast, overly polished 3D render, generic stock photo, tiny subject, unreadable clutter,\nand text that covers the subject's key action or product.\n\nDo not copy source content, real logos, watermarks, platform UI, QR codes, or exact\nreference layouts. Keep the visual system, but change the subject, text, and scene.",
+     "desc": "",
+     "images": [
+      "assets/img_119.jpg"
+     ]
+    },
+    {
+     "title": "Create a premium high-fashion editorial po…",
+     "titleFull": "Create a premium high-fashion editorial poster for [BRAND NAME].\n\nTOPIC:\n[STREETWEAR / FASHION COLLECTION / EDITORIAL CAMPAIGN]\n\nSTYLE & ART DIRECTION:\n\nOversized typography editorial aesthetic\n\nMinimal futuristic fashion design\n\nKorean high-fashion poster influence\n\nLuxury streetwear branding\n\nAvant-garde magazine-cover atmosphere\n\nSoft monochromatic composition\n\nPinterest fashion-editorial aesthetic\n\nHigh-end commercial styling\n\nModern runway campaign design\n\nMinimal but bold visual hierarchy\n\nVogue-meets-streetwear atmosphere\n\nMAIN SUBJECT:\n\nA full-body fashion model prominently centered in the composition\n\nOversized luxury streetwear outfit\n\nFashion-forward silhouette and styling\n\nMinimal expressive pose\n\nElegant emotional neutrality\n\nRealistic luxury-fashion photography\n\nPremium editorial lighting\n\nModern runway attitude\n\nSoft futuristic mood\n\nClean symmetrical body positioning\n\nLAYOUT & COMPOSITION:\n\nSame exact editorial composition and hierarchy as the reference design\n\nMassive oversized typography placed behind the model\n\nTypography integrated into the composition as a graphic element\n\nStrong centered symmetry\n\nMinimal clean background\n\nSpacious luxury editorial layout\n\nMagazine-cover inspired balance\n\nMinimal distractions\n\nStrong visual focus on the fashion styling\n\nTEXT & TYPOGRAPHY:\n\nHuge bold geometric typography\n\nEditorial fashion font style\n\nOversized lettering occupying most of the background\n\nMinimal secondary micro typography\n\nLuxury magazine hierarchy\n\nMain title:\n\"[MAIN FASHION WORD]\"\n\nSupporting text:\n\"[COLLECTION / EDITORIAL SUBTITLE]\"\n\nDEPTH & LIGHTING:\n\nSoft editorial studio lighting\n\nLuxury fashion shadows\n\nSmooth pastel reflections\n\nMinimal contrast\n\nPremium commercial skin rendering\n\nHigh-end fashion atmosphere\n\nEXTRA DESIGN DETAILS:\n\nTiny editorial text blocks\n\nMagazine micro-details\n\nFashion-brand symbols\n\nMinimal graphic accents\n\nSoft texture overlays\n\nLuxury typography interaction\n\nEditorial spacing\n\nCOLOR PALETTE:\n\n[PRIMARY MONOCHROMATIC COLOR]\n\nSoft pastel tones\n\nWhite / cream highlights\n\nMinimal luxury contrast\n\nQUALITY:\n\nUltra realistic fashion photography\n\nPremium editorial poster design\n\nBehance-quality fashion campaign\n\nVogue-style streetwear composition\n\nSame exact visual identity and layout as the reference\n\nUltra high resolution",
+     "desc": "",
+     "images": [
+      "assets/img_120.jpg"
+     ]
+    },
+    {
+     "title": "Create a high-end fashion product advertis…",
+     "titleFull": "Create a high-end fashion product advertisement poster in portrait 4:5 ratio, clean minimal editorial style using a reference product image. Background is a warm off-white to light khaki gradient studio setup, very minimal, soft, airy, with subtle warm tones. Main product: an olive army green oversized waffle-knit long sleeve crewneck shirt, ghost-hung on a silver metal clothing rack stand with a visible clamp at the top-right. The shirt hangs naturally with slight drape, front-facing. On the center chest, include white puff embroidery text: “SVG” (first line with 3 small 4-point star inside the V), “STUDIOS W.I.P” (second line), “MOVEMENT THROUGH UNITY” (third line, slightly smaller), “SS26 - 29213” (fourth line, smallest). Add a small dark navy woven label patch on the right hem side seam and a visible dark navy neck tag at the collar. Typography: top center minimal brand logo “SVG STUDIOS” in olive green clean sans-serif, top-left italic cursive “Field” with a small dark olive rectangle badge below reading “edition” in white, behind the shirt place massive ultra-condensed olive green text “WAFFLE TEE” partially hidden and cut by the product, bleeding off edges. lower-left include handwritten “SVG” and large cursive “Studios” in olive tone. Bottom section features three diagonal detail strips: macro waffle-knit texture, closeup puff embroidery stitching, and closeup dark navy neck label, all with warm studio lighting. Between strips include small text “Built for movement, designed for unity. The SVG Studios WIP Waffle Longsleeve — SS26 Collection” Footer includes 4 small barcode at bottom-left, centered text “• WWW. SVGSTUDIOS. COM • • •” in spaced caps olive tone, and small text “MADE IN MALAYSIA • SS26 COLLECTION”. Color palette is olive army green, warm cream, and dark navy only. Overall style is clean editorial fashion lookbook, military-inspired streetwear campaign, soft diffused lighting, high contrast product focus, photorealistic, ultra detailed, 8K quality.",
+     "desc": "",
+     "images": [
+      "assets/img_121.jpg"
+     ]
+    },
+    {
+     "title": "UNIVERSAL CONCEPTUAL DRINK ADVERTISING MAS…",
+     "titleFull": "UNIVERSAL CONCEPTUAL DRINK ADVERTISING MASTER PROMPT\n\nACT AS:\nA Cannes Lions-winning conceptual advertising photographer, elite FMCG creative director, luxury still-life stylist, minimalist visual storyteller, and Apple-level commercial art director creating a world-class conceptual print campaign for a beverage brand.\nThe final image should feel like a fusion of:\n\n— Apple-level minimalist advertising\n— Cannes Lions conceptual print campaigns\n— high-end FMCG visual systems\n— premium billboard advertising\n— Dina Belenko-style object interaction\n— luxury still-life photography\n— iconic global beverage campaigns\n— emotionally intelligent visual storytelling\n— modern conceptual poster design\n\nThe image must feel:\nminimal, premium, intelligent, emotionally readable, physically believable, instantly understandable, and campaign-ready.\nNOT generic product photography.\nNOT cinematic AI wallpaper art.\nNOT splash-heavy beverage advertising.\nNOT cluttered compositions.\nNOT fantasy surrealism.\nNOT overdesigned social media graphics.\nNOT Behance-style visual overload.\nThis should look like a real campaign created by a top global creative agency.\nCORE CREATIVE PHILOSOPHY\nThe image must revolve around:\nONE instantly understandable visual metaphor.\nThe concept should be readable within:\n1–2 seconds.\nThe viewer should immediately understand:\nthe emotional effect of the product.\nThe product should not merely appear in the image.\n\nInstead:\nthe product itself must physically CREATE the concept.\nThe strongest concepts usually involve:\n\n— revealing\n— tearing\n— unzipping\n— cracking\n— freezing\n— opening\n— peeling\n— bending\n— splitting\n— transforming\n— interrupting\n— exposing\n— containing\nThe transformation must happen THROUGH the product —\nnot randomly around it.\nThe image should communicate:\nONE emotional truth,\nthrough ONE physical visual interruption.\nThe viewer’s first reaction should be:\n“Damn… that’s smart.”\nCONCEPT DEVELOPMENT SYSTEM\nBefore generating the image:\n\nIdentify the product’s emotional identity.\n\nExamples:\n\nSprite → cooling relief\nMirinda → fun interruption\nCoca-Cola → happiness inside\nMalta Guinness → strength within\nEnergy drink → explosive power\nCoffee → awakening\nJuice → real fruit purity\nChocolate → comfort and temptation\n\nThen:\ntransform THAT emotion into a physically integrated visual metaphor.\n\nThe strongest concepts usually follow this structure:\nPRODUCT\n\nONE PHYSICAL INTERRUPTION\n\nEMOTIONAL WORLD INSIDE\nExamples:\n\n— soda can opening into winter\n— juice bottle made from actual fruit\n— chocolate bar melting steel\n— energy drink tearing open lightning\n— coffee cup revealing sunrise\n— drink physically interrupting heat\n— happiness hidden inside packaging\n\nAvoid vague symbolism.\nAvoid concepts requiring explanation.\nAvoid decorative creativity.\nThe best conceptual advertising feels:\ninevitable.\nVISUAL EXECUTION STYLE\nThe image should feel:\nphotographed,\nnot illustrated.\nUse:\n— one dominant object\n— minimal supporting props\n— strong negative space\n— clean silhouette readability\n— graphic simplicity\n— elegant balance\n— centered or carefully asymmetrical framing\n— premium studio realism\nEverything must exist for a reason.\nNo decorative filler objects.\nThe concept itself should dominate the image.\nThe final result should resemble:\na real luxury billboard campaign photographed in studio.\nLIGHTING STYLE\nUse:\n— soft directional studio lighting\n— premium commercial reflections\n— tactile material realism\n— subtle gradients\n— controlled highlights\n— believable shadows\n— physically accurate textures\n\nLighting should feel:\nclean,\npremium,\nminimal,\nand art directed.\nAvoid:\n— cinematic fog\n— fantasy glow\n— dramatic VFX\n— overprocessed HDR\n— chaotic reflections\n— AI-style hyper-detail overload\n\nThe image should feel:\nphysically believable and commercially photographed.\nCOLOR PHILOSOPHY\nUse a tightly controlled palette.\n\nColors should feel:\nbrand-driven,\nminimal,\nintentional,\nand premium.\n\nPrefer:\n— monochromatic harmony\n— restrained saturation\n— clean background separation\n— strong product contrast\n— elegant gradients\n\nAvoid:\n— rainbow palettes\n— noisy environments\n— excessive color complexity\n\nBackgrounds should feel:\nminimal,\ngraphic,\nand billboard-ready.\n\nTYPOGRAPHY & COPY SYSTEM\n\nTypography should feel:\nrestrained,\npremium,\nand confident.\n\nUse:\n— small elegant copy\n— lots of breathing room\n— subtle hierarchy\n— premium sans-serif typography\n— Apple-like minimalism\nAvoid:\n— oversized poster typography\n— loud graphic layouts\n— explanatory headlines\n— cluttered text systems\nThe visual should work WITHOUT copy.\nCopy should only:\nsharpen the emotional punchline.\nGood conceptual copy examples:\n— “Open Cold.”\n— “Real Magic Is Inside.”\n— “Strength Starts Within.”\n— “Pause The Heat.”\n— “Fun Inside.”\n— “Freshness Within.”\n— “Open Happiness.”\nThe copy should complete the concept —\nnot explain it.\nEMOTIONAL GOAL\n\nThe image should create:\n— immediate visual pause\n— emotional recognition\n— admiration for the idea\n— desire for the product\n— billboard readability\n— premium campaign energy\n\nThe image should feel:\nsimple enough for mass audiences,\nsmart enough for creatives,\nand polished enough for luxury global brands.\n\nFINAL VISUAL QUALITY\nUltra photorealistic conceptual product photography.\nCannes Lions-worthy advertising realism.\n\nMinimalist conceptual campaign aesthetics.\n\nLuxury still-life execution.\nPhysically believable surrealism.\nGraphic advertising clarity.\nPremium commercial retouching.\nElegant studio realism.\nWorld-class FMCG campaign quality.\nAspect Ratio: 4:5\nUltra HD 8K\nStudio-quality realism\nGlobal campaign aesthetic\n\nFINAL CREATIVE FILTER\n\nBefore finalizing the image, ask:\n\nCan the idea be understood instantly?\n\nIs there only ONE dominant visual metaphor?\nDoes the product physically CREATE the concept?\n\nDoes the image feel photographed instead of AI-generated?\n\nIs the composition restrained enough?\nWould this still work on a billboard in 2 seconds?\nIs the concept emotionally tied to the product identity?\n\nDoes the image create a visual pause?\nIf not:\nsimplify further.\nThe strongest conceptual advertising feels:\nobvious,\nminimal,\nphysical,\nand emotionally inevitable.",
+     "desc": "",
+     "images": [
+      "assets/img_122.jpg"
+     ]
+    },
+    {
+     "title": "Editorial fashion poster with a model wear…",
+     "titleFull": "Editorial fashion poster with a model wearing an oversized reflective silver trench coat and geometric sunglasses standing against a smooth metallic gray background. Giant condensed serif typography reading 'STATIC' stretched vertically across the composition in deep charcoal. Minimal editorial microtext, clean luxury spacing, tiny abstract symbols, and sharp directional layout. High-fashion campaign aesthetic, monochrome palette with one accent color, modern art-direction style, bold typography-driven composition.",
+     "desc": "",
+     "images": []
+    },
+    {
+     "title": "Create a photorealistic premium product ca…",
+     "titleFull": "Create a photorealistic premium product campaign poster in a 4:5 vertical aspect ratio.\nProduct: [PRODUCT NAME]\nBrand style: [BRAND / PREMIUM / LUXURY / TECH / BEAUTY / FOOD / DRINK]\nMain subject: A confident model holding or presenting the product close to the camera, with the product in sharp focus and the model slightly behind it. Use a strong perspective angle so the product feels powerful, premium, and hero-like.",
+     "desc": "",
+     "images": [
+      "assets/img_123.jpg"
+     ]
+    }
+   ]
+  }
+ ]
+};
