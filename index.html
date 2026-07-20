@@ -12,57 +12,34 @@
 </head>
 <body>
 
-<!-- nav -->
-<nav class="nav">
-  <div class="brand">
-    <span class="brandPill">STYLE·LIB</span>
-    <span class="brandSub">风格资产库</span>
-  </div>
-  <span class="navMeta" id="navMeta">source · 飞书多维表格</span>
-</nav>
-
-<!-- hero -->
-<header class="hero">
-  <div class="heroText">
-    <span class="stamp"><i></i> ASSET LIBRARY · 风格参考库</span>
-    <h1>把灵感<br>收进一座<br>风格图书馆</h1>
-    <p class="lead">这里收录来自飞书《风格资产库自用 副本》的生图风格、Midjourney 风格、海报排版、自制风格、人物感与品牌产品参考。点击任意卡片即可查看效果参考与完整提示词，一键复制。</p>
-    <div class="actions">
-      <button class="btn primary" id="enterBtn">进入风格库 →</button>
-      <a class="btn secondry" href="#library" style="text-decoration:none">按分类浏览</a>
+<!-- app shell: topbar + left sidebar + right content -->
+<section class="library" id="library">
+  <header class="topbar">
+    <div class="libBrand">
+      <div class="brandPill">STYLE·LIB</div>
+      <span class="brandSub">风格资产库</span>
     </div>
-    <div class="introStats">
-      <div><b id="statCats">–</b><span>分类 CATEGORIES</span></div>
-      <div><b id="statItems">–</b><span>条目 ENTRIES</span></div>
-      <div><b id="statImgs">–</b><span>参考图 REFERENCES</span></div>
+    <label class="search">
+      <span style="font-family:var(--mono);color:var(--ink3)">⌕</span>
+      <input id="search" type="text" placeholder="搜索风格名 / 提示词 / 模型 / 备注…" autocomplete="off">
+    </label>
+    <div class="libActions"><span class="navMeta" id="navMeta">source · 飞书多维表格</span></div>
+  </header>
+
+  <aside class="side">
+    <p class="sideLabel">分类 CATEGORIES</p>
+    <div id="catList"></div>
+  </aside>
+
+  <section class="content">
+    <div class="contentHead">
+      <h2 id="listTitle">全部风格</h2>
+      <p id="listSub"></p>
     </div>
-  </div>
-  <div class="collage" id="collage"></div>
-</header>
-
-<!-- toolbar -->
-<div class="toolbar" id="library">
-  <label class="search">
-    <span style="font-family:var(--mono);color:var(--ink3)">⌕</span>
-    <input id="search" type="text" placeholder="搜索风格名 / 提示词 / 模型 / 备注…" autocomplete="off">
-  </label>
-  <div class="chips" id="chips"></div>
-</div>
-
-<!-- content -->
-<main class="wrap">
-  <div class="sectionHead">
-    <h2 id="secTitle">全部风格</h2>
-    <p id="secDesc">收录自飞书多维表格，持续整理的风格与提示词参考。</p>
-  </div>
-  <div class="grid" id="grid"></div>
-  <div class="empty" id="empty" style="display:none">没有符合条件的条目，试试放宽筛选条件 🔍</div>
-</main>
-
-<footer>
-  <div>来源：<b id="footSource">飞书多维表格《风格资产库自用 副本》</b></div>
-  <div>本页为静态风格库 · 图片经压缩以适配网页</div>
-</footer>
+    <div class="grid" id="grid"></div>
+    <div class="empty" id="empty" style="display:none">没有符合条件的条目，试试放宽筛选条件 🔍</div>
+  </section>
+</section>
 
 <!-- modal -->
 <div class="modal" id="modal">
