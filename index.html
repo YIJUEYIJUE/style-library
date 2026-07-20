@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>风格资产库 · Style Asset Library</title>
+<meta name="description" content="由飞书多维表格《风格资产库自用 副本》生成的风格库网页，收录生图风格、MJ 风格、海报排版、自制风格、人物感、品牌产品等参考。">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;700;800&family=Noto+Serif+SC:wght@500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<!-- nav -->
+<nav class="nav">
+  <div class="brand">
+    <span class="brandPill">STYLE·LIB</span>
+    <span class="brandSub">风格资产库</span>
+  </div>
+  <span class="navMeta" id="navMeta">source · 飞书多维表格</span>
+</nav>
+
+<!-- hero -->
+<header class="hero">
+  <div class="heroText">
+    <span class="stamp"><i></i> ASSET LIBRARY · 风格参考库</span>
+    <h1>把灵感<br>收进一座<br>风格图书馆</h1>
+    <p class="lead">这里收录来自飞书《风格资产库自用 副本》的生图风格、Midjourney 风格、海报排版、自制风格、人物感与品牌产品参考。点击任意卡片即可查看效果参考与完整提示词，一键复制。</p>
+    <div class="actions">
+      <button class="btn primary" id="enterBtn">进入风格库 →</button>
+      <a class="btn secondry" href="#library" style="text-decoration:none">按分类浏览</a>
+    </div>
+    <div class="introStats">
+      <div><b id="statCats">–</b><span>分类 CATEGORIES</span></div>
+      <div><b id="statItems">–</b><span>条目 ENTRIES</span></div>
+      <div><b id="statImgs">–</b><span>参考图 REFERENCES</span></div>
+    </div>
+  </div>
+  <div class="collage" id="collage"></div>
+</header>
+
+<!-- toolbar -->
+<div class="toolbar" id="library">
+  <label class="search">
+    <span style="font-family:var(--mono);color:var(--ink3)">⌕</span>
+    <input id="search" type="text" placeholder="搜索风格名 / 提示词 / 模型 / 备注…" autocomplete="off">
+  </label>
+  <div class="chips" id="chips"></div>
+</div>
+
+<!-- content -->
+<main class="wrap">
+  <div class="sectionHead">
+    <h2 id="secTitle">全部风格</h2>
+    <p id="secDesc">收录自飞书多维表格，持续整理的风格与提示词参考。</p>
+  </div>
+  <div class="grid" id="grid"></div>
+</main>
+
+<footer>
+  <div>来源：<b id="footSource">飞书多维表格《风格资产库自用 副本》</b></div>
+  <div>本页为静态风格库 · 图片经压缩以适配网页</div>
+</footer>
+
+<!-- modal -->
+<div class="modal" id="modal">
+  <div class="modalCard">
+    <button class="close" id="mClose">×</button>
+    <div class="modalMedia">
+      <div class="gallery">
+        <button class="gnav prev" id="gPrev">‹</button>
+        <img id="gImg" src="" alt="">
+        <button class="gnav next" id="gNext">›</button>
+        <span class="gcount" id="gCount"></span>
+      </div>
+      <div class="thumbs" id="thumbs"></div>
+    </div>
+    <div class="modalInfo">
+      <div class="kicker" id="mCat">CATEGORY</div>
+      <h2 id="mTitle">标题</h2>
+      <div class="specs" id="mSpecs"></div>
+      <div class="promptTitle">
+        <span>提示词 / 说明 PROMPT</span>
+        <button class="copy" id="mCopy">⧉ 复制</button>
+      </div>
+      <div class="promptBox" id="mPrompt"></div>
+      <div class="notice" id="mNotice"></div>
+    </div>
+  </div>
+</div>
+
+<div class="toast" id="toast">已复制 ✓</div>
+
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
