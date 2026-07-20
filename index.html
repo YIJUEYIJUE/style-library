@@ -23,7 +23,7 @@
       <span style="font-family:var(--mono);color:var(--ink3)">⌕</span>
       <input id="search" type="text" placeholder="搜索风格名 / 提示词 / 模型 / 备注…" autocomplete="off">
     </label>
-    <div class="libActions"><span class="navMeta" id="navMeta">source · 飞书多维表格</span></div>
+    <div class="libActions"><span class="libStat" id="libStat"></span></div>
   </header>
 
   <aside class="side">
@@ -33,7 +33,10 @@
 
   <section class="content">
     <div class="contentHead">
-      <h2 id="listTitle">全部风格</h2>
+      <div class="ch">
+        <span class="kicker" id="listKicker">STYLE ASSET LIBRARY</span>
+        <h2 id="listTitle">全部风格</h2>
+      </div>
       <p id="listSub"></p>
     </div>
     <div class="grid" id="grid"></div>
