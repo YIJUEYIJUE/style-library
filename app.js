@@ -6,7 +6,7 @@
   const $$ = s => Array.from(document.querySelectorAll(s));
   function esc(s){return String(s==null?'':s).replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]));}
 
-  // flatten
+  // flatten categories -> items
   const items = [];
   cats.forEach(c=>{
     (c.items||[]).forEach(it=>{
@@ -21,41 +21,21 @@
     });
   });
   const imgCount = items.reduce((n,it)=>n+it.images.length,0);
-
   const state = {cat:'ALL', q:''};
 
-  // ---------- stats + meta ----------
+  // ---------- meta ----------
   $('#navMeta').textContent = 'source · ' + (DATA.source||'飞书多维表格');
-  $('#footSource').textContent = DATA.source||'飞书多维表格《风格资产库自用 副本》';
-  $('#statCats').textContent = cats.length;
-  $('#statItems').textContent = items.length;
-  $('#statImgs').textContent = imgCount;
 
-  // ---------- collage ----------
-  (function buildCollage(){
-    const pool = items.filter(i=>i.images.length);
-    const pick = pool.slice().sort(()=>Math.random()-0.5).slice(0, 10);
-    const positions = [
-      [60,12,-7],[78,18,5],[66,52,3],[82,55,-4],[50,48,6],
-      [70,80,-3],[58,30,4],[84,33,-6],[63,68,2],[76,72,5]
-    ];
-    $('#collage').innerHTML = pick.map((it,idx)=>{
-      const p = positions[idx%positions.length];
-      const delay = (-idx*0.7).toFixed(1);
-      return `<div class="collageCard" style="left:${p[0]}%;top:${p[1]}%;transform:rotate(${p[2]}deg);animation-delay:${delay}s">
-        <img loading="lazy" src="${esc(it.images[0])}" alt="">
-        <b>${esc(it.title.slice(0,22))}</b>
-      </div>`;
-    }).join('');
-  })();
-
-  // ---------- chips ----------
-  function buildChips(){
+  // ---------- sidebar category list ----------
+  function buildCats(){
     const counts = {ALL:items.length};
     cats.forEach(c=>counts[c.key]=(c.items||[]).length);
-    const all = [{k:'ALL',n:'全部'}].concat(cats.map(c=>({k:c.key,n:c.name})));
-    $('#chips').innerHTML = all.map(c=>
-      `<button class="chip ${state.cat===c.k?'active':''}" data-cat="${esc(c.k)}">${esc(c.n)}<span class="n">${counts[c.k]||0}</span></button>`
+    const all = [{k:'ALL',n:'全部风格'}].concat(cats.map(c=>({k:c.key,n:c.name})));
+    $('#catList').innerHTML = all.map(c=>
+      `<button class="cat ${state.cat===c.k?'active':''}" data-cat="${esc(c.k)}">
+        <b>${esc(c.n)}</b>
+        <i>${counts[c.k]||0}</i>
+      </button>`
     ).join('');
   }
 
@@ -71,8 +51,9 @@
   }
   function renderGrid(){
     const list = items.filter(matches);
-    $('#secTitle').textContent = state.cat==='ALL' ? '全部风格' : (cats.find(c=>c.key===state.cat)||{}).name || '风格';
-    $('#secDesc').textContent = `${list.length} 条结果` + (state.q?` · 搜索「${state.q}」`:'');
+    const catName = state.cat==='ALL' ? '全部风格' : (cats.find(c=>c.key===state.cat)||{}).name || '风格';
+    $('#listTitle').textContent = catName;
+    $('#listSub').textContent = `${list.length} 条结果` + (state.q?` · 搜索「${state.q}」`:' · 共 '+items.length+' 条');
     if(!list.length){ $('#grid').innerHTML=''; $('#empty').style.display='block'; return; }
     $('#empty').style.display='none';
     $('#grid').innerHTML = list.map((it,idx)=>{
@@ -123,9 +104,8 @@
   function closeModal(){ $('#modal').classList.remove('show'); document.body.style.overflow=''; cur=null; }
 
   // ---------- events ----------
-  $('#enterBtn').onclick = ()=> $('#library').scrollIntoView({behavior:'smooth'});
   $('#search').oninput = e=>{ state.q=e.target.value; renderGrid(); };
-  $('#chips').onclick = e=>{ const b=e.target.closest('.chip'); if(!b) return; state.cat=b.dataset.cat; buildChips(); renderGrid(); };
+  $('#catList').onclick = e=>{ const b=e.target.closest('.cat'); if(!b) return; state.cat=b.dataset.cat; buildCats(); renderGrid(); };
   $('#grid').onclick = e=>{ const c=e.target.closest('.card'); if(c) openModal(+c.dataset.id); };
   $('#mClose').onclick = closeModal;
   $('#modal').onclick = e=>{ if(e.target.id==='modal') closeModal(); };
@@ -142,7 +122,7 @@
   document.addEventListener('keydown',e=>{ if(e.key==='Escape') closeModal(); if(e.key==='ArrowLeft'&&$('#modal').classList.contains('show')) step(-1); if(e.key==='ArrowRight'&&$('#modal').classList.contains('show')) step(1); });
 
   // ---------- init ----------
-  buildChips();
+  buildCats();
   renderGrid();
   console.log('Style Library loaded:', cats.length,'categories,',items.length,'items,',imgCount,'images');
 })();
